@@ -7,4 +7,4 @@ Team Members - Thao Nguyen, John Okoniewski, Vivian Pavlica, Ben Ramsey, Gregory
 [[Watch the proposal video](https://youtu.be/0gkptmWfgPM)]
 
 
-[<img src="https://img.youtube.com/vi/0gkptmWfgPM/maxresdefault.jpg" width="30%">]
+<img src="https://img.youtube.com/vi/0gkptmWfgPM/maxresdefault.jpg" width="30%">
