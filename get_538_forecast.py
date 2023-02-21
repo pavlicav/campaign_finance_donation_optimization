@@ -10,7 +10,8 @@ datas = pd.read_csv("https://projects.fivethirtyeight.com/2022-general-election-
 
 
 # Filter to latest forecast date and choose lite model
-latest_date = max(pd.to_datetime(datas.forecastdate.unique()))
+datas.forecastdate = pd.to_datetime(datas.forecastdate)
+latest_date = max(datas.forecastdate.unique())
 datas = datas.query('forecastdate == @latest_date').query('expression == "_lite"')
 print("Getting latest forecast data from 538...\nForecast date: {}".format(latest_date))
 
