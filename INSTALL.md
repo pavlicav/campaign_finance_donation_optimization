@@ -24,18 +24,18 @@ Install the dependencies and this app in the correct order:
 
 Then, start your app with 
 
-  
-
-    python service/streamlitapp.py 
-
-  
-
-If you want to specify your own root config file, you can use 
-
-  
-
-    APP_CONFIG=path/to/rootcfg.py python service/ streamlitapp.py
+ 
+    Open Terminal and enter the following commands:
     
+    1.) cd to the campaign_finance_donation_optimization folder within your local path
+    cd /campaign_finance_donation_optimization 
+    2.) intialize streamlit app
+    streamlit run streamlitapp.py 
+
+  
+Or:
+  Go to the following site:
+  https://ramseybe-hackathon-campaign-main-xj9dxx.streamlit.app/
     
     
 INSTALL.md modeled after 
