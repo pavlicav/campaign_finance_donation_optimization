@@ -19,20 +19,20 @@ The dataset that is being used to build the application includes information of 
  0 = stricter gun control <br />
  1 = easy access to guns <br />
 
-healthcare: 
-  0 = private healthcare
-  1 = goverment sponsored healthcare
+**healthcare:** <br /> 
+  0 = private healthcare <br />
+  1 = goverment sponsored healthcare <br />
 
-abortion:
-  0 = pro-life 
-  1 = pro-choice
+**abortion:**
+  0 = pro-life <br /> 
+  1 = pro-choice <br />
 
-climate_change:
-  0 = do not support imposing taxes of carbon emissions 
-  1 = support imposing taxes on carbon emissions
+**climate_change:** <br />
+  0 = do not support imposing taxes of carbon emissions <br />
+  1 = support imposing taxes on carbon emissions <br />
 
-immigration_daca: 
-  0 = support requiring unlawful immigrants to return to country of origin 
-  1 = does not support requiring unlawful immigrants to return to country of origin
+**immigration_daca:** <br />
+  0 = support requiring unlawful immigrants to return to country of origin <br />
+  1 = does not support requiring unlawful immigrants to return to country of origin <br />
 
 For candidates who do not have stances on any of the above ideologies or information could not be found, the values are -1 for each corresponding candidates and ideologies.
