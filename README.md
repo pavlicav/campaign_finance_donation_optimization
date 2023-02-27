@@ -16,23 +16,23 @@ This repository includes thr group's Intellectual Property (IP) Agreement which 
 The dataset that is being used to build the application includes information of the top 50 closest races between House of Repsentatives candidates during the race in 2022 with 100 rows and 9 columns. The columns specifies information about the candidates' last names, their party, the districts they ran in, and predicted win percentage from FiveThirtyEight in 2022. Additionally, the dataset also includes information on ideology that corresponds with each candidates and their stances. The values for each ideology is as follow:
 
 gun_control: 
-0 = stricter gun control
+0 = stricter gun control \n
 1 = easy access to guns
 
 healthcare: 
-0 = private healthcare
+0 = private healthcare \n
 1 = goverment sponsored healthcare
 
 abortion:
-0 = pro-life
+0 = pro-life \n
 1 = pro-choice
 
 climate_change:
-0 = do not support imposing taxes of carbon emissions
+0 = do not support imposing taxes of carbon emissions \n
 1 = support imposing taxes on carbon emissions
 
 immigration_daca: 
-0 = support requiring unlawful immigrants to return to country of origin
+0 = support requiring unlawful immigrants to return to country of origin \n
 1 = does not support requiring unlawful immigrants to return to country of origin
 
 For candidates who do not have stances on any of the above ideologies or information could not be found, the values are -1 for each corresponding candidates and ideologies.
