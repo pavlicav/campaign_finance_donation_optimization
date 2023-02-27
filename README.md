@@ -16,6 +16,7 @@ The purpose of the application is to allow users of the website to be able to se
 This repository includes the group's Intellectual Property (IP) Agreement which specifies the distribution of rights to the Olsen Finance Application. 
 
 ## Dataset
+https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2022
 The dataset that is being used to build the application includes information of the top 50 closest races between House of Repsentatives candidates during the race in 2022 with 100 rows and 9 columns. The columns specifies information about the candidates' last names, their party, the districts they ran in, and predicted win percentage from FiveThirtyEight in 2022. Additionally, the dataset also includes information on ideology that corresponds with each candidates and their stances. The values for each ideology is as follow:
 
 **gun_control:** <br />
