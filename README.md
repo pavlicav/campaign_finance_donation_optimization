@@ -9,10 +9,13 @@ Team Members - Thao Nguyen, John Okoniewski, Vivian Pavlica, Ben Ramsey, Gregory
 
 <img src="https://img.youtube.com/vi/0gkptmWfgPM/maxresdefault.jpg" width="30%">
 
+## Objective
 The purpose of the application is to allow users of the website to be able to select political issues that are important to them and match with candidates that could benefit the most from their donation.
 
-This repository includes thr group's Intellectual Property (IP) Agreement which specifies the distribution of rights to the Olsen Finance Application. 
+## IP Agreement
+This repository includes the group's Intellectual Property (IP) Agreement which specifies the distribution of rights to the Olsen Finance Application. 
 
+## Dataset
 The dataset that is being used to build the application includes information of the top 50 closest races between House of Repsentatives candidates during the race in 2022 with 100 rows and 9 columns. The columns specifies information about the candidates' last names, their party, the districts they ran in, and predicted win percentage from FiveThirtyEight in 2022. Additionally, the dataset also includes information on ideology that corresponds with each candidates and their stances. The values for each ideology is as follow:
 
 **gun_control:** <br />
