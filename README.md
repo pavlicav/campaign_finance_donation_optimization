@@ -15,9 +15,9 @@ This repository includes thr group's Intellectual Property (IP) Agreement which 
 
 The dataset that is being used to build the application includes information of the top 50 closest races between House of Repsentatives candidates during the race in 2022 with 100 rows and 9 columns. The columns specifies information about the candidates' last names, their party, the districts they ran in, and predicted win percentage from FiveThirtyEight in 2022. Additionally, the dataset also includes information on ideology that corresponds with each candidates and their stances. The values for each ideology is as follow:
 
-gun_control: 
-  0 = stricter gun control
-  1 = easy access to guns
+**gun_control:** <br />
+ 0 = stricter gun control <br />
+ 1 = easy access to guns <br />
 
 healthcare: 
   0 = private healthcare
