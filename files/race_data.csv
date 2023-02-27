@@ -1,0 +1,401 @@
+,cycle,branch,district,forecastdate,name_D1,name_R1,winner_D1,winner_R1,tipping,timestamp
+0,2022,House,WY-1,11/8/22,Lynnette GreyBull,Harriet Hageman,0.000825,0.999175,2.5e-05,00:12:39  8 Nov 2022
+1,2022,House,WV-2,11/8/22,Barry Lee Wendell,Alexander X. Mooney,0.0005,0.9995,2.5e-05,00:12:39  8 Nov 2022
+2,2022,House,WV-1,11/8/22,Lacy Watson,Carol Miller,0.000725,0.999275,3.75e-05,00:12:39  8 Nov 2022
+4,2022,House,WI-7,11/8/22,Richard Dick Ausman,Tom Tiffany,0.006075,0.993925,0.000375,00:12:39  8 Nov 2022
+6,2022,House,WI-5,11/8/22,Mike Van Someren,Scott Fitzgerald,0.0016,0.9984,7.5e-05,00:12:39  8 Nov 2022
+7,2022,House,WI-4,11/8/22,Gwen Moore,Tim Rogers,0.999875,0.000125,0.0,00:12:39  8 Nov 2022
+8,2022,House,WI-3,11/8/22,Brad Pfaff,Derrick Van Orden,0.1191,0.8809,0.008125,00:12:39  8 Nov 2022
+9,2022,House,WI-2,11/8/22,Mark Pocan,Erik Olsen,0.99985,0.00015,1.25e-05,00:12:39  8 Nov 2022
+10,2022,House,WI-1,11/8/22,Ann Roe,Bryan Steil,0.055925,0.944075,0.00345,00:12:39  8 Nov 2022
+11,2022,House,WA-9,11/8/22,Adam Smith,Doug Basler,0.99965,0.00035,0.0,00:12:39  8 Nov 2022
+12,2022,House,WA-8,11/8/22,Kim Schrier,Matt Larkin,0.695575,0.304425,0.0083875,00:12:39  8 Nov 2022
+13,2022,House,WA-7,11/8/22,Pramila Jayapal,Cliff Moon,1.0,0.0,0.0,00:12:39  8 Nov 2022
+14,2022,House,WA-6,11/8/22,Derek Kilmer,Elizabeth Kreiselmaier,0.961125,0.038875,0.00095,00:12:39  8 Nov 2022
+15,2022,House,WA-5,11/8/22,Natasha Hill,Cathy McMorris Rodgers,0.016975,0.983025,0.000975,00:12:39  8 Nov 2022
+16,2022,House,WA-4,11/8/22,Doug White,Dan Newhouse,0.004025,0.995975,0.0001875,00:12:39  8 Nov 2022
+17,2022,House,WA-3,11/8/22,Marie Gluesenkamp Perez,Joe Kent,0.1529,0.8471,0.012775,00:12:39  8 Nov 2022
+18,2022,House,WA-2,11/8/22,Rick Larsen,Dan Matthews,0.983325,0.016675,0.0002625,00:12:39  8 Nov 2022
+19,2022,House,WA-1,11/8/22,Suzan DelBene,Vincent J. Cavaleri,0.9935,0.0065,0.0001375,00:12:39  8 Nov 2022
+20,2022,House,WA-10,11/8/22,Marilyn Strickland,Keith R. Swank,0.9467,0.0533,0.00105,00:12:39  8 Nov 2022
+21,2022,House,VT-1,11/8/22,Becca Balint,Liam Madden,0.99945,0.00055,0.0,00:12:39  8 Nov 2022
+22,2022,House,VA-9,11/8/22,Taysha Lee DeVaughan,H. Morgan Griffith,0.000125,0.999875,0.0,00:12:39  8 Nov 2022
+23,2022,House,VA-8,11/8/22,Donald S. Beyer Jr.,Karina A. Lipsman,0.99995,5e-05,1.25e-05,00:12:39  8 Nov 2022
+24,2022,House,VA-7,11/8/22,Abigail A. Spanberger,Yesli I. Vega,0.651725,0.348275,0.0105875,00:12:39  8 Nov 2022
+25,2022,House,VA-6,11/8/22,Jennifer Lynn Lewis,Ben L. Cline,0.0012,0.9988,8.75e-05,00:12:39  8 Nov 2022
+26,2022,House,VA-5,11/8/22,Joshua M. Throneburg,Robert G. “Bob” Good,0.0188,0.9812,0.00125,00:12:39  8 Nov 2022
+27,2022,House,VA-4,11/8/22,A. Donald McEachin,Leon Benjamin Sr.,0.9994,0.0006,0.0,00:12:39  8 Nov 2022
+28,2022,House,VA-3,11/8/22,Robert C. “Bobby” Scott,Terry T. Namkung,0.999125,0.000875,2.5e-05,00:12:39  8 Nov 2022
+29,2022,House,VA-2,11/8/22,Elaine G. Luria,Jen A. Kiggans,0.56575,0.43425,0.0130375,00:12:39  8 Nov 2022
+30,2022,House,VA-1,11/8/22,Herbert C. “Herb” Jones Jr.,Rob J. Wittman,0.015925,0.984075,0.0009,00:12:39  8 Nov 2022
+31,2022,House,VA-11,11/8/22,Gerald E. “Gerry” Connolly,James G. “Jim” Myles,0.9985,0.0015,3.75e-05,00:12:39  8 Nov 2022
+32,2022,House,VA-10,11/8/22,Jennifer T. Wexton,Hung Cao,0.79255,0.20745,0.0050625,00:12:39  8 Nov 2022
+33,2022,House,UT-4,11/8/22,Darlene McDonald,Burgess Owens,0.00585,0.99415,0.0003125,00:12:39  8 Nov 2022
+34,2022,House,UT-3,11/8/22,Glenn J. Wright,John Curtis,0.00885,0.99115,0.0005875,00:12:39  8 Nov 2022
+35,2022,House,UT-2,11/8/22,Nick Mitchell,Chris Stewart,0.013725,0.986275,0.0009,00:12:39  8 Nov 2022
+36,2022,House,UT-1,11/8/22,Rick Edwin Jones,Blake D. Moore,0.00515,0.99485,0.0004375,00:12:39  8 Nov 2022
+37,2022,House,TX-9,11/8/22,Al Green,Jimmy I. Leon,0.999875,0.000125,1.25e-05,00:12:39  8 Nov 2022
+38,2022,House,TX-8,11/8/22,Laura Jones,Morgan Luttrell,0.00795,0.99205,0.00035,00:12:39  8 Nov 2022
+39,2022,House,TX-7,11/8/22,Lizzie Fletcher,Johnny Teague,0.994125,0.005875,3.75e-05,00:12:39  8 Nov 2022
+41,2022,House,TX-5,11/8/22,Tartisha Hill,Lance Gooden,0.0012,0.9988,7.5e-05,00:12:39  8 Nov 2022
+42,2022,House,TX-4,11/8/22,Iro Omere,Pat Fallon,0.001,0.9990000000000001,5e-05,00:12:39  8 Nov 2022
+43,2022,House,TX-38,11/8/22,Duncan F. Klussmann,Wesley Hunt,0.006775,0.9932,0.0003625,00:12:39  8 Nov 2022
+44,2022,House,TX-37,11/8/22,Lloyd Doggett,Jenny Garcia Sharon,1.0,0.0,0.0,00:12:39  8 Nov 2022
+45,2022,House,TX-36,11/8/22,Jon Haire,Brian Babin,0.000275,0.999725,1.25e-05,00:12:39  8 Nov 2022
+46,2022,House,TX-35,11/8/22,Greg Casar,Dan McQueen,0.997325,0.002675,2.5e-05,00:12:39  8 Nov 2022
+47,2022,House,TX-34,11/8/22,Vicente Gonzalez,Mayra Flores,0.736425,0.263525,0.006425,00:12:39  8 Nov 2022
+48,2022,House,TX-33,11/8/22,Marc Veasey,Patrick David Gillespie,0.999675,0.000325,0.0,00:12:39  8 Nov 2022
+49,2022,House,TX-32,11/8/22,Colin Allred,Antonio Swad,0.995725,0.004275,8.75e-05,00:12:39  8 Nov 2022
+50,2022,House,TX-3,11/8/22,Sandeep Srivastava,Keith Self,0.014525,0.985475,0.00075,00:12:39  8 Nov 2022
+52,2022,House,TX-30,11/8/22,Jasmine Crockett,James Rodgers,0.999775,0.000225,0.0,00:12:39  8 Nov 2022
+53,2022,House,TX-29,11/8/22,Sylvia Garcia,Robert Schafranek,0.9987,0.0013,1.25e-05,00:12:39  8 Nov 2022
+54,2022,House,TX-28,11/8/22,Henry Cuellar,Cassy Garcia,0.870875,0.129125,0.0027,00:12:39  8 Nov 2022
+55,2022,House,TX-27,11/8/22,Maclovio Perez Jr.,Michael Cloud,0.001325,0.998675,5e-05,00:12:39  8 Nov 2022
+58,2022,House,TX-24,11/8/22,Jan McDowell,Beth Van Duyne,0.00255,0.99745,8.75e-05,00:12:39  8 Nov 2022
+59,2022,House,TX-23,11/8/22,John Lira,Tony Gonzales,0.0342,0.9658,0.0022875,00:12:39  8 Nov 2022
+60,2022,House,TX-22,11/8/22,Jamie Kaye Jordan,Troy E. Nehls,0.001825,0.998175,0.0001625,00:12:39  8 Nov 2022
+61,2022,House,TX-2,11/8/22,Robin Fulford,Dan Crenshaw,0.000625,0.999375,2.5e-05,00:12:39  8 Nov 2022
+62,2022,House,TX-21,11/8/22,Claudia Andreana Zapata,Chip Roy,0.001725,0.998275,0.0001125,00:12:39  8 Nov 2022
+63,2022,House,TX-20,11/8/22,Joaquin Castro,Kyle Sinclair,0.9958,0.0042,6.25e-05,00:12:39  8 Nov 2022
+65,2022,House,TX-18,11/8/22,Sheila Jackson Lee,Carmen Maria Montiel,0.99975,0.00025,1.25e-05,00:12:39  8 Nov 2022
+66,2022,House,TX-17,11/8/22,Mary Jo Woods,Pete Sessions,0.001675,0.998325,8.75e-05,00:12:39  8 Nov 2022
+67,2022,House,TX-16,11/8/22,Veronica Escobar,Irene Armendariz-Jackson,0.998225,0.001775,0.0,00:12:39  8 Nov 2022
+68,2022,House,TX-15,11/8/22,Michelle Vallejo,Monica De La Cruz,0.36065,0.639275,0.012275,00:12:39  8 Nov 2022
+69,2022,House,TX-14,11/8/22,Mikal Williams,Randy Weber,0.000325,0.999675,1.25e-05,00:12:39  8 Nov 2022
+70,2022,House,TX-13,11/8/22,Kathleen Brown,Ronny Jackson,0.0001,0.9999,1.25e-05,00:12:39  8 Nov 2022
+71,2022,House,TX-12,11/8/22,Trey J. Hunt,Kay Granger,0.00165,0.99835,0.0001625,00:12:39  8 Nov 2022
+72,2022,House,TX-1,11/8/22,Jrmar “JJ” Jefferson,Nathaniel Moran,0.0002,0.9998,3.75e-05,00:12:39  8 Nov 2022
+74,2022,House,TX-10,11/8/22,Linda Nuno,Michael McCaul,0.002975,0.997025,0.0001875,00:12:39  8 Nov 2022
+75,2022,House,TN-9,11/8/22,Steve Cohen,Charlotte Bergmann,0.99975,0.00025,0.0,00:12:39  8 Nov 2022
+76,2022,House,TN-8,11/8/22,Lynnette P. Williams,David Kustoff,5e-05,0.99995,1.25e-05,00:12:39  8 Nov 2022
+77,2022,House,TN-7,11/8/22,Odessa Kelly,Mark E. Green,0.004825,0.99515,0.0002625,00:12:39  8 Nov 2022
+78,2022,House,TN-6,11/8/22,Randal Cooper,John Rose,0.000475,0.999525,5e-05,00:12:39  8 Nov 2022
+79,2022,House,TN-5,11/8/22,Heidi Campbell,Andy Ogles,0.236925,0.763075,0.013000000000000001,00:12:39  8 Nov 2022
+80,2022,House,TN-4,11/8/22,Wayne Steele,Scott DesJarlais,0.00015,0.99985,0.0,00:12:39  8 Nov 2022
+81,2022,House,TN-3,11/8/22,Meg Gorman,Chuck Fleischmann,0.000275,0.999725,1.25e-05,00:12:39  8 Nov 2022
+82,2022,House,TN-2,11/8/22,Mark Harmon,Tim Burchett,0.0004,0.9996,5e-05,00:12:39  8 Nov 2022
+83,2022,House,TN-1,11/8/22,Cameron Parsons,Diana Lynn Harshbarger,2.5e-05,0.999975,0.0,00:12:39  8 Nov 2022
+85,2022,House,SC-7,11/8/22,Daryl W. Scott,Russell Fry,0.01575,0.98425,0.0009625,00:12:39  8 Nov 2022
+86,2022,House,SC-6,11/8/22,James E. “Jim” Clyburn,Duke Buckner,0.998275,0.001725,2.5e-05,00:12:39  8 Nov 2022
+87,2022,House,SC-5,11/8/22,Evangeline Hundley,Ralph Norman,0.00195,0.998025,0.0001125,00:12:39  8 Nov 2022
+90,2022,House,SC-2,11/8/22,Judd Larkins,Joe Wilson,0.00695,0.99305,0.0004125,00:12:39  8 Nov 2022
+91,2022,House,SC-1,11/8/22,Annie Andrews,Nancy Mace,0.0103,0.9897,0.0007125,00:12:39  8 Nov 2022
+92,2022,House,RI-2,11/8/22,Seth M. Magaziner,Allan W. Fung,0.172325,0.82765,0.0114,00:12:39  8 Nov 2022
+93,2022,House,RI-1,11/8/22,David N. Cicilline,Allen R. Waters,0.9983,0.0017,2.5e-05,00:12:39  8 Nov 2022
+94,2022,House,PA-9,11/8/22,Amanda R. Waldman,Dan Meuser,5e-05,0.99995,0.0,00:12:39  8 Nov 2022
+95,2022,House,PA-8,11/8/22,Matt Cartwright,Jim Bognet,0.681575,0.318425,0.0096875,00:12:39  8 Nov 2022
+96,2022,House,PA-7,11/8/22,Susan Wild,Lisa Scheller,0.463475,0.536525,0.01595,00:12:39  8 Nov 2022
+97,2022,House,PA-6,11/8/22,Chrissy Houlahan,Guy Louis Ciarrocchi,0.942625,0.057375,0.0009875,00:12:39  8 Nov 2022
+98,2022,House,PA-5,11/8/22,Mary Gay Scanlon,David Galluch,0.998525,0.001475,0.0,00:12:39  8 Nov 2022
+99,2022,House,PA-4,11/8/22,Madeleine Dean,Christian Nascimento,0.977675,0.022325,0.0005,00:12:39  8 Nov 2022
+101,2022,House,PA-2,11/8/22,Brendan F. Boyle,Aaron Bashir,0.9998,0.0002,0.0,00:12:39  8 Nov 2022
+102,2022,House,PA-17,11/8/22,Chris Deluzio,Jeremy Shaffer,0.48525,0.51475,0.0148875,00:12:39  8 Nov 2022
+103,2022,House,PA-16,11/8/22,Dan Pastore,Mike Kelly,0.003925,0.996075,0.000225,00:12:39  8 Nov 2022
+104,2022,House,PA-15,11/8/22,Michael Molesevich,Glenn “GT” Thompson,0.000325,0.999675,1.25e-05,00:12:39  8 Nov 2022
+107,2022,House,PA-12,11/8/22,Summer Lee,Mike Doyle,0.91345,0.08655,0.0019625,00:12:39  8 Nov 2022
+108,2022,House,PA-1,11/8/22,Ashley Ehasz,Brian Fitzpatrick,0.078075,0.921925,0.0058125,00:12:39  8 Nov 2022
+109,2022,House,PA-11,11/8/22,Bob Hollister,Lloyd K. Smucker,0.00205,0.99795,0.0001375,00:12:39  8 Nov 2022
+110,2022,House,PA-10,11/8/22,Shamaine Daniels,Scott Perry,0.227075,0.772925,0.012175,00:12:39  8 Nov 2022
+111,2022,House,OR-6,11/8/22,Andrea Salinas,Mike Erickson,0.318225,0.68175,0.0170625,00:12:39  8 Nov 2022
+112,2022,House,OR-5,11/8/22,Jamie McLeod-Skinner,Lori Chavez-DeRemer,0.34155,0.65845,0.015775,00:12:39  8 Nov 2022
+113,2022,House,OR-4,11/8/22,Val Hoyle,Alek Skarlatos,0.668725,0.331275,0.009475,00:12:39  8 Nov 2022
+114,2022,House,OR-3,11/8/22,Earl Blumenauer,Joanna Harbour,0.9999,0.0001,0.0,00:12:39  8 Nov 2022
+115,2022,House,OR-2,11/8/22,Joe Yetter,Cliff S. Bentz,0.0018,0.9982,3.75e-05,00:12:39  8 Nov 2022
+116,2022,House,OR-1,11/8/22,Suzanne Bonamici,Christopher A. Mann,0.999125,0.000875,1.25e-05,00:12:39  8 Nov 2022
+117,2022,House,OK-5,11/8/22,Joshua Harris-Till,Stephanie Bice,0.0019,0.9981,0.00025,00:12:39  8 Nov 2022
+118,2022,House,OK-4,11/8/22,Mary Brannon,Tom Cole,0.000525,0.999475,5e-05,00:12:39  8 Nov 2022
+119,2022,House,OK-3,11/8/22,Jeremiah A. Ross,Frank D. Lucas,2.5e-05,0.999975,0.0,00:12:39  8 Nov 2022
+120,2022,House,OK-2,11/8/22,Naomi Andrews,Josh Brecheen,5e-05,0.99995,0.0,00:12:39  8 Nov 2022
+121,2022,House,OK-1,11/8/22,Adam Martin,Kevin Hern,0.001075,0.998925,7.5e-05,00:12:39  8 Nov 2022
+122,2022,House,OH-9,11/8/22,Marcy Kaptur,J.R. Majewski,0.718,0.282,0.0073,00:12:39  8 Nov 2022
+123,2022,House,OH-8,11/8/22,Vanessa Enoch,Warren Davidson,0.001725,0.998275,8.75e-05,00:12:39  8 Nov 2022
+124,2022,House,OH-7,11/8/22,Matthew Diemer,Max Miller,0.0899,0.9101,0.0042875,00:12:39  8 Nov 2022
+125,2022,House,OH-6,11/8/22,Louis G. Lyras,Bill Johnson,0.001575,0.998425,6.25e-05,00:12:39  8 Nov 2022
+126,2022,House,OH-5,11/8/22,Craig Swartz,Bob Latta,0.001625,0.998375,5e-05,00:12:39  8 Nov 2022
+127,2022,House,OH-4,11/8/22,Tamie Wilson,Jim Jordan,0.0002,0.9998,2.5e-05,00:12:39  8 Nov 2022
+128,2022,House,OH-3,11/8/22,Joyce Beatty,Lee R. Stahley,0.9998,0.0002,1.25e-05,00:12:39  8 Nov 2022
+129,2022,House,OH-2,11/8/22,Samantha Meadows,Brad Wenstrup,7.5e-05,0.999925,0.0,00:12:39  8 Nov 2022
+130,2022,House,OH-15,11/8/22,Gary Josephson,Mike Carey,0.02535,0.97465,0.0016375,00:12:39  8 Nov 2022
+131,2022,House,OH-14,11/8/22,Matt Kilboy,David P. Joyce,0.010725,0.989275,0.0006375,00:12:39  8 Nov 2022
+132,2022,House,OH-13,11/8/22,Emilia Sykes,Madison Gesiotto Gilbert,0.424675,0.575325,0.016775,00:12:39  8 Nov 2022
+133,2022,House,OH-12,11/8/22,Amy Rippel-Elton,Troy Balderson,0.000725,0.999275,2.5e-05,00:12:39  8 Nov 2022
+134,2022,House,OH-1,11/8/22,Greg Landsman,Steve Chabot,0.35895,0.64105,0.0156875,00:12:39  8 Nov 2022
+135,2022,House,OH-11,11/8/22,Shontel Brown,Eric J. Brewer,0.999975,2.5e-05,0.0,00:12:39  8 Nov 2022
+136,2022,House,OH-10,11/8/22,David Esrati,Mike Turner,0.0468,0.9532,0.0027125,00:12:39  8 Nov 2022
+138,2022,House,NY-8,11/8/22,Hakeem S. Jeffries,Yuri Dashevsky,1.0,0.0,0.0,00:12:39  8 Nov 2022
+139,2022,House,NY-7,11/8/22,Nydia M. Velázquez,Juan Pagán,1.0,0.0,0.0,00:12:39  8 Nov 2022
+140,2022,House,NY-6,11/8/22,Grace Meng,Tom Zmich,0.99685,0.00315,3.75e-05,00:12:39  8 Nov 2022
+141,2022,House,NY-5,11/8/22,Gregory Meeks,Paul King,1.0,0.0,0.0,00:12:39  8 Nov 2022
+142,2022,House,NY-4,11/8/22,Laura A. Gillen,Anthony P. D'Esposito,0.52415,0.47585,0.010075,00:12:39  8 Nov 2022
+143,2022,House,NY-3,11/8/22,Robert P. Zimmerman,George A.D. Santos,0.531875,0.468125,0.011175,00:12:39  8 Nov 2022
+144,2022,House,NY-26,11/8/22,Brian Higgins,Steven L. Sams II,0.98865,0.01135,0.0002,00:12:39  8 Nov 2022
+145,2022,House,NY-25,11/8/22,Joseph D. Morelle,La'Ron D. Singletary,0.869025,0.130975,0.0031375,00:12:39  8 Nov 2022
+146,2022,House,NY-24,11/8/22,Steven Holden,Claudia Tenney,0.007325,0.992675,0.0005,00:12:39  8 Nov 2022
+147,2022,House,NY-23,11/8/22,Max H. Della Pia,Nick Langworthy,0.031725,0.968275,0.002025,00:12:39  8 Nov 2022
+148,2022,House,NY-22,11/8/22,Francis Conole,Brandon M. Williams,0.53805,0.46195,0.0152375,00:12:39  8 Nov 2022
+149,2022,House,NY-2,11/8/22,Jackie Gordon,Andrew R. Garbarino,0.17285,0.82715,0.0096875,00:12:39  8 Nov 2022
+150,2022,House,NY-21,11/8/22,Matt Castelli,Elise M. Stefanik,0.02145,0.97855,0.00155,00:12:39  8 Nov 2022
+151,2022,House,NY-20,11/8/22,Paul D. Tonko,Elizabeth L. Joy,0.978225,0.021775,0.000525,00:12:39  8 Nov 2022
+152,2022,House,NY-19,11/8/22,Josh Riley,Marcus Molinaro,0.702525,0.297475,0.0085,00:12:39  8 Nov 2022
+153,2022,House,NY-18,11/8/22,Pat Ryan,Colin J. Schmitt,0.8449,0.1551,0.00375,00:12:39  8 Nov 2022
+154,2022,House,NY-17,11/8/22,Sean Patrick Maloney,Michael V. Lawler,0.637725,0.362275,0.0095875,00:12:39  8 Nov 2022
+155,2022,House,NY-16,11/8/22,Jamaal Bowman,Miriam L. Flisser,0.99985,0.00015,0.0,00:12:39  8 Nov 2022
+156,2022,House,NY-15,11/8/22,Ritchie J. Torres,Stylo A. Sapaskis,1.0,0.0,0.0,00:12:39  8 Nov 2022
+157,2022,House,NY-14,11/8/22,Alexandria Ocasio-Cortez,Tina Forte,0.99995,5e-05,0.0,00:12:39  8 Nov 2022
+159,2022,House,NY-12,11/8/22,Jerrold L. Nadler,Michael Zumbluskas,1.0,0.0,0.0,00:12:39  8 Nov 2022
+160,2022,House,NY-1,11/8/22,Bridget Fleming,Nicholas J. LaLota,0.227225,0.772775,0.0091,00:12:39  8 Nov 2022
+161,2022,House,NY-11,11/8/22,Max N. Rose,Nicole Malliotakis,0.12665,0.87335,0.0088875,00:12:39  8 Nov 2022
+162,2022,House,NY-10,11/8/22,Daniel Goldman,Benine Hamdan,1.0,0.0,0.0,00:12:39  8 Nov 2022
+163,2022,House,NV-4,11/8/22,Steven A. Horsford,Sam Peters,0.642925,0.357075,0.0096375,00:12:39  8 Nov 2022
+164,2022,House,NV-3,11/8/22,Susie Lee,April Becker,0.39315,0.60685,0.016025,00:12:39  8 Nov 2022
+165,2022,House,NV-2,11/8/22,Elizabeth Mercedes Krause,Mark E. Amodei,0.0017,0.9983,0.0001625,00:12:39  8 Nov 2022
+166,2022,House,NV-1,11/8/22,Dina Titus,Mark Robertson,0.178625,0.82135,0.01325,00:12:39  8 Nov 2022
+167,2022,House,NM-3,11/8/22,Teresa Leger Fernandez,Alexis Martinez Johnson,0.992775,0.007225,0.000125,00:12:39  8 Nov 2022
+168,2022,House,NM-2,11/8/22,Gabriel Vasquez,Yvette Herrell,0.311075,0.688925,0.0191125,00:12:39  8 Nov 2022
+169,2022,House,NM-1,11/8/22,Melanie Ann Stansbury,Michelle Garcia Holmes,0.9381,0.0619,0.0008375,00:12:39  8 Nov 2022
+170,2022,House,NJ-9,11/8/22,Bill Pascrell Jr.,Billy Prempeh,0.97135,0.02865,0.00055,00:12:39  8 Nov 2022
+171,2022,House,NJ-8,11/8/22,Robert J. Menendez,Marcos Arroyo,0.999225,0.000775,2.5e-05,00:12:39  8 Nov 2022
+172,2022,House,NJ-7,11/8/22,Tom Malinowski,Thomas H. Kean Jr.,0.349075,0.650925,0.013125,00:12:39  8 Nov 2022
+173,2022,House,NJ-6,11/8/22,Frank Pallone Jr.,Susan M. Kiley,0.960175,0.039825,0.001,00:12:39  8 Nov 2022
+174,2022,House,NJ-5,11/8/22,Josh Gottheimer,Frank T. Pallotta,0.872575,0.127425,0.0033,00:12:39  8 Nov 2022
+175,2022,House,NJ-4,11/8/22,Matthew Jenkins,Christopher H. Smith,0.00115,0.99885,3.75e-05,00:12:39  8 Nov 2022
+176,2022,House,NJ-3,11/8/22,Andy Kim,Bob Healey,0.811525,0.188475,0.0046875,00:12:39  8 Nov 2022
+177,2022,House,NJ-2,11/8/22,Tim Alexander,Jeff Van Drew,0.027675,0.972325,0.0017,00:12:39  8 Nov 2022
+178,2022,House,NJ-12,11/8/22,Bonnie Watson Coleman,Darius Mayfield,0.997575,0.002425,1.25e-05,00:12:39  8 Nov 2022
+179,2022,House,NJ-1,11/8/22,Donald W. Norcross,Claire Gustafson,0.923375,0.076625,0.0019625,00:12:39  8 Nov 2022
+180,2022,House,NJ-11,11/8/22,Mikie Sherrill,Paul DeGroot,0.92795,0.07205,0.0014125,00:12:39  8 Nov 2022
+181,2022,House,NJ-10,11/8/22,Donald M. Payne Jr.,David H. Pinckney,0.999975,2.5e-05,0.0,00:12:39  8 Nov 2022
+182,2022,House,NH-2,11/8/22,Ann McLane Kuster,Robert Burns,0.878125,0.121875,0.0023875,00:12:39  8 Nov 2022
+183,2022,House,NH-1,11/8/22,Chris Pappas,Karoline Leavitt,0.49465,0.50535,0.0163375,00:12:39  8 Nov 2022
+184,2022,House,NE-3,11/8/22,David J. Else,Adrian Smith,0.0,1.0,0.0,00:12:39  8 Nov 2022
+185,2022,House,NE-2,11/8/22,Tony Vargas,Don Bacon,0.1706,0.8294,0.0114,00:12:39  8 Nov 2022
+186,2022,House,NE-1,11/8/22,Patty Pansing Brooks,Mike Flood,0.010875,0.989125,0.0008,00:12:39  8 Nov 2022
+188,2022,House,NC-9,11/8/22,Ben Clark,Richard Hudson,0.03585,0.96415,0.0019875,00:12:39  8 Nov 2022
+189,2022,House,NC-8,11/8/22,Scott Huffman,Dan Bishop,0.0002,0.9998,1.25e-05,00:12:39  8 Nov 2022
+190,2022,House,NC-7,11/8/22,Charles Graham,David Rouzer,0.01975,0.98025,0.00135,00:12:39  8 Nov 2022
+191,2022,House,NC-6,11/8/22,Kathy Manning,Christian Castelli,0.908525,0.091475,0.0022875,00:12:39  8 Nov 2022
+192,2022,House,NC-5,11/8/22,Kyle Parrish,Virginia Foxx,0.004025,0.995975,0.00025,00:12:39  8 Nov 2022
+193,2022,House,NC-4,11/8/22,Valerie P. Foushee,Courtney Geels,0.99685,0.00315,0.0001,00:12:39  8 Nov 2022
+194,2022,House,NC-3,11/8/22,Barbara D. Gaskins,Greg Murphy,0.002025,0.997975,6.25e-05,00:12:39  8 Nov 2022
+195,2022,House,NC-2,11/8/22,Deborah K. Ross,Christine E. Villaverde,0.99585,0.00415,6.25e-05,00:12:39  8 Nov 2022
+196,2022,House,NC-14,11/8/22,Jeff Jackson,Pat Harrigan,0.83955,0.16045,0.0037375,00:12:39  8 Nov 2022
+197,2022,House,NC-13,11/8/22,Wiley Nickel,Bo Hines,0.545125,0.454875,0.0142,00:12:39  8 Nov 2022
+198,2022,House,NC-12,11/8/22,Alma S. Adams,Tyler Lee,0.997875,0.002125,6.25e-05,00:12:39  8 Nov 2022
+199,2022,House,NC-1,11/8/22,Don Davis,Sandy Smith,0.8229,0.1771,0.00555,00:12:39  8 Nov 2022
+200,2022,House,NC-11,11/8/22,Jasmine Beach-Ferrara,Chuck Edwards,0.179575,0.8204,0.0098375,00:12:39  8 Nov 2022
+201,2022,House,NC-10,11/8/22,Pam Genant,Patrick McHenry,0.000225,0.999775,1.25e-05,00:12:39  8 Nov 2022
+202,2022,House,MT-2,11/8/22,Penny Ronning,Matt Rosendale,0.023425,0.976575,0.00155,00:12:39  8 Nov 2022
+203,2022,House,MT-1,11/8/22,Monica Tranel,Ryan K. Zinke,0.168,0.83195,0.0112875,00:12:39  8 Nov 2022
+204,2022,House,MS-4,11/8/22,Johnny L. DuPree,Mike Ezell,0.001025,0.99895,2.5e-05,00:12:39  8 Nov 2022
+205,2022,House,MS-3,11/8/22,Shuwaski A. Young,Michael Guest,0.0014,0.9986,7.5e-05,00:12:39  8 Nov 2022
+206,2022,House,MS-2,11/8/22,Bennie G. Thompson,Brian Flowers,0.99665,0.00335,2.5e-05,00:12:39  8 Nov 2022
+207,2022,House,MS-1,11/8/22,Dianne Black,Trent Kelly,0.0004,0.9996,1.25e-05,00:12:39  8 Nov 2022
+208,2022,House,MO-8,11/8/22,Randi McCallian,Jason Smith,5e-05,0.99995,0.0,00:12:39  8 Nov 2022
+209,2022,House,MO-7,11/8/22,Kristen Radaker-Sheafer,Eric Burlison,0.0002,0.9998,2.5e-05,00:12:39  8 Nov 2022
+210,2022,House,MO-6,11/8/22,Henry Martin,Sam Graves,0.000175,0.999825,0.0,00:12:39  8 Nov 2022
+211,2022,House,MO-5,11/8/22,"Emanuel Cleaver, II",Jacob Turk,0.99405,0.00595,0.0001,00:12:39  8 Nov 2022
+212,2022,House,MO-4,11/8/22,Jack Truman,Mark Alford,0.0006,0.999375,6.25e-05,00:12:39  8 Nov 2022
+213,2022,House,MO-3,11/8/22,Bethany Mann,Blaine Luetkemeyer,0.000825,0.999175,3.75e-05,00:12:39  8 Nov 2022
+214,2022,House,MO-2,11/8/22,Trish Gunby,Ann Wagner,0.013875,0.986125,0.0008375,00:12:39  8 Nov 2022
+215,2022,House,MO-1,11/8/22,Cori Bush,Andrew Jones,1.0,0.0,0.0,00:12:39  8 Nov 2022
+216,2022,House,MN-8,11/8/22,Jen Schultz,Pete Stauber,0.023725,0.976275,0.0013125,00:12:39  8 Nov 2022
+217,2022,House,MN-7,11/8/22,Jill Abahsain,Michelle Fischbach,0.00075,0.99925,1.25e-05,00:12:39  8 Nov 2022
+218,2022,House,MN-6,11/8/22,Jeanne Hendricks,Tom Emmer,0.0037,0.9963,0.00025,00:12:39  8 Nov 2022
+219,2022,House,MN-5,11/8/22,Ilhan Omar,Cicely Davis,0.999975,2.5e-05,0.0,00:12:39  8 Nov 2022
+220,2022,House,MN-4,11/8/22,Betty McCollum,May Lor Xiong,0.99885,0.00115,1.25e-05,00:12:39  8 Nov 2022
+221,2022,House,MN-3,11/8/22,Dean Phillips,Tom Weiler,0.96375,0.03625,0.0006375,00:12:39  8 Nov 2022
+222,2022,House,MN-2,11/8/22,Angie Craig,Tyler Kistner,0.630975,0.369025,0.010925,00:12:39  8 Nov 2022
+223,2022,House,MN-1,11/8/22,Jeff Ettinger,Brad Finstad,0.09105,0.90895,0.0076375,00:12:39  8 Nov 2022
+224,2022,House,MI-9,11/8/22,Brian Jaye,Lisa McClain,0.000725,0.999275,3.75e-05,00:12:39  8 Nov 2022
+225,2022,House,MI-8,11/8/22,Daniel T. Kildee,Paul Junge,0.6691,0.3309,0.008775,00:12:39  8 Nov 2022
+226,2022,House,MI-7,11/8/22,Elissa Slotkin,Tom Barrett,0.71695,0.283025,0.00845,00:12:39  8 Nov 2022
+227,2022,House,MI-6,11/8/22,Debbie Dingell,Whittney Williams,0.993675,0.006325,2.5e-05,00:12:39  8 Nov 2022
+228,2022,House,MI-5,11/8/22,Bart Goldberg,Tim Walberg,0.002125,0.997875,0.0001,00:12:39  8 Nov 2022
+229,2022,House,MI-4,11/8/22,Joseph Alfonso,Bill Huizenga,0.053125,0.946875,0.0029375,00:12:39  8 Nov 2022
+230,2022,House,MI-3,11/8/22,Hillary Scholten,John Gibbs,0.62045,0.37955,0.0108125,00:12:39  8 Nov 2022
+231,2022,House,MI-2,11/8/22,Jerry Hilliard,John Moolenaar,0.001625,0.998375,8.75e-05,00:12:39  8 Nov 2022
+232,2022,House,MI-13,11/8/22,Shri Thanedar,Martell D. Bivings,0.99975,0.00025,2.5e-05,00:12:39  8 Nov 2022
+233,2022,House,MI-12,11/8/22,Rashida Tlaib,Steven Elliott,0.999925,7.5e-05,0.0,00:12:39  8 Nov 2022
+234,2022,House,MI-1,11/8/22,Bob Lorinser,Jack Bergman,0.00665,0.99335,0.00045,00:12:39  8 Nov 2022
+235,2022,House,MI-11,11/8/22,Haley Stevens,Mark Ambrose,0.98195,0.01805,0.0002875,00:12:39  8 Nov 2022
+236,2022,House,MI-10,11/8/22,Carl J. Marlinga,John James,0.166825,0.833175,0.0109375,00:12:39  8 Nov 2022
+237,2022,House,ME-2,11/8/22,Jared Forrest Golden,Bruce Poliquin,0.665525,0.334475,0.0097375,00:12:39  8 Nov 2022
+238,2022,House,ME-1,11/8/22,Chellie M. Pingree,Edwin Thelander,0.997675,0.002325,5e-05,00:12:39  8 Nov 2022
+239,2022,House,MD-8,11/8/22,Jamie Raskin,Gregory Thomas Coll,0.999975,2.5e-05,0.0,00:12:39  8 Nov 2022
+240,2022,House,MD-7,11/8/22,Kweisi Mfume,Scott M. Collier,1.0,0.0,0.0,00:12:39  8 Nov 2022
+241,2022,House,MD-6,11/8/22,David J. Trone,Neil C. Parrott,0.7033,0.2967,0.0083875,00:12:39  8 Nov 2022
+242,2022,House,MD-5,11/8/22,Steny Hoyer,Chris Palombi,0.998775,0.001225,3.75e-05,00:12:39  8 Nov 2022
+243,2022,House,MD-4,11/8/22,Glenn F. Ivey,Jeff Warner,1.0,0.0,0.0,00:12:39  8 Nov 2022
+244,2022,House,MD-3,11/8/22,John Sarbanes,Yuripzy Morgan,0.97795,0.02205,0.00045,00:12:39  8 Nov 2022
+245,2022,House,MD-2,11/8/22,C.A. Dutch Ruppersberger,Nicolee Ambrose,0.932875,0.067125,0.001575,00:12:39  8 Nov 2022
+246,2022,House,MD-1,11/8/22,Heather R. Mizeur,Andy Harris,0.074875,0.925125,0.0057125,00:12:39  8 Nov 2022
+247,2022,House,MA-9,11/8/22,Bill Keating,Jesse G. Brown,0.985875,0.014125,0.00025,00:12:39  8 Nov 2022
+248,2022,House,MA-8,11/8/22,Stephen F. Lynch,Robert G. Burke,0.999125,0.000875,2.5e-05,00:12:39  8 Nov 2022
+249,2022,House,MA-7,11/8/22,Ayanna S. Pressley,Donnie Dionicio Palmer Jr.,1.0,0.0,0.0,00:12:39  8 Nov 2022
+250,2022,House,MA-6,11/8/22,Seth Moulton,Bob May,0.99595,0.00405,2.5e-05,00:12:39  8 Nov 2022
+251,2022,House,MA-5,11/8/22,Katherine M. Clark,Caroline Colarusso,0.9999,0.0001,0.0,00:12:39  8 Nov 2022
+253,2022,House,MA-3,11/8/22,Lori Loureiro Trahan,Dean A. Tran,0.99655,0.00345,7.5e-05,00:12:39  8 Nov 2022
+254,2022,House,MA-2,11/8/22,James P. McGovern,Jeffrey A. Sossa-Paquette,0.99805,0.00195,5e-05,00:12:39  8 Nov 2022
+255,2022,House,MA-1,11/8/22,Richard E. Neal,Dean James Martilli,0.99425,0.00575,0.0001125,00:12:39  8 Nov 2022
+257,2022,House,LA-5,11/8/22,Oscar “Omar” Dantzler,Julia Letlow,0.00315,0.923725,0.0002625,00:12:39  8 Nov 2022
+259,2022,House,LA-3,11/8/22,Tia Lebrun,Clay Higgins,0.003225,0.889175,0.000125,00:12:39  8 Nov 2022
+260,2022,House,LA-2,11/8/22,Troy A. Carter,Dan Lux,1.0,0.0,0.0,00:12:39  8 Nov 2022
+261,2022,House,LA-1,11/8/22,Kate Darling,Steve Scalise,0.0001,0.9999,1.25e-05,00:12:39  8 Nov 2022
+262,2022,House,KY-6,11/8/22,Geoffrey M. “Geoff” Young,Andy Barr,0.0205,0.9795,0.0013,00:12:39  8 Nov 2022
+263,2022,House,KY-5,11/8/22,Conor Halbleib,Harold “Hal” Rogers,2.5e-05,0.999975,0.0,00:12:39  8 Nov 2022
+264,2022,House,KY-4,11/8/22,Matthew Lehman,Thomas Massie,0.0006,0.9994,2.5e-05,00:12:39  8 Nov 2022
+265,2022,House,KY-3,11/8/22,Morgan McGarvey,Stuart N. Ray,0.975325,0.024675,0.0005625,00:12:39  8 Nov 2022
+266,2022,House,KY-2,11/8/22,Hank Linderman,S. Brett Guthrie,0.0002,0.9998,0.0,00:12:39  8 Nov 2022
+267,2022,House,KY-1,11/8/22,Jimmy C. Ausbrooks,James R. Comer,0.0001,0.9999,0.0,00:12:39  8 Nov 2022
+268,2022,House,KS-4,11/8/22,Bob Hernandez,Ron Estes,0.0018,0.9982,6.25e-05,00:12:39  8 Nov 2022
+269,2022,House,KS-3,11/8/22,Sharice Davids,Amanda L. Adkins,0.889225,0.11075,0.0024,00:12:39  8 Nov 2022
+270,2022,House,KS-2,11/8/22,Patrick Schmidt,Jake LaTurner,0.071375,0.928625,0.0044375,00:12:39  8 Nov 2022
+271,2022,House,KS-1,11/8/22,James “Jimmy” Beard,Tracey Mann,0.0007,0.9993,2.5e-05,00:12:39  8 Nov 2022
+272,2022,House,IN-9,11/8/22,Matthew Fyfe,Erin Houchin,0.0066,0.9934,0.0003375,00:12:39  8 Nov 2022
+273,2022,House,IN-8,11/8/22,Ray McCormick,Larry D. Bucshon,0.000875,0.999125,6.25e-05,00:12:39  8 Nov 2022
+274,2022,House,IN-7,11/8/22,André D. Carson,Angela Grabovsky,0.9996,0.0004,2.5e-05,00:12:39  8 Nov 2022
+275,2022,House,IN-6,11/8/22,Cynthia “Cinde” Wirth,Greg Pence,0.000325,0.999675,0.0,00:12:39  8 Nov 2022
+276,2022,House,IN-5,11/8/22,Jeannine Lee Lake,Victoria Spartz,0.005375,0.994625,0.000225,00:12:39  8 Nov 2022
+277,2022,House,IN-4,11/8/22,Roger D. Day,Jim Baird,0.00065,0.99935,2.5e-05,00:12:39  8 Nov 2022
+278,2022,House,IN-3,11/8/22,Gary L. Snyder,Jim Banks,0.000575,0.9994,5e-05,00:12:39  8 Nov 2022
+279,2022,House,IN-2,11/8/22,Paul D. Steury,Rudolph Yakym,0.016525,0.983475,0.0009875,00:12:39  8 Nov 2022
+280,2022,House,IN-1,11/8/22,Frank J. Mrvan,Jennifer-Ruth Green,0.857775,0.142225,0.003525,00:12:39  8 Nov 2022
+281,2022,House,IL-9,11/8/22,Janice D. Schakowsky,Maxwell “Max” Rice,0.999725,0.000275,0.0,00:12:39  8 Nov 2022
+282,2022,House,IL-8,11/8/22,Raja Krishnamoorthi,Chris Dargis,0.830225,0.169775,0.0042875,00:12:39  8 Nov 2022
+284,2022,House,IL-6,11/8/22,Sean Casten,Keith Pekau,0.89665,0.10335,0.002475,00:12:39  8 Nov 2022
+285,2022,House,IL-5,11/8/22,Mike Quigley,Tommy Hanson,0.9992,0.0008,0.0,00:12:39  8 Nov 2022
+286,2022,House,IL-4,11/8/22,Jesus “Chuy” Garcia,James Falakos,0.999775,0.000225,0.0,00:12:39  8 Nov 2022
+287,2022,House,IL-3,11/8/22,Delia Ramirez,Justin Burau,0.998175,0.001825,2.5e-05,00:12:39  8 Nov 2022
+288,2022,House,IL-2,11/8/22,Robin Kelly,Thomas Lynch,0.999675,0.000325,1.25e-05,00:12:39  8 Nov 2022
+289,2022,House,IL-17,11/8/22,Eric Sorensen,Esther Joy King,0.6598,0.3402,0.009525,00:12:39  8 Nov 2022
+290,2022,House,IL-16,11/8/22,Elizabeth Haderlein,Darin LaHood,0.003025,0.996975,0.000225,00:12:39  8 Nov 2022
+291,2022,House,IL-15,11/8/22,Paul J. Lange,Mary Miller,0.00025,0.99975,1.25e-05,00:12:39  8 Nov 2022
+292,2022,House,IL-14,11/8/22,Lauren Underwood,Scott R. Gryder,0.8991,0.1009,0.002275,00:12:39  8 Nov 2022
+293,2022,House,IL-13,11/8/22,Nikki Budzinski,Regan Deering,0.66795,0.33205,0.0089,00:12:39  8 Nov 2022
+294,2022,House,IL-12,11/8/22,Homer “Chip” Markel,Mike Bost,0.0,1.0,0.0,00:12:39  8 Nov 2022
+295,2022,House,IL-1,11/8/22,Jonathan L. Jackson,Eric Carlson,0.99955,0.00045,0.0,00:12:39  8 Nov 2022
+296,2022,House,IL-11,11/8/22,Bill Foster,Catalina Lauf,0.9487,0.0513,0.0011125,00:12:39  8 Nov 2022
+297,2022,House,IL-10,11/8/22,Brad Schneider,Joseph Severino,0.94115,0.05885,0.001125,00:12:39  8 Nov 2022
+298,2022,House,ID-2,11/8/22,Wendy Norman,Mike Simpson,0.001675,0.998325,7.5e-05,00:12:39  8 Nov 2022
+299,2022,House,ID-1,11/8/22,Kaylee Peterson,Russ Fulcher,5e-05,0.99995,0.0,00:12:39  8 Nov 2022
+300,2022,House,IA-4,11/8/22,Ryan Melton,Randy Feenstra,0.002275,0.997725,0.0001125,00:12:39  8 Nov 2022
+301,2022,House,IA-3,11/8/22,Cindy Axne,Zach Nunn,0.45275,0.54725,0.0149375,00:12:39  8 Nov 2022
+302,2022,House,IA-2,11/8/22,Liz Mathis,Ashley Hinson,0.208175,0.791825,0.0110125,00:12:39  8 Nov 2022
+303,2022,House,IA-1,11/8/22,Christina Bohannan,Mariannette Miller-Meeks,0.214675,0.785325,0.012525,00:12:39  8 Nov 2022
+304,2022,House,HI-2,11/8/22,Jill N. Tokuda,Joe Akana,0.9891,0.0109,0.0002625,00:12:39  8 Nov 2022
+305,2022,House,HI-1,11/8/22,Ed Case,Conrad Kress,0.997125,0.002875,5e-05,00:12:39  8 Nov 2022
+306,2022,House,GA-9,11/8/22,Michael “Mike” Ford,Andrew Clyde,7.5e-05,0.999925,0.0,00:12:39  8 Nov 2022
+307,2022,House,GA-8,11/8/22,Darrius Butler,Austin Scott,0.000675,0.999325,3.75e-05,00:12:39  8 Nov 2022
+308,2022,House,GA-7,11/8/22,Lucy McBath,Mark Gonsalves,0.979875,0.020125,0.0004875,00:12:39  8 Nov 2022
+309,2022,House,GA-6,11/8/22,Bob Christian,Rich McCormick,0.014325,0.985675,0.000875,00:12:39  8 Nov 2022
+310,2022,House,GA-5,11/8/22,Nikema Williams,Christian Zimm,1.0,0.0,0.0,00:12:39  8 Nov 2022
+311,2022,House,GA-4,11/8/22,Henry C. “Hank” Johnson Jr.,Jonathan Chavez,0.999975,2.5e-05,0.0,00:12:39  8 Nov 2022
+312,2022,House,GA-3,11/8/22,Val Almonord,Drew Ferguson,0.000275,0.999725,1.25e-05,00:12:39  8 Nov 2022
+313,2022,House,GA-2,11/8/22,Sanford Bishop,Chris West,0.81295,0.18705,0.005075,00:12:39  8 Nov 2022
+314,2022,House,GA-14,11/8/22,Marcus Flowers,Marjorie Taylor Greene,0.0001,0.9999,1.25e-05,00:12:39  8 Nov 2022
+315,2022,House,GA-13,11/8/22,David Scott,Caesar Gonzales,0.9999,0.0001,0.0,00:12:39  8 Nov 2022
+316,2022,House,GA-12,11/8/22,Elizabeth “Liz” Johnson,Rick W. Allen,0.0112,0.9888,0.0008625,00:12:39  8 Nov 2022
+317,2022,House,GA-1,11/8/22,Wade Herring,Earl L. “Buddy” Carter,0.00685,0.99315,0.00045,00:12:39  8 Nov 2022
+318,2022,House,GA-11,11/8/22,Antonio Daza,Barry Loudermilk,0.001425,0.998575,0.000125,00:12:39  8 Nov 2022
+319,2022,House,GA-10,11/8/22,Tabitha Johnson-Green,Mike Collins,0.0044,0.9956,0.0002875,00:12:39  8 Nov 2022
+320,2022,House,FL-9,11/8/22,Darren Soto,Scotty Moore,0.9796,0.0204,0.0004375,00:12:39  8 Nov 2022
+321,2022,House,FL-8,11/8/22,Joanne Terry,Bill Posey,0.004075,0.995925,0.000275,00:12:39  8 Nov 2022
+322,2022,House,FL-7,11/8/22,Karen Green,Cory Mills,0.0751,0.9249,0.0043125,00:12:39  8 Nov 2022
+325,2022,House,FL-4,11/8/22,LaShonda “L.J.” Holloway,Aaron Bean,0.052825,0.947175,0.004525,00:12:39  8 Nov 2022
+326,2022,House,FL-3,11/8/22,Danielle Hawk,Kat Cammack,0.01035,0.98965,0.0006,00:12:39  8 Nov 2022
+327,2022,House,FL-28,11/8/22,Robert Asencio,Carlos A. Gimenez,0.089425,0.910575,0.0054,00:12:39  8 Nov 2022
+328,2022,House,FL-27,11/8/22,Annette Taddeo,María Elvira Salazar,0.293525,0.706475,0.0133,00:12:39  8 Nov 2022
+329,2022,House,FL-26,11/8/22,Christine Alexandria Olivo,Mario Diaz-Balart,0.022025,0.977975,0.00125,00:12:39  8 Nov 2022
+330,2022,House,FL-25,11/8/22,Debbie Wasserman Schultz,Carla Spalding,0.98495,0.01505,0.000325,00:12:39  8 Nov 2022
+331,2022,House,FL-24,11/8/22,Frederica Wilson,Jesus G. Navarro,1.0,0.0,0.0,00:12:39  8 Nov 2022
+332,2022,House,FL-23,11/8/22,Jared Moskowitz,Joe Budd,0.744975,0.255025,0.00575,00:12:39  8 Nov 2022
+333,2022,House,FL-22,11/8/22,Lois Frankel,Dan Franzese,0.97275,0.02725,0.0005625,00:12:39  8 Nov 2022
+334,2022,House,FL-2,11/8/22,Al Lawson,Neal Dunn,0.122175,0.877825,0.0099125,00:12:39  8 Nov 2022
+335,2022,House,FL-21,11/8/22,Corinna Balderramos Robinson,Brian Mast,0.0172,0.9828,0.001,00:12:39  8 Nov 2022
+336,2022,House,FL-20,11/8/22,Sheila Cherfilus-McCormick,Drew Montez Clark,0.999925,7.5e-05,0.0,00:12:39  8 Nov 2022
+337,2022,House,FL-19,11/8/22,Cindy Banyai,Byron Donalds,0.0022,0.9978,0.000125,00:12:39  8 Nov 2022
+339,2022,House,FL-17,11/8/22,Andrea Doria Kale,Greg Steube,0.006475,0.993525,0.000375,00:12:39  8 Nov 2022
+340,2022,House,FL-16,11/8/22,Jan Schneider,Vern Buchanan,0.0197,0.9803,0.0010125,00:12:39  8 Nov 2022
+341,2022,House,FL-15,11/8/22,Alan M. Cohn,Laurel Lee,0.176525,0.823475,0.0119875,00:12:39  8 Nov 2022
+342,2022,House,FL-14,11/8/22,Kathy Castor,James Judge,0.970525,0.029475,0.0006625,00:12:39  8 Nov 2022
+343,2022,House,FL-13,11/8/22,Eric Lynn,Anna Paulina Luna,0.333125,0.666875,0.016675,00:12:39  8 Nov 2022
+344,2022,House,FL-12,11/8/22,Kimberly Walker,Gus Michael Bilirakis,0.000775,0.999225,2.5e-05,00:12:39  8 Nov 2022
+345,2022,House,FL-1,11/8/22,Rebekah Jones,Matt Gaetz,0.02895,0.97105,0.0018625,00:12:39  8 Nov 2022
+346,2022,House,FL-11,11/8/22,Shante Munns,Daniel Webster,0.00675,0.99325,0.000325,00:12:39  8 Nov 2022
+347,2022,House,FL-10,11/8/22,Maxwell Alejandro Frost,Calvin B. Wimbish,0.991425,0.008575,0.000175,00:12:39  8 Nov 2022
+348,2022,House,DE-1,11/8/22,Lisa Blunt Rochester,Lee Murphy,0.965,0.035,0.0007125,00:12:39  8 Nov 2022
+349,2022,House,CT-5,11/8/22,Jahana Hayes,George Logan,0.583075,0.416925,0.0125,00:12:39  8 Nov 2022
+350,2022,House,CT-4,11/8/22,Jim Himes,Jayme Stevenson,0.979675,0.020325,0.00025,00:12:39  8 Nov 2022
+351,2022,House,CT-3,11/8/22,Rosa L. DeLauro,Lesley DeNardis,0.958375,0.041625,0.0008375,00:12:39  8 Nov 2022
+352,2022,House,CT-2,11/8/22,Joe Courtney,Mike France,0.976125,0.023875,0.0003875,00:12:39  8 Nov 2022
+353,2022,House,CT-1,11/8/22,John B. Larson,Larry Lazor,0.99185,0.00815,0.0001625,00:12:39  8 Nov 2022
+354,2022,House,CO-8,11/8/22,Yadira Caraveo,Barbara Kirkmeyer,0.248925,0.75105,0.0135625,00:12:39  8 Nov 2022
+355,2022,House,CO-7,11/8/22,Brittany Pettersen,Erik Aadland,0.675725,0.324275,0.008725,00:12:39  8 Nov 2022
+356,2022,House,CO-6,11/8/22,Jason Crow,Steven Monahan,0.976325,0.02365,0.0003625,00:12:39  8 Nov 2022
+357,2022,House,CO-5,11/8/22,David Torres,Doug Lamborn,0.0049,0.9951,0.00045,00:12:39  8 Nov 2022
+358,2022,House,CO-4,11/8/22,Ike McCorkle,Ken Buck,0.002175,0.997825,0.0001125,00:12:39  8 Nov 2022
+359,2022,House,CO-3,11/8/22,Adam Frisch,Lauren Boebert,0.169675,0.830325,0.01005,00:12:39  8 Nov 2022
+360,2022,House,CO-2,11/8/22,Joe Neguse,Marshall Dawson,0.998775,0.001225,3.75e-05,00:12:39  8 Nov 2022
+361,2022,House,CO-1,11/8/22,Diana DeGette,Jennifer Qualteri,0.999975,2.5e-05,0.0,00:12:39  8 Nov 2022
+362,2022,House,CA-9,11/8/22,Josh Harder,Tom Patti,0.675125,0.324875,0.0083875,00:12:39  8 Nov 2022
+363,2022,House,CA-8,11/8/22,John Garamendi,Rudy Recile,0.99995,5e-05,0.0,00:12:39  8 Nov 2022
+364,2022,House,CA-7,11/8/22,Doris Matsui,Max Semenenko,0.9991,0.0009,0.0,00:12:39  8 Nov 2022
+365,2022,House,CA-6,11/8/22,Ami Bera,Tamika Hamilton,0.961975,0.038025,0.0008625,00:12:39  8 Nov 2022
+366,2022,House,CA-52,11/8/22,Juan Vargas,Tyler Geffeney,0.999175,0.000825,2.5e-05,00:12:39  8 Nov 2022
+367,2022,House,CA-5,11/8/22,Michael J. “Mike” Barkley,Tom McClintock,0.00635,0.99365,0.0003625,00:12:39  8 Nov 2022
+368,2022,House,CA-51,11/8/22,Sara Jacobs,Stan Caplan,0.992225,0.007775,0.0001125,00:12:39  8 Nov 2022
+369,2022,House,CA-50,11/8/22,Scott Peters,Corey Gustafson,0.99705,0.00295,6.25e-05,00:12:39  8 Nov 2022
+370,2022,House,CA-49,11/8/22,Mike Levin,Brian Maryott,0.8091,0.1909,0.004625,00:12:39  8 Nov 2022
+371,2022,House,CA-48,11/8/22,Stephen Houlahan,Darrell Issa,0.00385,0.99615,0.0001875,00:12:39  8 Nov 2022
+372,2022,House,CA-47,11/8/22,Katie Porter,Scott Baugh,0.856125,0.143875,0.0031625,00:12:39  8 Nov 2022
+373,2022,House,CA-46,11/8/22,Lou Correa,Christopher J. Gonzales,0.997,0.003,3.75e-05,00:12:39  8 Nov 2022
+374,2022,House,CA-45,11/8/22,Jay F. Chen,Michelle Steel,0.21565,0.78435,0.0087375,00:12:39  8 Nov 2022
+375,2022,House,CA-44,11/8/22,Nanette Diaz Barragan,Paul Jones,0.9999,0.0001,0.0,00:12:39  8 Nov 2022
+376,2022,House,CA-43,11/8/22,Maxine Waters,Omar Navarro,1.0,0.0,0.0,00:12:39  8 Nov 2022
+377,2022,House,CA-42,11/8/22,Robert Garcia,John Briscoe,0.99885,0.00115,3.75e-05,00:12:39  8 Nov 2022
+378,2022,House,CA-4,11/8/22,Mike Thompson,Matt Brock,0.999175,0.000825,1.25e-05,00:12:39  8 Nov 2022
+379,2022,House,CA-41,11/8/22,Will Rollins,Ken Calvert,0.074025,0.925975,0.006025,00:12:39  8 Nov 2022
+380,2022,House,CA-40,11/8/22,Asif Mahmood,Young Kim,0.081275,0.918725,0.005625,00:12:39  8 Nov 2022
+381,2022,House,CA-39,11/8/22,Mark Takano,Aja Smith,0.989325,0.010675,0.0001875,00:12:39  8 Nov 2022
+382,2022,House,CA-38,11/8/22,Linda T. Sánchez,Eric J. Ching,0.997375,0.002625,5e-05,00:12:39  8 Nov 2022
+384,2022,House,CA-36,11/8/22,Ted W. Lieu,Joe E. Collins III,0.9997,0.0003,1.25e-05,00:12:39  8 Nov 2022
+385,2022,House,CA-35,11/8/22,Norma J. Torres,Mike Cargile,0.996225,0.003775,8.75e-05,00:12:39  8 Nov 2022
+387,2022,House,CA-33,11/8/22,Pete Aguilar,John Mark Porter,0.988175,0.011825,0.00035,00:12:39  8 Nov 2022
+388,2022,House,CA-32,11/8/22,Brad Sherman,Lucie Lapointe Volotzky,0.9996,0.0004,2.5e-05,00:12:39  8 Nov 2022
+389,2022,House,CA-3,11/8/22,Kermit Jones,Kevin Kiley,0.160375,0.839625,0.007775,00:12:39  8 Nov 2022
+390,2022,House,CA-31,11/8/22,Grace F. Napolitano,Daniel Bocic Martinez,0.996425,0.003575,3.75e-05,00:12:39  8 Nov 2022
+393,2022,House,CA-28,11/8/22,Judy Chu,Wes Hallman,0.997725,0.002275,5e-05,00:12:39  8 Nov 2022
+394,2022,House,CA-27,11/8/22,Christy Smith,Mike Garcia,0.472125,0.527875,0.0134875,00:12:39  8 Nov 2022
+395,2022,House,CA-26,11/8/22,Julia Brownley,Matt Jacobs,0.87125,0.12875,0.0028375,00:12:39  8 Nov 2022
+396,2022,House,CA-25,11/8/22,Raul Ruiz,Brian E. Hawkins,0.9577,0.0423,0.0009,00:12:39  8 Nov 2022
+397,2022,House,CA-24,11/8/22,Salud Carbajal,Brad Allen,0.994875,0.005125,0.000125,00:12:39  8 Nov 2022
+398,2022,House,CA-23,11/8/22,Derek Marshall,Jay Obernolte,0.0084,0.9916,0.000575,00:12:39  8 Nov 2022
+399,2022,House,CA-22,11/8/22,Rudy Salas,David G. Valadao,0.608675,0.391325,0.009875,00:12:39  8 Nov 2022
+400,2022,House,CA-2,11/8/22,Jared Huffman,Douglas Brower,0.999925,7.5e-05,0.0,00:12:39  8 Nov 2022
+401,2022,House,CA-21,11/8/22,Jim Costa,Michael Maher,0.77035,0.22965,0.0056875,00:12:39  8 Nov 2022
+402,2022,House,CA-20,11/8/22,Marisa Wood,Kevin McCarthy,0.000325,0.999675,0.0,00:12:39  8 Nov 2022
+403,2022,House,CA-19,11/8/22,Jimmy Panetta,Jeff Gorman,0.99935,0.00065,1.25e-05,00:12:39  8 Nov 2022
+404,2022,House,CA-18,11/8/22,Zoe Lofgren,Peter Hernandez,0.9994,0.0006,1.25e-05,00:12:39  8 Nov 2022
+405,2022,House,CA-17,11/8/22,Ro Khanna,Ritesh Tandon,0.999525,0.000475,2.5e-05,00:12:39  8 Nov 2022
+408,2022,House,CA-14,11/8/22,Eric Swalwell,Alison Hayden,0.99975,0.00025,0.0,00:12:39  8 Nov 2022
+409,2022,House,CA-13,11/8/22,Adam Gray,John Duarte,0.64655,0.35345,0.0093,00:12:39  8 Nov 2022
+410,2022,House,CA-12,11/8/22,Barbara Lee,Stephen Slauson,1.0,0.0,0.0,00:12:39  8 Nov 2022
+411,2022,House,CA-1,11/8/22,Max Steiner,Doug LaMalfa,0.002525,0.997475,0.0002,00:12:39  8 Nov 2022
+412,2022,House,CA-11,11/8/22,Nancy Pelosi,John Dennis,1.0,0.0,0.0,00:12:39  8 Nov 2022
+416,2022,House,AZ-7,11/8/22,Raúl Grijalva,Luis Pozzolo,0.9961,0.0039,8.75e-05,00:12:39  8 Nov 2022
+417,2022,House,AZ-6,11/8/22,Kirsten Engel,Juan Ciscomani,0.294075,0.705925,0.0149625,00:12:39  8 Nov 2022
+418,2022,House,AZ-5,11/8/22,Javier Ramos,Andy Biggs,0.001525,0.998475,3.75e-05,00:12:39  8 Nov 2022
+419,2022,House,AZ-4,11/8/22,Greg Stanton,Kelly Cooper,0.736825,0.263175,0.0067625,00:12:39  8 Nov 2022
+420,2022,House,AZ-3,11/8/22,Ruben Gallego,Jeff Zink,0.999775,0.000225,2.5e-05,00:12:39  8 Nov 2022
+421,2022,House,AZ-2,11/8/22,Tom O'Halleran,Eli Crane,0.46595,0.53405,0.0123875,00:12:39  8 Nov 2022
+422,2022,House,AZ-1,11/8/22,Jevin Hodge,David Schweikert,0.1635,0.8365,0.010175,00:12:39  8 Nov 2022
+423,2022,House,AR-4,11/8/22,John White,Bruce Westerman,0.00045,0.99955,0.0,00:12:39  8 Nov 2022
+424,2022,House,AR-3,11/8/22,Lauren Mallett-Hays,Steve Womack,0.0011,0.998875,8.75e-05,00:12:39  8 Nov 2022
+425,2022,House,AR-2,11/8/22,Quintessa Hathaway,French Hill,0.012075,0.987925,0.000825,00:12:39  8 Nov 2022
+426,2022,House,AR-1,11/8/22,Monte Hodges,Rick Crawford,0.000275,0.999725,1.25e-05,00:12:39  8 Nov 2022
+427,2022,House,AL-7,11/8/22,Terrycina Sewell,Beatrice Nichols,0.99935,0.000625,1.25e-05,00:12:39  8 Nov 2022
+429,2022,House,AL-5,11/8/22,Kathy Warner-Stanton,Dale Strong,0.003925,0.996075,0.000375,00:12:39  8 Nov 2022
+430,2022,House,AL-4,11/8/22,Rick Neighbors,Robert Aderholt,0.0,1.0,0.0,00:12:39  8 Nov 2022
+431,2022,House,AL-3,11/8/22,Lin Veasey,Mike Rogers,0.0001,0.9999,1.25e-05,00:12:39  8 Nov 2022
+432,2022,House,AL-2,11/8/22,Phyllis Harvey-Hall,Barry Moore,0.000475,0.999525,3.75e-05,00:12:39  8 Nov 2022
+434,2022,House,AK-1,11/8/22,Mary S. Peltola,Sarah Palin,0.477675,0.350875,0.008475,00:12:39  8 Nov 2022
