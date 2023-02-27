@@ -1,0 +1,5 @@
+# Requirements for campaign finance project
+pandas
+numpy
+streamlit
+fuzzywuzzy
