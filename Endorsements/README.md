@@ -7,6 +7,7 @@ Gun Control
 Relevant Bills: The Bipartisan Background Checks Act is titled H.R. 8 (https://www.congress.gov/bill/117th-congress/house-bill/8)
 
 ANTI-CONTROL
+
 National Rifle Association (NRA): advocates for gun rights and provides firearms training and safety programs. 
 (All Canidates > Cycle 20XX > Filter by Type == Cand > Filter by Chamber == House > Export to CSV)
 https://www.opensecrets.org/orgs/national-rifle-assn/recipients?id=d000000082&t2-Type=Cand
@@ -30,6 +31,7 @@ Conservative Republicans of Texas (CRT): a political action committee that advoc
 
 
 PRO-CONTROL
+
 Brady PAC: political action committee that supports candidates and lawmakers who advocate for gun control measures. 
 (House Canidates > Cycle 20XX > Export to CSV) 
 https://www.opensecrets.org/political-action-committees-pacs/brady-pac/C00674093/candidate-recipients/2022
