@@ -1,4 +1,6 @@
-Data is from 2018/2020/2022 for House ONLY
+Abstract
+---
+Note: Data is from 2018/2020/2022 for House ONLY
 
 Organizations will use donations to enable an organization to fund more advocacy efforts, such as advertising campaigns and lobbying efforts, a smaller organization with fewer donations may still be effective in mobilizing grassroots support, organizing rallies and protests, and engaging with elected officials and policymakers. The impact of an organization's advocacy efforts cannot always be measured solely by the amount of donations it receives, as there are a variety of factors that can influence the success of a particular policy initiative or campaign, such as public opinion, political climate, and media coverage. Instead, we hope to use the endorsement data to signal to users which policymakers of the House of Representives support which ideologies. It's important to note that these lists are not exhaustive, and there may be other organizations, PACs, and Super PACs that support the listed ideologies.
 
@@ -6,7 +8,7 @@ Gun Control
 ---
 Relevant Bills: The Bipartisan Background Checks Act is titled H.R. 8 (https://www.congress.gov/bill/117th-congress/house-bill/8)
 
-ANTI-CONTROL
+ANTI-CONTROL: Oppose or advocates for the repeal of laws and regulations that restrict access to firearms, and believe in the protection of the Second Amendment right to bear arms.
 
 * National Rifle Association (NRA): advocates for gun rights and provides firearms training and safety programs. 
   1) Data: https://www.opensecrets.org/orgs/national-rifle-assn/recipients?id=d000000082&t2-Type=Cand 
@@ -30,7 +32,7 @@ ANTI-CONTROL
 * Conservative Republicans of Texas (CRT): a political action committee that advocates for conservative policies, including opposition to gun control measures.
 
 
-PRO-CONTROL
+PRO-CONTROL: Advocate for laws and regulations that aim to reduce gun violence and promote public safety, often by restricting access to firearms or implementing measures such as background checks and waiting periods.
 * Brady PAC: political action committee that supports candidates and lawmakers who advocate for gun control measures. 
   1) Data: https://www.opensecrets.org/political-action-committees-pacs/brady-pac/C00674093/candidate-recipients/2022
   2) Navigation: (House Canidates > Cycle 20XX > Export to CSV) 
@@ -49,3 +51,78 @@ PRO-CONTROL
 * Americans for Responsible Solutions: a nonprofit organization founded by Gabrielle Giffords and her husband Mark Kelly that advocates for gun control and works to prevent gun violence.
 * Everytown for Gun Safety Action Fund (EGSAF): a Super PAC that supports candidates who advocate for gun control measures.
 * Independence USA PAC: a Super PAC founded by Michael Bloomberg that supports candidates who advocate for gun control measures and other progressive cause.
+
+Healthcare
+---
+ANTI-UNIVERSAL: Prefer a system that is based on private healthcare options and limited government involvement.
+* Americans for Prosperity: a conservative political advocacy group that opposes universal healthcare and advocates for free-market healthcare solutions.
+* Club for Growth: a conservative political action committee that opposes universal healthcare and advocates for free-market healthcare solutions.
+* FreedomWorks: a conservative political advocacy group that opposes universal healthcare and advocates for free-market healthcare solutions.
+* Heritage Foundation: a conservative think tank that opposes universal healthcare and advocates for free-market healthcare solutions.
+* Independent Women's Forum: a conservative women's advocacy group that opposes universal healthcare and advocates for free-market healthcare solutions.
+* American Conservative Union: a conservative political organization that opposes universal healthcare and advocates for free-market healthcare solutions.
+* National Taxpayers Union: a conservative taxpayer advocacy group that opposes universal healthcare and advocates for free-market healthcare solutions.
+
+PRO-UNIVERSAL: Prefer a system that is based on public healthcare facilitated by government involvement.
+* Physicians for a National Health Program (PNHP): a non-profit organization of medical professionals and advocates that supports a single-payer, universal healthcare system in the United States.
+* National Nurses United (NNU): a labor union of registered nurses that supports Medicare for All, a universal healthcare system that would expand and improve Medicare coverage to all Americans.
+* Healthcare-NOW!: a non-profit grassroots organization that advocates for a single-payer, universal healthcare system in the United States.
+* Progressive Democrats of America (PDA): a political action committee that supports progressive policies, including Medicare for All and a single-payer, universal healthcare system.
+* Our Revolution: a political action organization that supports progressive policies, including universal healthcare.
+* Democratic Socialists of America (DSA): a political organization that supports democratic socialism and universal healthcare as a human right.
+* People's Action: a non-profit organization that supports progressive policies, including universal healthcare.
+* Center for Popular Democracy: a non-profit organization that supports progressive policies, including universal healthcare.
+
+Abortion
+---
+ANTI-ABORTION: Advocates in opposition to abortion.
+* National Right to Life Committee (NRLC): a non-profit organization that advocates for pro-life policies and opposes abortion.
+* Susan B. Anthony List (SBA List): a non-profit organization that supports pro-life women running for political office and advocates for pro-life policies.
+* Americans United for Life (AUL): a non-profit organization that advocates for pro-life policies and opposes abortion.
+* Family Research Council (FRC): a conservative Christian non-profit organization that advocates for pro-life policies and opposes abortion.
+* March for Life: a non-profit organization that hosts an annual pro-life rally in Washington D.C. and advocates for pro-life policies.
+* Faith and Freedom Coalition: a conservative Christian non-profit organization that advocates for pro-life policies and opposes abortion.
+* Pro-Life Action League: a non-profit organization that advocates for pro-life policies and opposes abortion through peaceful protests and activism.
+
+PRO-ABORTION: Advocates for the legal right of individuals to make their own choices about their reproductive health, including access to abortion.
+* Planned Parenthood Action Fund: the political arm of Planned Parenthood, a non-profit organization that provides reproductive health services and advocates for reproductive rights, including access to abortion.
+* NARAL Pro-Choice America: a non-profit organization that advocates for reproductive rights and access to abortion, and works to elect pro-choice candidates to political office.
+* EMILY's List: a political action committee that supports pro-choice, Democratic women candidates for political office.
+* Center for Reproductive Rights: a non-profit legal advocacy organization that seeks to advance reproductive rights and access to abortion through litigation and advocacy.
+* Abortion Care Network: a non-profit organization that advocates for the expansion of abortion care access and supports independent abortion care providers.
+* National Organization for Women (NOW): a feminist advocacy organization that supports reproductive rights, including access to abortion, and works to advance gender equality.
+
+Climate Change
+---
+ANTI-CLIMATE: Advocates in opposition to action on climate change
+* Heartland Institute: a conservative think-tank that has been a vocal critic of climate science and has worked to undermine climate action.
+* Americans for Prosperity: a conservative political advocacy group that has opposed action on climate change and has been associated with the fossil fuel industry.
+* Competitive Enterprise Institute: a conservative think-tank that has downplayed the seriousness of climate change and has opposed government action on climate.
+* American Energy Alliance: a conservative advocacy group that promotes fossil fuels and opposes government action on climate change.
+* Freedom Partners: a conservative advocacy group that has opposed climate action and has been associated with the Koch brothers.
+
+PRO-CLIMATE: Supports action on climate change and advocate for policies to mitigate its effects
+* Sierra Club: a non-profit organization that works to protect the environment and advocate for climate action.
+* League of Conservation Voters (LCV): a political advocacy group that supports pro-environment candidates for political office and advocates for policies to address climate change.
+* Environmental Defense Fund (EDF): a non-profit organization that advocates for environmental protection and works on climate issues.
+* Natural Resources Defense Council (NRDC): a non-profit environmental advocacy organization that works on climate issues and promotes sustainable environmental policies.
+* Climate Action Campaign: a coalition of environmental organizations that advocates for policies to address climate change.
+* Sunrise Movement: a youth-led organization that advocates for policies to address climate change and works to elect pro-climate candidates to political office.
+* Clean Air Task Force: a non-profit organization that advocates for policies to address air pollution and climate change.
+
+
+Immigration
+---
+ANTI-IMMIGRATION: Advocates for reduced immigration levels and stricter immigration policies.
+* Federation for American Immigration Reform (FAIR): a non-profit organization that advocates for reduced immigration levels, stricter immigration policies, and increased enforcement.
+* NumbersUSA: a grassroots organization that advocates for reduced immigration levels and stricter immigration policies.
+* Center for Immigration Studies (CIS): a non-profit organization that advocates for reduced immigration levels and stricter immigration policies.
+* Americans for Legal Immigration PAC (ALIPAC): a political action committee that opposes amnesty for undocumented immigrants and advocates for stronger immigration enforcement.
+* U.S. Immigration Reform PAC: a political action committee that advocates for reduced immigration levels and stricter immigration policies.
+    
+PRO-IMMIGRATION:
+* American Civil Liberties Union (ACLU): an organization that advocates for the protection of civil liberties, including immigrant rights.
+* National Immigration Law Center (NILC): a legal advocacy organization that works to protect and expand the rights of low-income immigrants.
+* United We Dream: a youth-led organization that advocates for the rights of undocumented immigrants.
+* National Immigration Forum: an organization that advocates for pro-immigrant policies, including a pathway to citizenship for undocumented immigrants.
+* Immigration Equality: an organization that advocates for the rights of LGBTQ+ immigrants.
