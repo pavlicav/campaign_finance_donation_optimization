@@ -1,6 +1,6 @@
 Abstract
 ---
-Note: Data is from 2018/2020/2022 for House ONLY
+Note: Data is from 2022 for House ONLY
 
 Organizations will use donations to enable an organization to fund more advocacy efforts, such as advertising campaigns and lobbying efforts, a smaller organization with fewer donations may still be effective in mobilizing grassroots support, organizing rallies and protests, and engaging with elected officials and policymakers. The impact of an organization's advocacy efforts cannot always be measured solely by the amount of donations it receives, as there are a variety of factors that can influence the success of a particular policy initiative or campaign, such as public opinion, political climate, and media coverage. Instead, we hope to use the endorsement data to signal to users which policymakers of the House of Representives support which ideologies. It's important to note that these lists are not exhaustive, and there may be other organizations, PACs, and Super PACs that support the listed ideologies.
 
