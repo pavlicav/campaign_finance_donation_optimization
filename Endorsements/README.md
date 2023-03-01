@@ -94,14 +94,15 @@ PRO-ABORTION: Advocates for the legal right of individuals to make their own cho
 
 Climate Change
 ---
-ANTI-CLIMATE: Advocates in opposition to action on climate change
-* Heartland Institute: a conservative think-tank that has been a vocal critic of climate science and has worked to undermine climate action.
-* Americans for Prosperity: a conservative political advocacy group that has opposed action on climate change and has been associated with the fossil fuel industry.
-* Competitive Enterprise Institute: a conservative think-tank that has downplayed the seriousness of climate change and has opposed government action on climate.
-* American Energy Alliance: a conservative advocacy group that promotes fossil fuels and opposes government action on climate change.
-* Freedom Partners: a conservative advocacy group that has opposed climate action and has been associated with the Koch brothers.
+ANTI-CLIMATE: Advocates in opposition to carbon tax
+* Americans for Prosperity: This is a conservative political advocacy group that opposes carbon taxes and supports free market solutions to address climate change.
+* Competitive Enterprise Institute: This is a free-market think tank that opposes carbon taxes and advocates for alternative policies to address climate change, such as technological innovation and adaptation.
+* National Taxpayers Union: This is a nonpartisan organization that advocates for lower taxes and opposes carbon taxes on the grounds that they would increase energy costs for consumers.
+* The Heartland Institute: This is a conservative think tank that opposes carbon taxes and promotes skepticism of mainstream climate science.
+* FreedomWorks: This is a conservative advocacy group that opposes carbon taxes and supports market-based solutions to address climate change.
+Americans for Tax Reform: This is a conservative advocacy group that opposes carbon taxes and advocates for lower taxes and limited government.
 
-PRO-CLIMATE: Supports action on climate change and advocate for policies to mitigate its effects
+PRO-CLIMATE: Supports action on carbon tax
 * Citizens' Climate Lobby: This is a grassroots organization that advocates for policies to address climate change, including a revenue-neutral carbon fee and dividend.
 * Environmental Defense Fund: This organization advocates for a cap-and-trade system to reduce carbon emissions and supports a carbon tax as a backup option if cap-and-trade is not feasible.
 * League of Conservation Voters: This is a political action committee that supports candidates who prioritize environmental issues, including a carbon tax.
