@@ -102,13 +102,13 @@ ANTI-CLIMATE: Advocates in opposition to action on climate change
 * Freedom Partners: a conservative advocacy group that has opposed climate action and has been associated with the Koch brothers.
 
 PRO-CLIMATE: Supports action on climate change and advocate for policies to mitigate its effects
-* Sierra Club: a non-profit organization that works to protect the environment and advocate for climate action.
-* League of Conservation Voters (LCV): a political advocacy group that supports pro-environment candidates for political office and advocates for policies to address climate change.
-* Environmental Defense Fund (EDF): a non-profit organization that advocates for environmental protection and works on climate issues.
-* Natural Resources Defense Council (NRDC): a non-profit environmental advocacy organization that works on climate issues and promotes sustainable environmental policies.
-* Climate Action Campaign: a coalition of environmental organizations that advocates for policies to address climate change.
-* Sunrise Movement: a youth-led organization that advocates for policies to address climate change and works to elect pro-climate candidates to political office.
-* Clean Air Task Force: a non-profit organization that advocates for policies to address air pollution and climate change.
+* Citizens' Climate Lobby: This is a grassroots organization that advocates for policies to address climate change, including a revenue-neutral carbon fee and dividend.
+* Environmental Defense Fund: This organization advocates for a cap-and-trade system to reduce carbon emissions and supports a carbon tax as a backup option if cap-and-trade is not feasible.
+* League of Conservation Voters: This is a political action committee that supports candidates who prioritize environmental issues, including a carbon tax.
+* Our Climate: This is a youth-led organization that advocates for carbon pricing policies, including a carbon tax and dividend.
+* Sierra Club: This is a grassroots environmental organization that supports a price on carbon as a way to reduce emissions and transition to clean energy.
+* Sunrise Movement: This is a youth-led organization that advocates for a Green New Deal, which includes a price on carbon as one of its components.
+* Climate Leadership Council: This is a coalition of businesses, NGOs, and former government officials that supports a revenue-neutral carbon tax as a way to reduce emissions and protect the economy.
 
 
 Immigration
