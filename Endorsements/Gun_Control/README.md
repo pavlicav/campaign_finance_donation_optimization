@@ -1,0 +1,9 @@
+ANTI-CONTROL:
+* NRA
+* GOA
+* NAGR
+
+PRO-CONTROL:
+* BradyPAC
+* GiffordsPAC
+* EGS
