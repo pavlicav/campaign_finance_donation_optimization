@@ -9,6 +9,14 @@ Team Members - Thao Nguyen, John Okoniewski, Vivian Pavlica, Ben Ramsey, Gregory
 
 <img src="https://img.youtube.com/vi/0gkptmWfgPM/maxresdefault.jpg" width="30%">
 
+
+[[Watch the closed loop video](https://youtu.be/0gkptmWfgPM)]
+
+
+<img src="https://youtu.be/9-F37dZz9DY" width="30%">
+
+
+
 ## Objective
 The purpose of the application is to allow users of the website to be able to select political issues that are important to them and match with candidates that could benefit the most from their donation.
 
