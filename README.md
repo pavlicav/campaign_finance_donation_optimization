@@ -10,7 +10,7 @@ Team Members - Thao Nguyen, John Okoniewski, Vivian Pavlica, Ben Ramsey, Gregory
 <img src="https://img.youtube.com/vi/0gkptmWfgPM/maxresdefault.jpg" width="30%">
 
 
-[[Watch the closed loop video](https://youtu.be/0gkptmWfgPM)]
+[[Watch the closed loop video]([https://youtu.be/0gkptmWfgPM](https://www.youtube.com/watch?v=9-F37dZz9DY))]
 
 
 <img src="https://www.youtube.com/watch?v=9-F37dZz9DY" width="30%">
