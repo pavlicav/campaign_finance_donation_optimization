@@ -1,0 +1,20 @@
+---COLUMNS FROM FIVE THIRTY EIGHT---
+Index: State (2 letter) - district number (1 for at large) - Party
+Branch: Branch of congress, in this case all are house
+District: District, in form of State (2-letter postal abreviation) - Number (1 for At-Large)
+forecastdate: Date forecast was updated by 538. This is frozen at 11/08/22, election day, when the forecast stopped updating.
+name: Candidate Name
+win_pct: Candidate's % odds of winning their seat
+tipping: Candidate's % chance of being the median seat. 
+         "After the election, imagine that you order all 435 House districts from the biggest Republican victory to the biggest Democratic victory. The 218th seat is the tipping-point seat because it is the House’s median seat by partisanship. Therefore, the party that wins the tipping-point seat, and every seat that is the same color behind it, has won the House." - 538 article
+timestamp: forecastdate in datetime format
+party: D for Dem, R for Republican. No independents in our dataset
+---COLUMNS FROM FEC---
+Cand_Incumbent_Challenger_Open_Seat: Whether the candidate is an incumbent (currently holds the seat), challenger (their opponent is an incumbent), or open (neither candidate currently holds the seat)
+Total_Receipt: total money raised
+Total_Disbursement: total money spent
+Cash_On_Hand_COP: money raised but not yet spent
+Opponent_Disb: Total_Disbursement for candidate of opposite party in same district
+Cash_Advantage: Total_Disbursement - Opponent_Disb
+---DATA FROM WIKIPEDIA---
+Won?: Whether or not that district was represented by a candidate with the same party as of March 2023 
