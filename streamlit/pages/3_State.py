@@ -297,6 +297,8 @@ if st.button('Submit'):
                     party = 'Republican'
                 elif row['party'] == 'D':
                     party = 'Democrat'
+                image = Image.open(f'streamlit/pages/can_pics/{t}.jpg')
+                st.image(image)
                 components.html(create_card_update(t),width=400, height=700)
 #                 if t=='budzinski' or t=='daniels':
 # #                     image = Image.open(f'pages/can_pics/{t}.jpg')
