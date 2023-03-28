@@ -2,6 +2,26 @@
 import streamlit as st
 from PIL import Image
 import streamlit.components.v1 as components
+import pandas as pd
+import plotly.express as px
+import plotly
+
+df = pd.read_csv("538_FEC_Won_Opponent_Combined_Dataset.csv")
+district_sum = pd.DataFrame(df.groupby(["district"])["Total_Disbursement"].sum()).reset_index()
+district_sum.rename(columns = {'Total_Disbursement':'Combined_Disbursement'}, inplace = True)
+df = pd.merge(df, district_sum, how='left')
+df['Percentage_USED_TOTAL'] = 100*(df.Total_Disbursement / df.Combined_Disbursement)
+combined = px.scatter(df, 
+           y="Percentage_USED_TOTAL", x = "win_pct", 
+           hover_data = ["name", "district", "party"], 
+           color = "Won?",
+           labels={
+                     "Percentage_USED_TOTAL": "Percentage of combined disbursement spent",
+                     "win_pct": "Win percentage",
+                     "Won?": "Won race?"
+                 },
+          title = "Candidates who spend more money usually win")
+html_string = plotly.io.to_html(combined)
 
 # Confit
 st.set_page_config(page_title='About Us', page_icon=':bar_chart:', layout='wide')
@@ -25,8 +45,8 @@ st.write(
 
     """
 )
-image = Image.open("streamlit/combined_disbursement.png")
-st.image(image, caption="test")
+# image = Image.open("streamlit/combined_disbursement.png")
+components.html(html_string, caption="test", height = 400, width = "100%")
 
 st.write("""As a result, the idea for the website was developed with the intention of bringing awareness to candidates that have less funding for their campaigns. Furthermore, we hope that bringing this information to light will allow users to gain more influence with their donations as they could pinpoint candidates that need money the most through this website. 
          """
