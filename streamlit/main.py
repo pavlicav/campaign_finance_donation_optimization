@@ -21,6 +21,8 @@ combined = px.scatter(df,
                      "Won?": "Won race?"
                  },
           title = "Candidates who spend more money usually win")
+
+st.plotly_chart(combined,theme="streamlit")
 html_string = plotly.io.to_html(combined)
 
 # Confit
