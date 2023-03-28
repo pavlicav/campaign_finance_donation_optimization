@@ -187,7 +187,7 @@ def create_card_update(name):
 
 
     <div class="card">
-      <img src="https://github.com/pavlicag/campaign_finance_donation_optimization/blob/main/streamlit/pages/can_pics/person.jpeg" alt="person" width="300" height="300">
+      <img src="streamlit/pages/can_pics/person.jpeg" alt="person" width="300" height="300">
       <h1>person</h1>
       <p class="title">CEO & Founder, Example</p>
       <p></p>
