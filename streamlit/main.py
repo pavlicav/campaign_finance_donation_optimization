@@ -27,7 +27,7 @@ st.write(
 )
 image = Image.open("streamlit/combined_disbursement.png")
 st.image(image, caption="test")
-components.html(test.html,width=400, height=700)
+components.html("https://raw.githubusercontent.com/pavlicag/campaign_finance_donation_optimization/main/streamlit/test.html",width=400, height=700)
 st.write("""As a result, the idea for the website was developed with the intention of bringing awareness to candidates that have less funding for their campaigns. Furthermore, we hope that bringing this information to light will allow users to gain more influence with their donations as they could pinpoint candidates that need money the most through this website. 
          """
         )
