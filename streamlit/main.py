@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 import streamlit.components.v1 as components
 import pandas as pd
-# import plotly.express as px
+import plotly.express as px
 import plotly
 
 df = pd.read_csv("/files/538_FEC_Won_Opponent_Combined_Dataset.csv")
