@@ -297,35 +297,10 @@ if st.button('Submit'):
                     party = 'Republican'
                 elif row['party'] == 'D':
                     party = 'Democrat'
-                image = Image.open(f'streamlit/pages/can_pics/{t}.jpg')
+                image = Image.open(f'streamlit/pages/can_pics/{t}.jpeg')
                 st.image(image)
                 components.html(create_card_update(t),width=400, height=700)
-#                 if t=='budzinski' or t=='daniels':
-# #                     image = Image.open(f'pages/can_pics/{t}.jpg')
-# #                     st.subheader(t.title()+', ' +party)
-# #                     st.subheader(row['district'])
-# #                     st.image(image)
-#                     hasClicked = card(
-#                           title=f"{t.title()} {party}",
-#                           text="row['district']",
-#                           image=f'can_pics/{t}.jpg'
 
-#                         )
-
-#                 else:
-# #                     image = Image.open(f'pages/can_pics/{t}.jpeg')
-# # #                     st.image(Image.open(f'can_pics/{t}.png'))
-# #                     st.subheader(t.title()+', '+ party)
-# #                     st.subheader(row['district'])
-# #                     st.image(image)
-#                         hasClicked = card(
-#                           title=f"{t.title()} {party}",
-#                           text="row['district']",
-#                           image=f'can_pics/{t}.jpeg'
-
-#                         )
-                        
-#                         st.write(hasClicked)
     
 
                     
