@@ -141,6 +141,7 @@ def get_icons(name,file):
     return temp
 
 def create_card_update(name):
+    
     a="""<html>
     <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
@@ -206,8 +207,8 @@ def create_card_update(name):
     name=name.replace("-","_")
     name=name.replace(" ","_")
     name=name.replace("'","")
-
     a=a.replace("person",name)
+    print(a)
     return a
 # def checkbox_container(data):
 #     st.subheader('Check the important issues to you:')
@@ -258,21 +259,6 @@ def match(df,values):
 if st.button('Submit'):
     
     with right_column:
-#         create_card("patti")
-#         components.html(create_card("aadland"),width=200, height=400)
-        #st.markdown(create_card("aadland"))
-#         image = Image.open(f'https://raw.githubusercontent.com/ramseybe/campaign_prototype/main/pages/can_pics/barrett.jpeg')
-#         st.image(image)
-#         st.image(
-#             "https://raw.githubusercontent.com/ramseybe/campaign_prototype/main/pages/can_pics/barrett.jpeg",
-#             width=400, # Manually Adjust the width of the image as per requirement
-#         )
-
-
-        html_string = "<h3>this is an html string</h3>"
-
-        st.markdown(html_string, unsafe_allow_html=True)
-
         st.subheader('Candidates that best align with your views:')
         with st.container():
             data = read_file()
