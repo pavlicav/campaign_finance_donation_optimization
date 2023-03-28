@@ -3,14 +3,14 @@ import streamlit as st
 import streamlit.components.v1 as components
 import pandas as pd
 from PIL import Image
-from streamlit_card import card
-from IPython.core.display import HTML
+# from streamlit_card import card
+# from IPython.core.display import HTML
 issues=["abortion","gun_control", "climate_change",  "immigration", "healthcare"]
 checked=[]
 party=''
 st.set_page_config(
     page_icon="📈",
-    layout="wide",)
+    layout="wide")
 DATA_URL='https://raw.githubusercontent.com/ramseybe/hackathon_campaign/main/50_toss_up1.csv'
 st.header("Make a Difference This Election!", )
 left_column, right_column = st.columns([3,5])
@@ -28,83 +28,84 @@ for key, val in thing.items():
     needed = val
     break
 
-def create_card(name):
-    file = pd.read_csv('https://raw.githubusercontent.com/ramseybe/hackathon_campaign/main/50_toss_up1.csv')
-    file=file.drop(["Unnamed: 0"],axis=1)
+# def create_card(name):
+#     file = pd.read_csv('https://raw.githubusercontent.com/ramseybe/hackathon_campaign/main/50_toss_up1.csv')
+#     file=file.drop(["Unnamed: 0"],axis=1)
     
-    tempname=name.title()
-    name=name.lower()
+#     tempname=name.title()
+#     name=name.lower()
 
-    person=file.iloc[file.index[file["name"] == tempname].values[0]]
+#     person=file.iloc[file.index[file["name"] == tempname].values[0]]
 
-    card="""<html>
-<head>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 500px;
-  margin: auto;
-  text-align: center;
-  font-family: arial;
-}
+#     card="""<html>
+# <head>
+# <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+# <style>
+# .card {
+#   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+#   max-width: 500px;
+#   margin: auto;
+#   text-align: center;
+#   font-family: arial;
+# }
 
-.title {
-  color: grey;
-  font-size: 18px;
-}
-
-
-
-button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-  font-size: 18px;
-}
-
-a {
-  text-decoration: none;
-  font-size: 22px;
-  color: black;
-}
-
-button:hover, a:hover {
-  opacity: 0.7;
-}
-</style>
-</head>
-<body>
+# .title {
+#   color: grey;
+#   font-size: 18px;
+# }
 
 
 
-<div class="card">
-  <img src="https://raw.githubusercontent.com/ramseybe/campaign_prototype/main/pages/can_pics/person.jpeg" alt="person" style="width:100%">
-  <h1>person</h1>
-  <p class="title">district, party</p>
-  <p>Harvard University</p>
-  <div style="margin: 24px 0;">
-  </div>
+# button {
+#   border: none;
+#   outline: 0;
+#   display: inline-block;
+#   padding: 8px;
+#   color: white;
+#   background-color: #000;
+#   text-align: center;
+#   cursor: pointer;
+#   width: 100%;
+#   font-size: 18px;
+# }
+
+# a {
+#   text-decoration: none;
+#   font-size: 22px;
+#   color: black;
+# }
+
+# button:hover, a:hover {
+#   opacity: 0.7;
+# }
+# </style>
+# </head>
+# <body>
+
+
+
+# <div class="card">
+#   <img src="https://github.com/pavlicag/campaign_finance_donation_optimization/edit/main/streamlit/pages/can_pics/person.jpeg" alt="person" style="width:100%", height=100>
+#   <h1>person</h1>
+#   <p class="title">district, party</p>
+#   <p>Harvard University</p>
+#   <div style="margin: 24px 0;">
+#   </div>
   
   
-  <p><button>Donate!</button></p>
-</div>
+#   <p><button>Donate!</button></p>
+# </div>
 
-</body>
-</html>"""
-    #name
-    card=card.replace("person",name)
-    #district
-    card=card.replace("district",person["district"])
-    #party
-    card=card.replace("party",person["party"])
-    return card
+# </body>
+# </html>"""
+#     #name
+#     card=card.replace("person",name)
+#     #district
+#     card=card.replace("district",person["district"])
+#     #party
+#     card=card.replace("party",person["party"])
+#     return card
+
 def get_icons(name,file):
     temp=""""""
     template="""<span class="fa-stack fa-2x">
@@ -141,6 +142,7 @@ def get_icons(name,file):
     return temp
 
 def create_card_update(name):
+    
     a="""<html>
     <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
@@ -206,22 +208,10 @@ def create_card_update(name):
     name=name.replace("-","_")
     name=name.replace(" ","_")
     name=name.replace("'","")
-
     a=a.replace("person",name)
+    st.write(name)
     return a
-# def checkbox_container(data):
-#     st.subheader('Check the important issues to you:')
-#     age = st.select_slider('How old are you?',["Pro","Neutral","Anti"])
 
-#     for i in data:
-#         st.checkbox(i.replace("_"," "), key='dynamic_checkbox_' + i)
-
-# def get_selected_checkboxes():
-#     return [i.replace('dynamic_checkbox_','') for i in st.session_state.keys() if i.startswith('dynamic_checkbox_') and st.session_state[i]]
-
-# def checked_to_list(data):
-#     for i in data.columns():
-#         pass
 with left_column:
     abortion = st.select_slider('Stance on Abortion',["Pro","Neutral","Anti"],value="Neutral")
     guncontrol = st.select_slider('Stance on Guns',["Pro","Neutral","Anti"],value="Neutral")
@@ -258,21 +248,6 @@ def match(df,values):
 if st.button('Submit'):
     
     with right_column:
-#         create_card("patti")
-#         components.html(create_card("aadland"),width=200, height=400)
-        #st.markdown(create_card("aadland"))
-#         image = Image.open(f'https://raw.githubusercontent.com/ramseybe/campaign_prototype/main/pages/can_pics/barrett.jpeg')
-#         st.image(image)
-#         st.image(
-#             "https://raw.githubusercontent.com/ramseybe/campaign_prototype/main/pages/can_pics/barrett.jpeg",
-#             width=400, # Manually Adjust the width of the image as per requirement
-#         )
-
-
-        html_string = "<h3>this is an html string</h3>"
-
-        st.markdown(html_string, unsafe_allow_html=True)
-
         st.subheader('Candidates that best align with your views:')
         with st.container():
             data = read_file()
@@ -297,45 +272,14 @@ if st.button('Submit'):
                     party = 'Republican'
                 elif row['party'] == 'D':
                     party = 'Democrat'
+                st.write(t)
+                image = Image.open(f'streamlit/pages/can_pics/{t}.jpeg')
+                st.image(image)
                 components.html(create_card_update(t),width=400, height=700)
-#                 if t=='budzinski' or t=='daniels':
-# #                     image = Image.open(f'pages/can_pics/{t}.jpg')
-# #                     st.subheader(t.title()+', ' +party)
-# #                     st.subheader(row['district'])
-# #                     st.image(image)
-#                     hasClicked = card(
-#                           title=f"{t.title()} {party}",
-#                           text="row['district']",
-#                           image=f'can_pics/{t}.jpg'
 
-#                         )
 
-#                 else:
-# #                     image = Image.open(f'pages/can_pics/{t}.jpeg')
-# # #                     st.image(Image.open(f'can_pics/{t}.png'))
-# #                     st.subheader(t.title()+', '+ party)
-# #                     st.subheader(row['district'])
-# #                     st.image(image)
-#                         hasClicked = card(
-#                           title=f"{t.title()} {party}",
-#                           text="row['district']",
-#                           image=f'can_pics/{t}.jpeg'
 
-#                         )
-                        
-#                         st.write(hasClicked)
-    
-
-                    
-                cls=['district', 'name', 'percent', 'party', 'abortion', 'gun_control', 'climate_change', 'gender_identity',
-                 'pro_marijuana', 'captial_punishment', 'fracking', 'defense_spending', 'immigration',
-                 'net_neutrality']
-#                 for j in cls:
-#                     if row[j] == 1:
-#                         b=j.replace("_"," ")
-#                         st.write(f"Pro-{b.title()}", end=" ")
 
                 st.write(
                     f"Click here to donate to their campaign [{t} campaign](http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html)")
 
-                # st.write("canidate url")
