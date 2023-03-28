@@ -3,5 +3,5 @@ pandas
 numpy
 streamlit
 fuzzywuzzy
-IPython.core.display
+IPython
 PIL
