@@ -209,6 +209,7 @@ def create_card_update(name):
     name=name.replace(" ","_")
     name=name.replace("'","")
     a=a.replace("person",name)
+    st.write(name)
     return a
 
 with left_column:
