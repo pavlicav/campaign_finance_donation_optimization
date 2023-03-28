@@ -6,7 +6,7 @@ import pandas as pd
 import plotly.express as px
 import plotly
 
-df = pd.read_csv("files/538_FEC_Won_Opponent_Combined_Dataset.csv")
+df = pd.read_csv("538_FEC_Won_Opponent_Combined_Dataset.csv")
 district_sum = pd.DataFrame(df.groupby(["district"])["Total_Disbursement"].sum()).reset_index()
 district_sum.rename(columns = {'Total_Disbursement':'Combined_Disbursement'}, inplace = True)
 df = pd.merge(df, district_sum, how='left')
