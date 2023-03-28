@@ -39,7 +39,7 @@ st.write(
 
 
 
-st.plotly_chart(combined,theme="streamlit")
+
 st.subheader("Why we did it")
 st.write(
     """
@@ -48,8 +48,8 @@ st.write(
     """
 )
 # image = Image.open("streamlit/combined_disbursement.png")
-components.html(html_string, height = 400, width = 800)
-
+# components.html(html_string, height = 400, width = 800)
+st.plotly_chart(combined)
 st.write("""As a result, the idea for the website was developed with the intention of bringing awareness to candidates that have less funding for their campaigns. Furthermore, we hope that bringing this information to light will allow users to gain more influence with their donations as they could pinpoint candidates that need money the most through this website. 
          """
         )
