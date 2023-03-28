@@ -4,6 +4,9 @@ Sponsor - Dr. Randal Olsen
 
 Team Members - Thao Nguyen, John Okoniewski, Vivian Pavlica, Ben Ramsey, Gregory Zavalnitskiy
 
+## Web App
+https://pavlicag-campaign-finance-donation-optimiz-streamlitmain-iuzsxf.streamlit.app/
+
 [[Watch the proposal video](https://youtu.be/0gkptmWfgPM)]
 
 
