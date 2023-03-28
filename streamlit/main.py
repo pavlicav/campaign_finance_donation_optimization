@@ -22,7 +22,7 @@ combined = px.scatter(df,
                  },
           title = "Candidates who spend more money usually win")
 
-st.plotly_chart(combined,theme="streamlit")
+
 html_string = plotly.io.to_html(combined)
 
 # Confit
@@ -39,7 +39,7 @@ st.write(
 
 
 
-
+st.plotly_chart(combined,theme="streamlit")
 st.subheader("Why we did it")
 st.write(
     """
