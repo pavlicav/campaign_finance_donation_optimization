@@ -35,7 +35,8 @@ st.write("""As a result, the idea for the website was developed with the intenti
 st.subheader('How it works')
 st.write(
     """
-    The website currently allows users to select political issues that are important to them. These issues include Gun Control, Public or Private healthcare, Immigration (DACA), Access to Abortion, and Severity of Climate change. After selection, profiles of 2022 House of Representative candidates are shown to the user. The order presented is sorted based off a combination of shared ideologies and closest race, based upon fivethirtyeight.org. After the user finds a candidate, they will have the option to continue to the candidate's website and support them.
+    The website currently allows users to select their stance on political issues that are important to them. These issues include gun control, public or private healthcare, immigration (DACA), access to abortion, and severity of climate change. After selection, profiles of 2022 House of Representative candidates are shown to the user. The order presented is sorted based on a combination of shared ideologies and tipping point percentages for each candidate. In politics, the tipping point is the percentage chance that a seat decides control of the House. The data of ideologies of each candidate is collected by our team and the tipping point percentages are from fivethirtyeight.org. After the user finds a candidate, they will have the option to continue to the candidate's website and support them. 
+
     """
 )
 
