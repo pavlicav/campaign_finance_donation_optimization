@@ -10,9 +10,7 @@ st.title('Home Page')
 st.subheader("About us")
 st.write(
     """
-    Every election cycle, there are thousands of competitive races that lack financial information that voters could find whether it is on the federal, state, or local level. 
-    As a result, the goal of the website is to provide voters with not only the finance for each candidates’ campaigns but allow users to narrow down the campaigns that need money the most. We believe that through this idea, voters will have more access to this information which will allow them to have more choices to vote for. Additionally, candidates who have more funding tend to have more recognition which may affect the voter’s pool of choice. 
-    We hope that through this website, candidates with less funding can be made more aware to the voting population.
+   The Olson Campaign Finance consists of five undergraduate data science students from Michigan State University assembled by Dr. Dirk Colbry and mentored by Dr. Randy Olson. The team was formed with the common goal of creating a website that will allow users to donate to political candidates who need funding the most.  
     """
 )
 
@@ -22,11 +20,15 @@ st.write(
 st.subheader("Why we did it")
 st.write(
     """
-    Every election cycle, there are thousands of competitive races that lack financial information that voters could find whether it is on the federal, state, or local level. 
-    As a result, the goal of the website is to provide voters with not only the finance for each candidates’ campaigns but allow users to narrow down the campaigns that need money the most. We believe that through this idea, voters will have more access to this information which will allow them to have more choices to vote for. Additionally, candidates who have more funding tend to have more recognition which may affect the voter’s pool of choice. 
-    We hope that through this website, candidates with less funding can be made more aware to the voting population.
+   Using data from the FEC (Federal Election Commission) for the 2022 House of Representatives elections, there was a clear trend between win percentage and amount of money that each candidate spent on their campaigns. In the figure below, the combined disbursement is the total amount of money that both candidates spent in one race. The percentage of combined disbursement, seen on the y-axis, the portion of the combined disbursement that each candidate spent. In this case, it is apparent that the more money that a candidate spends, the more likely they are to win. 
+
     """
 )
+image = image.open("combined_disbursement.png")
+st.image(image, caption="test")
+st.write("""As a result, the idea for the website was developed with the intention of bringing awareness to candidates that have less funding for their campaigns. Furthermore, we hope that bringing this information to light will allow users to gain more influence with their donations as they could pinpoint candidates that need money the most through this website. 
+         """
+        )
 
 st.subheader('How it works')
 st.write(
