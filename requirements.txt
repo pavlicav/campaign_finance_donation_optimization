@@ -4,4 +4,3 @@ numpy
 streamlit
 fuzzywuzzy
 IPython
-PIL
