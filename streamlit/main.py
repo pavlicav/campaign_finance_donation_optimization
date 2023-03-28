@@ -14,7 +14,9 @@ st.title('About Us')
 st.subheader("Why we did it")
 st.write(
     """
-    Every election cycle, there are thousands of competitive races that lack financial information that voters could find whether it is on the federal, state, or local level. As a result, the goal of the website is to provide voters with not only the finance for each candidates’ campaigns but allow users to narrow down the campaigns that need money the most. We believe that through this idea, voters will have more access to this information which will allow them to have more choices to vote for. Additionally, candidates who have more funding tend to have more recognition which may affect the voter’s pool of choice. We hope that through this website, candidates with less funding can be made more aware to the voting population.
+    Every election cycle, there are thousands of competitive races that lack financial information that voters could find whether it is on the federal, state, or local level. 
+    As a result, the goal of the website is to provide voters with not only the finance for each candidates’ campaigns but allow users to narrow down the campaigns that need money the most. We believe that through this idea, voters will have more access to this information which will allow them to have more choices to vote for. Additionally, candidates who have more funding tend to have more recognition which may affect the voter’s pool of choice. 
+    We hope that through this website, candidates with less funding can be made more aware to the voting population.
     """
 )
 
