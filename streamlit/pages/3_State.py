@@ -85,7 +85,7 @@ button:hover, a:hover {
 
 
 <div class="card">
-  <img src="https://github.com/pavlicag/campaign_finance_donation_optimization/blob/main/streamlit/pages/can_pics/person.jpeg" alt="person" style="width:100%">
+  <img src="https://github.com/pavlicag/campaign_finance_donation_optimization/blob/main/streamlit/pages/can_pics/person.jpeg" alt="person" style="width:100%", height=100>
   <h1>person</h1>
   <p class="title">district, party</p>
   <p>Harvard University</p>
