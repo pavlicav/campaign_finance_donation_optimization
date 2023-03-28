@@ -10,8 +10,7 @@ checked=[]
 party=''
 st.set_page_config(
     page_icon="📈",
-    layout="wide",
-    theme="light",)
+    layout="wide")
 DATA_URL='https://raw.githubusercontent.com/ramseybe/hackathon_campaign/main/50_toss_up1.csv'
 st.header("Make a Difference This Election!", )
 left_column, right_column = st.columns([3,5])
