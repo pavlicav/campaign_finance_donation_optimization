@@ -4,3 +4,4 @@ numpy
 streamlit
 fuzzywuzzy
 IPython
+plotly
