@@ -3,14 +3,15 @@ import streamlit as st
 import streamlit.components.v1 as components
 import pandas as pd
 from PIL import Image
-#from streamlit_card import card
-# from IPython.core.display import HTML
+from streamlit_card import card
+from IPython.core.display import HTML
 issues=["abortion","gun_control", "climate_change",  "immigration", "healthcare"]
 checked=[]
 party=''
 st.set_page_config(
     page_icon="📈",
-    layout="wide",)
+    layout="wide",
+    theme="light",)
 DATA_URL='https://raw.githubusercontent.com/ramseybe/hackathon_campaign/main/50_toss_up1.csv'
 st.header("Make a Difference This Election!", )
 left_column, right_column = st.columns([3,5])
@@ -105,6 +106,7 @@ button:hover, a:hover {
     #party
     card=card.replace("party",person["party"])
     return card
+
 def get_icons(name,file):
     temp=""""""
     template="""<span class="fa-stack fa-2x">
@@ -208,21 +210,8 @@ def create_card_update(name):
     name=name.replace(" ","_")
     name=name.replace("'","")
     a=a.replace("person",name)
-    print(a)
     return a
-# def checkbox_container(data):
-#     st.subheader('Check the important issues to you:')
-#     age = st.select_slider('How old are you?',["Pro","Neutral","Anti"])
 
-#     for i in data:
-#         st.checkbox(i.replace("_"," "), key='dynamic_checkbox_' + i)
-
-# def get_selected_checkboxes():
-#     return [i.replace('dynamic_checkbox_','') for i in st.session_state.keys() if i.startswith('dynamic_checkbox_') and st.session_state[i]]
-
-# def checked_to_list(data):
-#     for i in data.columns():
-#         pass
 with left_column:
     abortion = st.select_slider('Stance on Abortion',["Pro","Neutral","Anti"],value="Neutral")
     guncontrol = st.select_slider('Stance on Guns',["Pro","Neutral","Anti"],value="Neutral")
@@ -287,18 +276,9 @@ if st.button('Submit'):
                 st.image(image)
                 components.html(create_card_update(t),width=400, height=700)
 
-    
 
-                    
-                cls=['district', 'name', 'percent', 'party', 'abortion', 'gun_control', 'climate_change', 'gender_identity',
-                 'pro_marijuana', 'captial_punishment', 'fracking', 'defense_spending', 'immigration',
-                 'net_neutrality']
-#                 for j in cls:
-#                     if row[j] == 1:
-#                         b=j.replace("_"," ")
-#                         st.write(f"Pro-{b.title()}", end=" ")
+
 
                 st.write(
                     f"Click here to donate to their campaign [{t} campaign](http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html)")
 
-                # st.write("canidate url")
