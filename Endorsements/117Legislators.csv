@@ -1,0 +1,537 @@
+cid,firstlast,lastname,office,gender,first_elected,phone,fax,website,webform,congress_office,bioguide_id,votesmart_id,feccandid,twitter_id,youtube_url,facebook_id,birthdate
+N00044245,Jerry Carl,Carl,AL01,M,2020,202225-4931,202225-0562,https://carl.house.gov/,,"1330 Longworth House Office Building, Washington, DC 20515",C001054,,,@RepJerryCarl,,RepJerryCarl,06/17/58
+N00041295,Barry Moore,Moore,AL02,M,2020,202225-2901,,https://barrymoore.house.gov/,,"1504 Longworth House Office Building, Washington, DC 20515",M001212,,,@RepBarryMoore,,,09/02/66
+N00024759,Mike D Rogers,Rogers,AL03,M,2002,202-225-3261,202-226-8485,https://mikerogers.house.gov,http://mike-rogers.house.gov/contact-mike/email-me,2184 Rayburn House Office Building,R000575,5705,H2AL03032,RepMikeRogersAL,https://youtube.com/MikeRogersAL03,CongressmanMikeDRogers,1958-07-16
+N00003028,Robert B Aderholt,Aderholt,AL04,M,1996,202-225-4876,202-225-5587,https://aderholt.house.gov,http://aderholt.house.gov/email-me2/,235 Cannon House Office Building,A000055,441,H6AL04098,Robert_Aderholt,https://youtube.com/RobertAderholt,RobertAderholt,1965-07-22
+N00048145,Dale Strong,Strong,AL05,M,2022,,,,,,,,,,,,
+N00035691,Gary Palmer,Palmer,AL06,M,2014,202-225-4921,202-225-2082,https://palmer.house.gov,,330 Cannon House Office Building,P000609,,H4AL06098,USRepGaryPalmer,,CongressmanGaryPalmer,1954-05-14
+N00030622,Terri Sewell,Sewell,AL07,F,2010,202-225-2665,202-226-9567,https://sewell.house.gov,https://sewell.house.gov/email-me,2201 Rayburn House Office Building,S001185,121621,H0AL07086,RepTerriSewell,https://youtube.com/RepSewell,RepSewell,1965-01-01
+N00044434,Tommy Tuberville,Tuberville,ALS1,M,2020,202224-4124,,https://www.tuberville.senate.gov/,,"Dirksen Senate Office Building Suite B40A   Washington, DC 20510",T000278,188306,,@SenTuberville,,,09/18/54
+N00048812,Katie Britt,Britt,ALS2,F,2022,,,,,,,,,,,,
+N00050780,Mary Peltola,Peltola,AK01,F,2022,,,,,,,,,,,,
+N00035774,Dan Sullivan,Sullivan,AKS1,M,2014,202-224-3004,,https://www.sullivan.senate.gov,https://www.sullivan.senate.gov/contact/email,702 Hart Senate Office Building,S001198,,S4AK00214,SenDanSullivan,,SenDanSullivan,1964-11-13
+N00026050,Lisa Murkowski,Murkowski,AKS2,F,2002,202-224-6665,202-224-5301,https://www.murkowski.senate.gov,https://www.murkowski.senate.gov/public/index.cfm/contact,522 Hart Senate Office Building,M001153,15841,S4AK00099,LisaMurkowski,https://youtube.com/senatormurkowski,SenLisaMurkowski,1957-05-22
+N00006460,David Schweikert,Schweikert,AZ01,M,2010,202-225-2190,202-225-0096,https://schweikert.house.gov,https://schweikert.house.gov/contact-form,2059 Rayburn House Office Building,S001183,106387,H4AZ06045,RepDavid,https://youtube.com/RepDavidSchweikert,repdavidschweikert,1962-03-03
+N00048953,Eli Crane,Crane,AZ02,M,2022,,,,,,,,,,,,
+N00036097,Ruben Gallego,Gallego,AZ03,M,2014,202-225-4065,,https://rubengallego.house.gov,,1218 Longworth House Office Building,G000574,,H4AZ07043,RepRubenGallego,,RepRubenGallego,1979-11-20
+N00041750,Greg Stanton,Stanton,AZ04,M,2018,202-225-9888,,https://stanton.house.gov/,,128 Cannon House Office Building,S001211,,,RepGregStanton,,,1970-03-08
+N00039293,Andy Biggs,Biggs,AZ05,M,2016,202-225-2635,,https://biggs.house.gov,,1626 Longworth House Office Building,B001302,,,RepAndyBiggsAZ,,RepAndyBiggs,1958-11-07
+N00049039,Juan Ciscomani,Ciscomani,AZ06,M,2022,,,,,,,,,,,,
+N00025284,Raul M Grijalva,Grijalva,AZ07,M,2002,202-225-2435,202-225-1541,https://grijalva.house.gov,https://grijalvaforms.house.gov/email-raul,1511 Longworth House Office Building,G000551,28253,H2AZ07070,RepRaulGrijalva,https://youtube.com/raulgrijalvaaz07,Rep.Grijalva,1948-02-19
+N00042056,Debbie Lesko,Lesko,AZ08,F,2018,202-225-4576,,https://lesko.house.gov/,,1113 Longworth House Office Building,L000589,,,RepDLesko,,RepDebbieLesko,1958-11-14
+N00030771,Paul Gosar,Gosar,AZ09,M,2010,202-225-2315,202-226-9739,http://gosar.house.gov,https://gosar.house.gov/contact-me/email-me,2057 Rayburn House Office Building,G000565,123491,H0AZ01259,RepGosar,https://youtube.com/repgosar,repgosar,1958-11-22
+N00044223,Mark Kelly,Kelly,AZS1,M,2020,202224-2235,,https://www.kelly.senate.gov/,,"Dirksen Senate Office Building Suite B40B   Washington, DC 20510",K000377,,,@SenMarkKelly,,,02/21/64
+N00033983,Kyrsten Sinema,Sinema,AZS2,F,2018,202-225-9888,202-225-9731,https://sinema.house.gov,https://sinemaforms.house.gov/forms/writeyourrep/,1725 Longworth House Office Building,S001191,28338,H2AZ09019,RepSinema,https://youtube.com/repsinema,CongresswomanSinema,1976-07-12
+N00030770,Rick Crawford,Crawford,AR01,M,2010,202-225-4076,202-225-5602,http://crawford.house.gov,http://crawford.house.gov/contact/,2422 Rayburn House Office Building,C001087,119208,H0AR01083,RepRickCrawford,https://youtube.com/RepRickCrawford,RepRickCrawford,1966-01-22
+N00035792,French Hill,Hill,AR02,M,2014,202-225-2506,202-225-5903,https://hill.house.gov,,1229 Longworth House Office Building,H001072,,H4AR02141,RepFrenchHill,,RepFrenchHill,1956-12-05
+N00031857,Steve Womack,Womack,AR03,M,2010,202-225-4301,202-225-5713,http://womack.house.gov,https://womack.house.gov/contact/contactform.htm,2412 Rayburn House Office Building,W000809,71815,H0AR03055,Rep_SteveWomack,https://youtube.com/CongressmanWomack,RepSteveWomack,1957-02-18
+N00035527,Bruce Westerman,Westerman,AR04,M,2014,202-225-3772,,https://westerman.house.gov,,130 Cannon House Office Building,W000821,,H4AR04048,RepWesterman,,RepWesterman,1967-11-18
+N00033363,Tom Cotton,Cotton,ARS1,M,2014,202-224-2353,,https://www.cotton.senate.gov,http://www.cotton.senate.gov/?p=contact,124 Russell Senate Office Building,C001095,135651,H2AR04083,SenTomCotton,https://youtube.com/RepTomCotton,SenatorTomCotton,1977-05-13
+N00013873,John Boozman,Boozman,ARS2,M,2010,202-224-4843,202-228-1371,https://www.boozman.senate.gov/public,https://www.boozman.senate.gov/public/index.cfm/contact,141 Hart Senate Office Building,B001236,27958,H2AR03176,JohnBoozman,https://youtube.com/BoozmanPressOffice,JohnBoozman,1950-12-10
+N00033987,Doug LaMalfa,Lamalfa,CA01,M,2012,202-225-3076,530-534-7800,http://lamalfa.house.gov,https://lamalfa.house.gov/contact/email-me,322 Cannon House Office Building,L000578,29713,H2CA02142,RepLaMalfa,https://youtube.com/RepLaMalfa,RepLaMalfa,1960-07-02
+N00033030,Jared Huffman,Huffman,CA02,M,2012,202-225-5161,202-225-5163,http://huffman.house.gov,https://huffman.house.gov/contact/email-me,1406 Longworth House Office Building,H001068,59849,H2CA06259,RepHuffman,https://youtube.com/rephuffman,RepHuffman,1964-02-18
+N00050259,Kevin Kiley,Kiley,CA03,M,2022,,,,,,,,,,,,
+N00007419,Mike Thompson,Thompson,CA04,M,1998,202-225-3311,202-225-4335,http://mikethompson.house.gov,https://mikethompson.house.gov/contact/email-me,231 Cannon House Office Building,T000460,3564,H8CA01109,RepThompson,https://youtube.com/CongressmanMThompson,RepMikeThompson,1951-01-24
+N00006863,Tom McClintock,Mcclintock,CA05,M,2008,202-225-2511,202-225-5444,http://mcclintock.house.gov,https://mcclintockforms.house.gov/forms/contact-form.shtml,2312 Rayburn House Office Building,M001177,9715,H8CA04152,RepMcClintock,https://youtube.com/McClintockCA04,Congressman-Tom-McClintock-81125319109,1956-07-10
+N00030717,Ami Bera,Bera,CA06,M,2012,202-225-5716,202-226-1298,http://bera.house.gov,https://beraforms.house.gov/forms/writeyourrep/,1431 Longworth House Office Building,B001287,120030,H0CA03078,RepBera,https://youtube.com/repamibera,RepAmiBera,1965-03-02
+N00027459,Doris Matsui,Matsui,CA07,F,2005,202-225-7163,202-225-0566,https://matsui.house.gov,https://matsui.house.gov/email-representative-matsui,2311 Rayburn House Office Building,M001163,28593,H6CA05195,DorisMatsui,https://youtube.com/RepDorisMatsui,doris.matsui,1944-09-25
+N00030856,John Garamendi,Garamendi,CA08,M,2009,202-225-1880,202-225-5914,http://garamendi.house.gov,https://garamendi.house.gov/contact-me/email-me,2438 Rayburn House Office Building,G000559,29664,H0CA10149,RepGaramendi,https://youtube.com/garamendiCA10,repgaramendi,1945-01-24
+N00040853,Josh Harder,Harder,CA09,M,2018,202-225-4540,,https://harder.house.gov/,,131 Cannon House Office Building,H001090,,,RepJoshHarder,,,1986-08-01
+N00030709,Mark Desaulnier,Desaulnier,CA10,M,2014,202-225-2095,202-225-5609,https://desaulnier.house.gov,,115 Cannon House Office Building,D000623,,H0CA10073,RepDeSaulnier,,RepMarkDeSaulnier,1952-03-31
+N00007360,Nancy Pelosi,Pelosi,CA11,F,1987,202-225-4965,202-225-8259,http://pelosi.house.gov,http://pelosi.house.gov/contact-me/email-me,233 Cannon House Office Building,P000197,26732,H8CA05035,NancyPelosi,https://youtube.com/nancypelosi,NancyPelosi,1940-03-26
+N00008046,Barbara Lee,Lee,CA12,F,1998,202-225-2661,202-225-9817,https://lee.house.gov,http://lee.house.gov/contact-the-office/email-me,2267 Rayburn House Office Building,L000551,8315,H8CA09060,RepBarbaraLee,https://youtube.com/RepLee,RepBarbaraLee,1946-07-16
+N00050562,John Duarte,Duarte,CA13,M,2022,,,,,,,,,,,,
+N00033508,Eric Swalwell,Swalwell,CA14,M,2012,202-225-5065,,https://swalwell.house.gov,http://swalwell.house.gov/contact-me/email-eric/,129 Cannon House Office Building,S001193,129529,H2CA15094,RepSwalwell,https://youtube.com/ericswalwell,CongressmanEricSwalwell,1980-11-16
+N00049438,Kevin Mullin,Mullin,CA15,M,2022,,,,,,,,,,,,
+N00007335,Anna Eshoo,Eshoo,CA16,F,1992,202-225-8104,202-225-8890,http://eshoo.house.gov,https://eshoo.house.gov/email-me/,241 Cannon House Office Building,E000215,26741,H8CA12098,RepAnnaEshoo,https://youtube.com/RepAnnaEshoo,RepAnnaEshoo,1942-12-13
+N00026427,Ro Khanna,Khanna,CA17,M,2016,202-225-2631,,https://khanna.house.gov,,513 Cannon House Office Building,K000389,,,RepRoKhanna,,RepRoKhanna,1976-09-13
+N00007479,Zoe Lofgren,Lofgren,CA18,F,1994,202-225-3072,202-225-3336,https://lofgren.house.gov,http://lofgren.house.gov/contact/,1401 Longworth House Office Building,L000397,21899,H4CA16049,RepZoeLofgren,https://youtube.com/RepZoeLofgren,zoelofgren,1947-12-21
+N00038601,Jimmy Panetta,Panetta,CA19,M,2016,202-225-2861,,https://panetta.house.gov,,228 Cannon House Office Building,P000613,,,RepJimmyPanetta,,RepJimmyPanetta,1969-10-01
+N00028152,Kevin McCarthy,Mccarthy,CA20,M,2006,202-225-2915,202-225-2908,http://kevinmccarthy.house.gov,https://kevinmccarthy.house.gov/contact/email-me,2421 Rayburn House Office Building,M001165,28918,H6CA22125,GOPLeader,https://youtube.com/repkevinmccarthy,CongressmanKevinMcCarthy,1965-01-26
+N00026341,Jim Costa,Costa,CA21,M,2004,202-225-3341,202-225-9308,https://costa.house.gov,http://www.house.gov/formcosta/issue.htm,2081 Rayburn House Office Building,C001059,3577,H4CA20082,RepJimCosta,https://youtube.com/RepJimCostaCA20,RepJimCosta,1952-04-13
+N00033367,David Valadao,Valadao,CA22,M,2012,202-225-4695,202-226-3196,http://valadao.house.gov,http://valadao.house.gov/contact/,1728 Longworth House Office Building,V000129,120200,H2CA20094,RepDavidValadao,https://youtube.com/congressmanvaladao,CongressmanDavidValadao,1977-04-14
+N00045377,Jay Obernolte,Obernolte,CA23,M,2020,202-225-5861,,https://obernolte.house.gov/,,"1029 Longworth House Office Building, Washington, DC 20515",O000019,,,@JayObernolte,,,08/18/70
+N00037015,Salud Carbajal,Carbajal,CA24,M,2016,202-225-3601,,https://carbajal.house.gov,,212 Cannon House Office Building,C001112,,,RepCarbajal,,repsaludcarbajal,1964-11-18
+N00033510,Raul Ruiz,Ruiz,CA25,M,2012,202-225-5330,202-225-1238,https://ruiz.house.gov,https://ruiz.house.gov/email-me,1319 Longworth House Office Building,R000599,136407,H2CA36439,CongressmanRuiz,https://youtube.com/repraulruiz,CongressmanRaulRuizMD,1972-08-25
+N00034254,Julia Brownley,Brownley,CA26,F,2012,202-225-5811,202-225-1100,http://juliabrownley.house.gov,https://juliabrownley.house.gov/contact/email-me,1019 Longworth House Office Building,B001285,59904,H2CA00120,JuliaBrownley26,https://youtube.com/RepJuliaBrownley,RepJuliaBrownley,1952-08-28
+N00044298,Mike Garcia,Garcia,CA27,M,2020,,,,,,,,,,,,
+N00030600,Judy Chu,Chu,CA28,F,2009,202-225-5464,202-225-5467,https://chu.house.gov,http://chu.house.gov/connect-with-me/email-judy,2423 Rayburn House Office Building,C001080,16539,H0CA32101,RepJudyChu,https://youtube.com/RepJudyChu,RepJudyChu,1953-07-07
+N00033373,Tony Cardenas,Cardenas,CA29,M,2012,202-225-6131,202-225-0819,https://cardenas.house.gov,https://cardenas.house.gov/contact/email-me,1510 Longworth House Office Building,C001097,9754,H2CA28113,RepCardenas,https://youtube.com/repcardenas,repcardenas,1963-03-31
+N00009585,Adam Schiff,Schiff,CA30,M,2000,202-225-4176,202-225-5828,http://schiff.house.gov,https://schiff.house.gov/email-congressman-schiff1,2372 Rayburn House Office Building,S001150,9489,H0CA27085,RepAdamSchiff,https://youtube.com/adamschiff,RepAdamSchiff,1960-06-22
+N00006789,Grace Napolitano,Napolitano,CA31,F,1998,202-225-5256,202-225-0027,http://napolitano.house.gov,https://napolitano.house.gov/contact-me/email-me,1610 Longworth House Office Building,N000179,8393,H8CA34068,GraceNapolitano,https://youtube.com/RepGraceNapolitano,RepGraceNapolitano,1936-12-04
+N00006897,Brad Sherman,Sherman,CA32,M,1996,202-225-5911,202-225-5879,http://sherman.house.gov,http://sherman.house.gov/contact/contact-congressman-sherman-form,2181 Rayburn House Office Building,S000344,142,H6CA24113,BradSherman,https://youtube.com/shermanca27,63158229861,1954-10-24
+N00033997,Pete Aguilar,Aguilar,CA33,M,2014,202-225-3201,202-226-6962,https://aguilar.house.gov,,1223 Longworth House Office Building,A000371,,H2CA31125,reppeteaguilar,,reppeteaguilar,1979-06-19
+N00040597,Jimmy Gomez,Gomez,CA34,M,2017,202-225-6235,,https://gomez.house.gov,,1530 Longworth House Office Building,G000585,,,RepJimmyGomez,,RepJimmyGomez,1974-11-25
+N00036107,Norma Torres,Torres,CA35,F,2014,202-225-6161,202-225-8671,https://torres.house.gov,,1713 Longworth House Office Building,T000474,,H4CA35031,NormaJTorres,,RepNormaTorres,1965-04-04
+N00035825,Ted Lieu,Lieu,CA36,M,2014,202-225-3976,202-225-4099,https://lieu.house.gov,,236 Cannon House Office Building,L000582,,H4CA33119,RepTedLieu,,RepTedLieu,1969-03-29
+N00049460,Sydney Kamlager,Kamlager,CA37,F,2022,,,,,,,,,,,,
+N00024870,Linda Sanchez,Sanchez,CA38,F,2002,202-225-6676,202-226-1012,https://lindasanchez.house.gov,https://forms.house.gov/lindasanchez/webforms/issue_subscribe.htm,2329 Rayburn House Office Building,S001156,29674,H2CA39078,RepLindaSanchez,https://youtube.com/LindaTSanchez,CongresswomanLindaSanchez,1969-01-28
+N00006701,Mark Takano,Takano,CA39,M,2012,202-225-2305,202-225-7018,https://takano.house.gov,https://takano.house.gov/contact/email-me,1507 Longworth House Office Building,T000472,22337,H2CA43245,RepMarkTakano,https://youtube.com/RepMarkTakano,RepMarkTakano,1960-12-10
+N00042386,Young Kim,Kim,CA40,F,2020,202225-4111,,https://youngkim.house.gov/,,"1306 Longworth House Office Building Washington, DC  20515",K000397,151787,,@RepYoungKim,,,10/18/62
+N00007099,Ken Calvert,Calvert,CA41,M,1992,202-225-1986,202-225-2004,http://calvert.house.gov,https://calvert.house.gov/contactform/,2205 Rayburn House Office Building,C000059,26777,H2CA37023,KenCalvert,https://youtube.com/RepKenCalvert,RepKenCalvert,1953-06-08
+N00049470,Robert Garcia,Garcia,CA42,M,2022,,,,,,,,,,,,
+N00006690,Maxine Waters,Waters,CA43,F,1990,202-225-2201,202-225-7854,https://waters.house.gov,https://waters.house.gov/contact/contactform.htm,2221 Rayburn House Office Building,W000187,26759,H4CA23011,MaxineWaters,https://youtube.com/MaxineWaters,MaxineWaters,1938-08-15
+N00037019,Nanette Barragan,Barragan,CA44,F,2016,202-225-8220,,https://barragan.house.gov,,1320 Longworth House Office Building,B001300,,,RepBarragan,,CongresswomanBarragan,1976-09-15
+N00044501,Michelle Steel,Steel,CA45,F,2020,202225-2415,,https://steel.house.gov/,,"1113 Longworth House Office Building Washington, DC  20515",S001135,,,@RepSteel,,,06/21/55
+N00037260,Lou Correa,Correa,CA46,M,2016,202-225-2965,,https://correa.house.gov,,1039 Longworth House Office Building,C001110,,,RepLouCorrea,,RepLouCorrea,1958-01-24
+N00040865,Katie Porter,Porter,CA47,F,2018,202-225-5611,,https://porter.house.gov/,,1117 Longworth House Office Building,P000618,,,,,,1974-01-03
+N00007017,Darrell Issa,Issa,CA48,M,2000,202-225-3906,202-225-3303,https://issa.house.gov,http://issa.house.gov/contact/contact-me,2269 Rayburn House Office Building,I000056,16553,H0CA48024,DarrellIssa,https://youtube.com/repdarrellissa,darrellissa,1953-11-01
+N00040667,Mike Levin,Levin,CA49,M,2018,202-225-3906,,https://mikelevin.house.gov/,,1626 Longworth House Office Building,L000593,,,RepMikeLevin,,,1978-10-28
+N00033591,Scott Peters,Peters,CA50,M,2012,202-225-0508,202-225-2558,http://scottpeters.house.gov,https://scottpeters.house.gov/contact/email-me,1122 Longworth House Office Building,P000608,70351,H2CA52089,RepScottPeters,,RepScottPeters,1958-06-17
+N00042081,Sara Jacobs,Jacobs,CA51,F,2020,202225-2040,202225-2948,https://sarajacobs.house.gov/,,"1232 Longworth HOB Washington, DC 20515",J000305,,,@RepSaraJacobs,,,02/01/89
+N00007021,Juan Vargas,Vargas,CA52,M,2012,202-225-8045,202-225-9073,http://vargas.house.gov,https://vargas.house.gov/contact,1605 Longworth House Office Building,V000130,29100,H2CA50026,RepJuanVargas,https://youtube.com/RepJuanVargas,RepJuanVargas,1961-03-07
+N00047888,Alex Padilla,Padilla,CAS1,M,2021,202224- 3553,202224-2200,https://www.padilla.senate.gov/,,"Russell Senate Office Building Suite B03 Washington, DC 20510",P000145,,,@SenAlexPadilla,,,03/22/73
+N00007364,Dianne Feinstein,Feinstein,CAS2,F,1992,202-224-3841,202-228-3954,https://www.feinstein.senate.gov,https://www.feinstein.senate.gov/public/index.cfm/e-mail-me,331 Hart Senate Office Building,F000062,53273,S0CA00199,SenFeinstein,https://youtube.com/SenatorFeinstein,senatorfeinstein,1933-06-22
+N00006134,Diana DeGette,Degette,CO01,F,1996,202-225-4431,202-225-5657,http://degette.house.gov,https://degette.house.gov/contact/send-me-an-email/email-me,2111 Rayburn House Office Building,D000197,561,H6CO01141,RepDianaDeGette,https://youtube.com/RepDianaDeGette,DianaDeGette,1957-07-29
+N00041080,Joseph Neguse,Neguse,CO02,M,2018,202-225-2161,,https://neguse.house.gov/,,1419 Longworth House Office Building,N000191,,,RepJoeNeguse,,,1984-05-13
+N00045974,Lauren Boebert,Boebert,CO03,F,2020,202225-4761,,https://boebert.house.gov/,,"1609 Longworth House Office Building , Washington, DC 20515",B000825,,,@RepBoebert,,RepBoebert,12/15/86
+N00030829,Ken Buck,Buck,CO04,M,2014,202-225-4676,202-225-5870,https://buck.house.gov,,1130 Longworth House Office Building,B001297,,S0CO00237,RepKenBuck,,repkenbuck,1959-02-16
+N00028133,Doug Lamborn,Lamborn,CO05,M,2006,202-225-4422,202-226-2638,http://lamborn.house.gov,https://lambornforms.house.gov/contact-form,2402 Rayburn House Office Building,L000564,2698,H6CO05159,RepDLamborn,https://youtube.com/CongressmanLamborn,CongressmanDougLamborn,1954-05-24
+N00040876,Jason Crow,Crow,CO06,M,2018,202-225-7882,,https://crow.house.gov/,,1229 Longworth House Office Building,C001121,,,RepJasonCrow,,,1979-03-15
+N00040878,Brittany Pettersen,Pettersen,CO07,F,2022,,,,,,,,,,,,
+N00049068,Yadira Caraveo,Caraveo,CO08,F,2022,,,,,,,,,,,,
+N00030608,Michael Bennet,Bennet,COS1,M,2009,202-224-5852,202-228-5097,https://www.bennet.senate.gov,https://www.bennet.senate.gov/?p=contact,261 Russell Senate Office Building,B001267,110942,S0CO00211,SenBennetCo,https://youtube.com/SenatorBennet,senbennetco,1964-11-28
+N00044206,John Hickenlooper,Hickenlooper,COS2,M,2020,202224-5941,,https://www.hickenlooper.senate.gov/,,"Russell Senate Office Building Suite SR-B85  Washington, DC 20510",H000273,,,@SenatorHick,,,02/07/52
+N00000575,John Larson,Larson,CT01,M,1998,202-225-2265,202-225-1031,https://larson.house.gov,https://forms.house.gov/larson/contact_new.html,1501 Longworth House Office Building,L000557,17188,H8CT01046,RepJohnLarson,https://youtube.com/RepJohnLarson,RepJohnLarson,1948-07-22
+N00024842,Joe Courtney,Courtney,CT02,M,2006,202-225-2076,202-225-4977,https://courtney.house.gov,https://courtney.house.gov/email-joe1,2348 Rayburn House Office Building,C001069,30333,H2CT02112,RepJoeCourtney,https://youtube.com/repcourtney,joecourtney,1953-04-06
+N00000615,Rosa DeLauro,DeLauro,CT03,F,1990,202-225-3661,202-225-4890,https://delauro.house.gov,https://forms.house.gov/delauro/webforms/contact_form_email.shtml,2413 Rayburn House Office Building,D000216,26788,H0CT03072,RosaDeLauro,https://youtube.com/rosadelauro,CongresswomanRosaDeLauro,1943-03-02
+N00029070,Jim Himes,Himes,CT04,M,2008,202-225-5541,202-225-9629,https://himes.house.gov,https://himes.house.gov/contact-me/email-me,1227 Longworth House Office Building,H001047,106744,H8CT04172,JAHimes,https://youtube.com/congressmanhimes,CongressmanJimHimes,1966-07-05
+N00043421,Jahana Hayes,Hayes,CT05,F,2018,202-225-4476,,https://hayes.house.gov/,,1415 Longworth House Office Building,H001081,,,,,,1973-03-08
+N00027566,Christopher S Murphy,Murphy,CTS1,M,2012,202-224-4041,202-225-5933,https://www.murphy.senate.gov,http://www.murphy.senate.gov/contact,136 Hart Senate Office Building,M001169,17189,H6CT05124,ChrisMurphyCT,https://youtube.com/senchrismurphy,chrismurphyct,1973-08-03
+N00031685,Richard Blumenthal,Blumenthal,CTS2,M,2010,202-224-2823,202-224-9673,https://www.blumenthal.senate.gov,https://www.blumenthal.senate.gov/contact/,706 Hart Senate Office Building,B001277,1568,S0CT00177,SenBlumenthal,https://youtube.com/SenatorBlumenthal,SenBlumenthal,1946-02-13
+N00038414,Lisa Blunt Rochester,Rochester,DE01,F,2016,202-225-4165,,https://bluntrochester.house.gov,,1123 Longworth House Office Building,B001303,,,RepBRochester,,Rep.BluntRochester,1962-02-10
+N00012508,Tom Carper,Carper,DES1,M,2000,202-224-2441,202-228-2190,https://www.carper.senate.gov/public,http://www.carper.senate.gov/public/index.cfm/email-senator-carper,513 Hart Senate Office Building,C000174,22421,S8DE00079,SenatorCarper,https://youtube.com/senatorcarper,tomcarper,1947-01-23
+N00031820,Chris Coons,Coons,DES2,M,2010,202-224-5042,202-228-3075,https://www.coons.senate.gov,https://www.coons.senate.gov/contact,127a Russell Senate Office Building,C001088,122834,S0DE00092,SenCoonsOffice,https://youtube.com/senatorchriscoons,senatorchriscoons,1963-09-09
+N00001692,Eleanor Holmes Norton,Norton,DC00,F,1990,202-225-8050,202-225-3002,https://norton.house.gov,https://norton.house.gov/contact/email-me,2136 Rayburn House Office Building,N000147,775,H0DC00058,EleanorNorton,https://youtube.com/EleanorHNorton,CongresswomanNorton,1937-06-13
+N00039503,Matt Gaetz,Gaetz,FL01,M,2016,202-225-4136,,https://gaetz.house.gov,,507 Cannon House Office Building,G000578,,,RepMattGaetz,,CongressmanMattGaetz,1982-05-07
+N00037442,Neal Dunn,Dunn,FL02,M,2016,202-225-5235,,https://dunn.house.gov,,423 Cannon House Office Building,D000628,,,drnealdunnfl2,,drnealdunnfl2,1953-02-16
+N00045978,Kat Cammack,Cammack,FL03,F,2020,202225-5744,202225-3973,https://cammack.house.gov/,,"1626 Longworth House Office Building Washington, DC  20515",C001039,,,@RepKatCammack,,RepKatCammack,02/16/88
+N00051369,Aaron Bean,Bean,FL04,M,2022,,,,,,,,,,,,
+N00039777,John Rutherford,Rutherford,FL05,M,2016,202-225-2501,,https://rutherford.house.gov,,230 Cannon House Office Building,R000609,,,RepRutherfordFL,,RepRutherfordFL,1952-09-02
+N00042403,Michael Waltz,Waltz,FL06,M,2018,202-225-2706,,https://waltz.house.gov/,,216 Cannon House Office Building,W000823,,,,,,1974-01-31
+N00048179,Cory Mills,Mills,FL07,M,2022,,,,,,,,,,,,
+N00029662,Bill Posey,Posey,FL08,M,2008,202-225-3671,202-225-3516,http://posey.house.gov,https://posey.house.gov/forms/writeyourrep/,2150 Rayburn House Office Building,P000599,24280,H8FL15107,CongBillPosey,https://youtube.com/CongressmanPosey,bill.posey15,1947-12-18
+N00037422,Darren Soto,Soto,FL09,M,2016,202-225-9889,,https://soto.house.gov,,1429 Longworth House Office Building,S001200,,,RepDarrenSoto,,CongressmanDarrenSoto,1978-02-25
+N00049075,Maxwell Frost,Frost,FL10,M,2022,,,,,,,,,,,,
+N00026335,Daniel Webster,Webster,FL11,M,2010,202-225-1002,202-225-0999,http://webster.house.gov,https://webster.house.gov/contact/contactform.htm,1210 Longworth House Office Building,W000806,24302,H0FL08208,RepWebster,https://youtube.com/repdanwebster,RepWebster,1949-04-27
+N00027462,Gus Bilirakis,Bilirakis,FL12,M,2006,202-225-5755,202-225-4085,https://bilirakis.house.gov,https://bilirakis.house.gov/email-congressman-bilirakis/,2112 Rayburn House Office Building,B001257,17318,H6FL09070,RepGusBilirakis,https://youtube.com/RepGusBilirakis,GusBilirakis,1963-02-08
+N00045228,Anna Paulina Luna,Luna,FL13,F,2022,,,,,,,,,,,,
+N00027514,Kathy Castor,Castor,FL14,F,2006,202-225-3376,202-225-5652,http://castor.house.gov,https://castor.house.gov/contact/contactform.htm,2052 Rayburn House Office Building,C001066,53825,H6FL11126,USRepKCastor,https://youtube.com/RepKathyCastor,USRepKathyCastor,1966-08-20
+N00051178,Laurel Lee,Lee,FL15,F,2022,,,,,,,,,,,,
+N00027626,Vernon Buchanan,Buchanan,FL16,M,2006,202-225-5015,202-226-0828,https://buchanan.house.gov,https://buchanan.house.gov/email-me,2104 Rayburn House Office Building,B001260,66247,H6FL13148,VernBuchanan,https://youtube.com/vernbuchanan,CongressmanBuchanan,1951-05-08
+N00042808,Greg Steube,Steube,FL17,M,2018,202-225-5792,,https://steube.house.gov/,,521 Cannon House Office Building,S001214,,,,,,1978-05-19
+N00046760,Scott Franklin,Franklin,FL18,M,2020,202225-1252,202226-0585,https://franklin.house.gov/,,"1517 Longworth House Office Building, Washington, DC 20515",F000472,,,@RepFranklin,,RepFranklin,08/23/64
+N00034016,Byron Donalds,Donalds,FL19,M,2020,202225-2536,,https://donalds.house.gov/,,"523 Cannon HOB Washington, DC 20515",D000032,,,@RepDonaldsPress,,RepDonaldsPress,10/28/78
+N00043504,Sheila Cherfilus-McCormick,Cherfilus-McCormick,FL20,F,2022,,,,,,,,,,,,
+N00037269,Brian Mast,Mast,FL21,M,2016,202-225-3026,,https://mast.house.gov,,2182 Rayburn House Office Building,M001199,,,repbrianmast,,repbrianmast,1980-07-10
+N00002893,Lois Frankel,Frankel,FL22,F,2012,202-225-9890,561-998-9048,http://frankel.house.gov,https://frankel.house.gov/contact/email-me,1037 Longworth House Office Building,F000462,8102,H2FL14053,RepLoisFrankel,https://youtube.com/reploisfrankel,RepLoisFrankel,1948-05-16
+N00050596,Jared Moskowitz,Moskowitz,FL23,M,2022,,,,,,,,,,,,
+N00030650,Frederica Wilson,Wilson,FL24,F,2010,202-225-4506,202-226-0777,https://wilson.house.gov,https://wilsonforms.house.gov/contact-form,2445 Rayburn House Office Building,W000808,17319,H0FL17068,RepWilson,https://youtube.com/repfredericawilson,RepWilson,1942-11-05
+N00026106,Debbie Wasserman Schultz,Schultz,FL25,F,2004,202-225-7931,202-226-2052,https://wassermanschultz.house.gov,http://wassermanschultz.house.gov/contact/email-me.shtml,1114 Longworth House Office Building,W000797,24301,H4FL20023,RepDWStweets,https://youtube.com/RepWassermanSchultz,RepDWS,1966-09-27
+N00025337,Mario Diaz-Balart,Diaz-Balart,FL26,M,2002,202-225-4211,202-225-8576,http://mariodiazbalart.house.gov,http://mariodiazbalart.house.gov/contact-mario/write-rep-diaz-balart,440 Cannon House Office Building,D000600,24312,H2FL25018,MarioDB,https://youtube.com/MarioDiazBalart,mdiazbalart,1961-09-25
+N00042810,Maria Salazar,Salazar,FL27,F,2020,202225-3931,,https://salazar.house.gov/,,"1616 Longworth House Office Building Washington, DC  20515",S000168,182300,,@RepMariaSalazar,,,11/01/61
+N00046394,Carlos Gimenez,Gimenez,FL28,M,2020,202225-2778,,https://gimenez.house.gov/,,"419 Cannon House Office Building Washington, DC  20515",G000593,81366,,@RepCarlos,,RepCarlosGimenez,01/17/54
+N00043290,Rick Scott,Scott,FLS1,M,2018,,,,,,S001217,,,,,,1952-12-01
+N00030612,Marco Rubio,Rubio,FLS2,M,2010,202-224-3041,202-228-0285,https://www.rubio.senate.gov,http://www.rubio.senate.gov/public/index.cfm/contact,284 Russell Senate Office Building,R000595,1601,S0FL00338,SenRubioPress,https://youtube.com/SenatorMarcoRubio,SenatorMarcoRubio,1971-05-28
+N00035346,Buddy Carter,Carter,GA01,M,2014,202-225-5831,202-226-2269,http://buddycarter.house.gov,,432 Cannon House Office Building,C001103,,H4GA01039,RepBuddyCarter,,congressmanbuddycarter,1957-09-06
+N00002674,Sanford Bishop,Bishop,GA02,M,1992,202-225-3631,202-225-2203,http://bishop.house.gov,http://bishop.house.gov/contact,2407 Rayburn House Office Building,B000490,26817,H2GA02031,SanfordBishop,https://youtube.com/RepSanfordBishop,sanfordbishop,1947-02-04
+N00039090,Drew Ferguson,Ferguson,GA03,M,2016,202-225-5901,,https://ferguson.house.gov,,1032 Longworth House Office Building,F000465,,,RepDrewFerguson,,RepDrewFerguson,1967-11-15
+N00027848,Hank Johnson,Johnson,GA04,M,2006,202-225-1605,202-226-0691,https://hankjohnson.house.gov,https://hankjohnson.house.gov/contact-me/email-me,2240 Rayburn House Office Building,J000288,68070,H6GA04129,RepHankJohnson,https://youtube.com/RepHankJohnson,RepHankJohnson,1954-10-02
+N00047361,Nikema Williams,Williams,GA05,F,2020,202225-3801,,https://nikemawilliams.house.gov/,,"1406 Longworth House Office Building Washington, DC  20515",W000788,,,@RepNikema,,,07/30/78
+N00044520,Richard McCormick,Mccormick,GA06,M,2022,,,,,,,,,,,,
+N00042813,Lucy McBath,McBath,GA07,F,2018,202-225-4501,,https://mcbath.house.gov/,,1513 Longworth House Office Building,M001208,,,,,,1960-06-01
+N00032457,Austin Scott,Scott,GA08,M,2010,202-225-6531,202-225-3013,https://austinscott.house.gov,https://austinscott.house.gov/email-me/,2417 Rayburn House Office Building,S001189,11812,H0GA08099,AustinScottGA08,https://youtube.com/RepAustinScott,RepAustinScott,1969-12-10
+N00046654,Andrew Clyde,Clyde,GA09,M,2020,202225-9893,202226-1224,https://clyde.house.gov/,,"521 Cannon House Office Building Washington, DC  20515",C001116,,,,,CongressmanClyde,11/22/63
+N00035370,Mike Collins,Collins,GA10,M,2022,,,,,,,,,,,,
+N00035347,Barry Loudermilk,Loudermilk,GA11,M,2014,202-225-2931,202-225-2944,http://loudermilk.house.gov,,329 Cannon House Office Building,L000583,,H4GA11061,RepLoudermilk,,reploudermilk,1963-12-22
+N00033720,Richard W Allen,Allen,GA12,M,2014,202-225-2823,202-225-3377,http://allen.house.gov,,426 Cannon House Office Building,A000372,,H0GA02241,reprickallen,,CongressmanRickAllen,1951-11-07
+N00024871,David Scott,Scott,GA13,M,2002,202-225-2939,202-225-4628,http://davidscott.house.gov,https://davidscott.house.gov/contact/contactform.htm,225 Cannon House Office Building,S001157,7826,H2GA13012,RepDavidScott,https://youtube.com/RepDavidScott,113303673339,1945-06-27
+N00044701,Marjorie Taylor Greene,Greene,GA14,F,2020,202225-5211,,https://greene.house.gov/,,"1023 Longworth House Office Building Washington, DC  20515",G000596,,,@RepMTG,,,05/27/74
+N00040675,Jon Ossoff,Ossoff,GAS1,M,2021,202-224-3521,,https://www.ossoff.senate.gov/,,"Hart Senate Office Building Suite 825 B&C    Washington, DC 20510",O000174,,,@ossoff,,,02/16/87
+N00046489,Raphael Warnock,Warnock,GAS2,M,2021,202224-3643,,https://www.warnock.senate.gov/,,"Dirksen Senate Office Building Suite B40D  Washington, DC 20510",W000790,,,@SenatorWarnock,,,07/23/69
+N00025882,Ed Case,Case,HI01,M,2018,202-225-2726,,https://case.house.gov,,2443 Rayburn House Office Building,C001055,,,,,,1952-09-27
+N00051049,Jill Tokuda,Tokuda,HI02,F,2022,,,,,,,,,,,,
+N00028138,Brian Schatz,Schatz,HIS1,M,2012,202-224-3934,202-228-1153,https://www.schatz.senate.gov,https://www.schatz.senate.gov/contact,722 Hart Senate Office Building,S001194,17852,S4HI00136,SenBrianSchatz,https://youtube.com/senbrianschatz,SenBrianSchatz,1972-10-20
+N00028139,Mazie K Hirono,Hirono,HIS2,F,2012,202-224-6361,202-225-4987,https://www.hirono.senate.gov,https://www.hirono.senate.gov/contact,730 Hart Senate Office Building,H001042,1677,H6HI02251,MazieHirono,https://youtube.com/CongresswomanHirono,senatorhirono,1947-11-03
+N00041335,Russ Fulcher,Fulcher,ID01,M,2018,202-225-6611,,https://fulcher.house.gov/,,1520 Longworth House Office Building,F000469,,,RepRussFulcher,,,1973-07-19
+N00006263,Mike Simpson,Simpson,ID02,M,1998,202-225-5531,202-225-8216,http://simpson.house.gov,http://simpson.house.gov/contact/,2084 Rayburn House Office Building,S001148,2917,H8ID02064,CongMikeSimpson,https://youtube.com/CongMikeSimpson,96007744606,1950-09-08
+N00029441,James E Risch,Risch,IDS1,M,2008,202-224-2752,202-224-2573,https://www.risch.senate.gov,http://www.risch.senate.gov/public/index.cfm?p=Email,483 Russell Senate Office Building,R000584,2919,S8ID00092,SenatorRisch,https://youtube.com/SenatorJamesRisch,SenatorJimRisch,1943-05-03
+N00006267,Mike Crapo,Crapo,IDS2,M,1998,202-224-6142,202-228-1375,https://www.crapo.senate.gov,http://www.crapo.senate.gov/contact/email.cfm,239 Dirksen Senate Office Building,C000880,26830,S8ID00027,MikeCrapo,https://youtube.com/senatorcrapo,mikecrapo,1951-05-20
+N00050105,Jonathan Jackson,Jackson,IL01,M,2022,,,,,,,,,,,,
+N00035215,Robin Kelly,Kelly,IL02,F,2013,202-225-0773,202-225-4583,https://robinkelly.house.gov,https://robinkelly.house.gov/contact/email-me,1239 Longworth House Office Building,K000385,33384,H2IL02172,RepRobinKelly,,reprobinkelly,1956-04-30
+N00049548,Delia Ramirez,Ramirez,IL03,F,2022,,,,,,,,,,,,
+N00042114,Jesus Garcia,Garcia,IL04,M,2018,202-225-8203,,https://jesusgarcia.house.gov/,,530 Cannon House Office Building,G000586,,,,,,1956-04-12
+N00030581,Mike Quigley,Quigley,IL05,M,2009,202-225-4061,202-225-5603,https://quigley.house.gov,https://quigleyforms.house.gov/forms/writeyourrep/,2458 Rayburn House Office Building,Q000023,83310,H0IL05096,RepMikeQuigley,https://youtube.com/RepMikeQuigley,repmikequigley,1958-10-17
+N00041338,Sean Casten,Casten,IL06,M,2018,202-225-4561,,https://casten.house.gov/,,429 Cannon House Office Building,C001117,,,,,,1971-11-23
+N00004884,Danny K Davis,Davis,IL07,M,1996,202-225-5006,202-225-5641,https://davis.house.gov,https://davis.house.gov/email-me,2159 Rayburn House Office Building,D000096,233,H4IL07037,RepDannyDavis,https://youtube.com/dannykdavis07,280757931935749,1941-09-06
+N00033240,Raja Krishnamoorthi,Krishnamoorthi,IL08,M,2016,202-225-3711,,https://krishnamoorthi.house.gov,,515 Cannon House Office Building,K000391,,,congressmanraja,,congressmanraja,1973-07-19
+N00004724,Jan Schakowsky,Schakowsky,IL09,F,1998,202-225-2111,202-226-6890,https://schakowsky.house.gov,https://schakowsky.house.gov/write-to-congresswoman-jan-schakowsky,2367 Rayburn House Office Building,S001145,6387,H8IL09067,JanSchakowsky,https://youtube.com/repschakowsky,janschakowsky,1944-05-26
+N00033101,Brad Schneider,Schneider,IL10,M,2016,202-225-4835,202-225-0837,https://schneider.house.gov,,1432 Longworth House Office Building,S001190,,,repschneider,,CongressmanBradSchneider,1961-08-20
+N00029139,Bill Foster,Foster,IL11,M,2012,202-225-3515,202-225-9420,http://foster.house.gov,https://foster.house.gov/contact/email-me,1224 Longworth House Office Building,F000454,101632,H8IL14067,RepBillFoster,https://youtube.com/RepBillFoster,CongressmanBillFoster,1955-10-07
+N00035420,Mike Bost,Bost,IL12,M,2014,202-225-5661,202-225-0285,https://bost.house.gov,,1440 Longworth House Office Building,B001295,,H4IL12060,RepBost,,RepBost,1960-12-30
+N00049102,Nikki Budzinski,Budzinski,IL13,F,2022,,,,,,,,,,,,
+N00041569,Lauren A Underwood,Underwood,IL14,F,2018,202-225-2976,,https://underwood.house.gov/,,1118 Longworth House Office Building,U000040,,,RepUnderwood,,,1986-10-04
+N00045703,Mary Miller,Miller,IL15,F,2020,202225-5271,,https://marymiller.house.gov/,,"1529 Longworth House Office Building Washington, DC  20515",M001211,,,@RepMaryMiller,,,08/07/59
+N00037031,Darin LaHood,Lahood,IL16,M,2015,202-225-6201,,https://lahood.house.gov,,1424 Longworth House Office Building,L000585,,,RepLaHood,,replahood,1968-07-05
+N00049558,Eric Sorensen,Sorensen,IL17,M,2022,,,,,,,,,,,,
+N00004981,Dick Durbin,Durbin,ILS1,M,1996,202-224-2152,202-228-0400,https://www.durbin.senate.gov,https://www.durbin.senate.gov/contact/,711 Hart Senate Office Building,D000563,26847,S6IL00151,SenatorDurbin,https://youtube.com/SenatorDurbin,SenatorDurbin,1944-11-21
+N00027860,Tammy Duckworth,Duckworth,ILS2,F,2016,202-224-2854,,https://www.duckworth.senate.gov,https://www.duckworth.senate.gov/content/contact-senator,524 Hart Senate Office Building,D000622,57442,H6IL06141,SenDuckworth,https://youtube.com/repduckworth,SenDuckworth,1968-03-12
+N00045905,Frank Mrvan Jr,Mrvan,IN01,M,2020,202225-2461,202225-2493,https://mrvan.house.gov/,,"1607 Longworth House Office Building Washington, DC  20515",M001214,,,@RepMrvan,,,04/16/69
+N00051733,Rudy Yakym,Yakym,IN02,M,2022,,,,,,,,,,,,
+N00037185,Jim Banks,Banks,IN03,M,2016,202-225-4436,,https://banks.house.gov,,509 Cannon House Office Building,B001299,,,RepJimBanks,,RepJimBanks,1979-07-16
+N00041954,Jim Baird,Baird,IN04,M,2018,202-225-5037,,https://baird.house.gov/,,532 Cannon House Office Building,B001307,,,,,,1945-06-04
+N00046537,Victoria Spartz,Spartz,IN05,F,2020,202225-2276,,https://spartz.house.gov/,,"1523 Longworth House Office Building Washington, DC  20515",S000929,,,@RepSpartz,,,10/06/78
+N00041956,Greg Pence,Pence,IN06,M,2018,202-225-3021,,https://pence.house.gov/,,222 Cannon House Office Building,P000615,,,,,,1956-11-14
+N00029513,Andre Carson,Carson,IN07,M,2008,202-225-4011,202-225-5633,http://carson.house.gov,https://carson.house.gov/contact/email-me,2135 Rayburn House Office Building,C001072,84917,H8IN07184,RepAndreCarson,https://youtube.com/repandrecarson,CongressmanAndreCarson,1974-10-16
+N00031227,Larry Bucshon,Bucshon,IN08,M,2010,202-225-4636,202-225-3284,https://bucshon.house.gov,https://bucshon.house.gov/contact-me/email-me,1005 Longworth House Office Building,B001275,120335,H0IN08114,RepLarryBucshon,https://youtube.com/RepLarryBucshon,RepLarryBucshon,1962-05-31
+N00037427,Erin Houchin,Houchin,IN09,F,2022,,,,,,,,,,,,
+N00041731,Mike Braun,Braun,INS1,M,2018,202-224-4814,,https://www.braun.senate.gov,,B85 Russell Senate Office Building,B001310,,,,,,1954-03-24
+N00030670,Todd Young,Young,INS2,M,2016,202-224-5623,202-226-6866,https://www.young.senate.gov,https://www.young.senate.gov/content/contact-senator,B33 Russell Senate Office Building,Y000064,120345,H0IN09070,RepToddYoung,https://youtube.com/RepToddYoung,SenatorToddYoung,1972-08-24
+N00029495,Mariannette Miller-Meeks,Miller-Meeks,IA01,F,2020,202225-6576,,https://millermeeks.house.gov/,,"1716 Longworth House Office Building, Washington, DC 20515",M001215,103294,,@RepMMM,,,09/06/55
+N00044521,Ashley Hinson,Hinson,IA02,F,2020,202225-2911,,https://hinson.house.gov/,,"1429 Longworth House Office Building Washington, DC  20515",H001091,168783,,@RepAshleyHinson,,,06/27/83
+N00048870,Zach Nunn,Nunn,IA03,M,2022,,,,,,,,,,,,
+N00044011,Randy Feenstra,Feenstra,IA04,M,2020,202225-4426,,https://feenstra.house.gov/,,"1440 Longworth House Office Building, Washington, DC 20515",F000446,103301,,@RepFeenstra,,RepFeenstra,01/14/69
+N00001758,Chuck Grassley,Grassley,IAS1,M,1980,202-224-3744,202-224-6020,https://www.grassley.senate.gov,http://www.grassley.senate.gov/contact,135 Hart Senate Office Building,G000386,53293,S0IA00028,ChuckGrassley,https://youtube.com/senchuckgrassley,grassley,1933-09-17
+N00035483,Joni Ernst,Ernst,IAS2,F,2014,202-224-3254,,https://www.ernst.senate.gov/public,https://www.ernst.senate.gov/public/index.cfm/contact,111 Russell Senate Office Building,E000295,,S4IA00129,SenJoniErnst,,senjoniernst,1970-07-01
+N00030743,Tracey Mann,Mann,KS01,M,2020,202225-2715,,https://mann.house.gov/,,"522 Cannon House Office Building, Washington, DC 20515",M000871,,,@RepMann,,,12/17/76
+N00044232,Jake Laturner,Laturner,KS02,M,2020,202225-6601,,https://laturner.house.gov/,,"1630 Longworth House Office Building Washington, DC  20515",L000266,,,@RepLaTurner,,,02/17/88
+N00042626,Sharice Davids,Davids,KS03,F,2018,202-225-2865,,https://davids.house.gov/,,1541 Longworth House Office Building,D000629,,,RepDavids,,,1980-05-22
+N00040712,Ron Estes,Estes,KS04,M,2017,,,https://estes.house.gov,,,E000298,,,RepRonEstes,,RepRonEstes,1956-07-19
+N00037034,Roger Marshall,Marshall,KSS1,M,2020,202-225-2715,,https://marshall.house.gov,,312 Cannon House Office Building,M001198,,,rogermarshallmd,,rogermarshallmd,1960-08-09
+N00005282,Jerry Moran,Moran,KSS2,M,2010,202-224-6521,202-228-6966,https://www.moran.senate.gov,https://www.moran.senate.gov/public/index.cfm/e-mail-jerry,521 Dirksen Senate Office Building,M000934,542,H6KS01096,JerryMoran,https://youtube.com/senatorjerrymoran,jerrymoran,1954-05-29
+N00038260,James Comer,Comer,KY01,M,2016,202-225-3115,,https://comer.house.gov,,1513 Longworth House Office Building,C001108,,,KYComer,,congressmancomer,1972-08-19
+N00029675,Brett Guthrie,Guthrie,KY02,M,2008,202-225-3501,202-226-2019,https://guthrie.house.gov,http://brettguthrieforms.house.gov/contact/,2434 Rayburn House Office Building,G000558,18829,H8KY02031,RepGuthrie,https://youtube.com/BrettGuthrie,CongressmanGuthrie,1964-02-18
+N00049295,Morgan McGarvey,McGarvey,KY03,M,2022,,,,,,,,,,,,
+N00034041,Thomas Massie,Massie,KY04,M,2012,202-225-3465,202-225-0003,https://massie.house.gov,http://massieforms.house.gov/contact/,2453 Rayburn House Office Building,M001184,132068,H2KY04121,RepThomasMassie,https://youtube.com/repthomasmassie,RepThomasMassie,1971-01-13
+N00003473,Hal Rogers,Rogers,KY05,M,1980,202-225-4601,202-225-0940,http://halrogers.house.gov,https://halrogers.house.gov/contact/contactform.htm,2406 Rayburn House Office Building,R000395,26875,H0KY05015,RepHalRogers,https://youtube.com/RepHalRogers,CongressmanHalRogers,1937-12-31
+N00031233,Andy Barr,Barr,KY06,M,2012,202-225-4706,,https://barr.house.gov,https://barr.house.gov/contact/email-me,1427 Longworth House Office Building,B001282,117290,H0KY06104,RepAndyBarr,https://youtube.com/RepAndyBarr,RepAndyBarr,1973-07-24
+N00003389,Mitch McConnell,Mcconnell,KYS1,M,1984,202-224-2541,202-224-2499,https://www.mcconnell.senate.gov,http://www.mcconnell.senate.gov/public/index.cfm?p=contact,317 Russell Senate Office Building,M000355,53298,S2KY00012,McConnellPress,,mitchmcconnell,1942-02-20
+N00030836,Rand Paul,Paul,KYS2,M,2010,202-224-4343,202-228-1373,https://www.paul.senate.gov,https://www.paul.senate.gov/connect/email-rand,167 Russell Senate Office Building,P000603,117285,S0KY00156,SenRandPaul,https://youtube.com/SenatorRandPaul,SenatorRandPaul,1963-01-07
+N00009660,Steve Scalise,Scalise,LA01,M,2008,202-225-3015,202-226-0386,http://scalise.house.gov,https://scalise.house.gov/contact-me/email-me,2338 Rayburn House Office Building,S001176,9026,H0LA01087,SteveScalise,https://youtube.com/RepSteveScalise,RepSteveScalise,1965-10-06
+N00025766,Troy Carter,Carter,LA02,M,2021,,,,,,,,,,,,
+N00039953,Clay Higgins,Higgins,LA03,M,2016,202-225-2031,,https://clayhiggins.house.gov,,1711 Longworth House Office Building,H001077,,,RepClayHiggins,,CongressmanCalHiggins,1961-08-24
+N00039106,Mike Johnson,Johnson,LA04,M,2016,202-225-2777,,https://mikejohnson.house.gov,,327 Cannon House Office Building,J000291,,,RepMikeJohnson,,RepMikeJohnson,1972-01-30
+N00047972,Julia Letlow,Letlow,LA05,F,2021,,,,,,,,,,,,
+N00036135,Garret Graves,Graves,LA06,M,2014,202-225-3901,202-225-7313,https://garretgraves.house.gov,,430 Cannon House Office Building,G000577,,H4LA06153,RepGarretGraves,,CongressmanGarretGraves,1972-01-31
+N00030245,Bill Cassidy,Cassidy,LAS1,M,2014,202-224-5824,202-225-7313,https://www.cassidy.senate.gov,https://www.cassidy.senate.gov/contact,520 Hart Senate Office Building,C001075,69494,H8LA00017,billcassidy,https://youtube.com/SenatorBillCassidy,billcassidy,1957-09-28
+N00026823,John Kennedy,Kennedy,LAS2,M,2016,202-224-4623,,https://www.kennedy.senate.gov,https://www.kennedy.senate.gov/content/contact-senator,B11 Russell Senate Office Building,K000393,,,SenJohnKennedy,,JohnKennedyLouisiana,1951-11-21
+N00013817,Chellie Pingree,Pingree,ME01,F,2008,202-225-6116,202-225-5590,https://pingree.house.gov,https://pingree.house.gov/email-me,2162 Rayburn House Office Building,P000597,6586,H8ME01120,ChelliePingree,https://youtube.com/congresswomanpingree,ChelliePingree,1955-04-02
+N00041668,Jared Golden,Golden,ME02,M,2018,202-225-6306,,https://golden.house.gov,,1223 Longworth House Office Building,G000592,,,RepGolden,,,1982-07-25
+N00034580,Angus King,King,MES1,M,2012,202-224-5344,202-224-1946,https://www.king.senate.gov,http://www.king.senate.gov/contact,359 Dirksen Senate Office Building,K000383,22381,S2ME00109,SenAngusKing,https://youtube.com/SenatorAngusKing,SenatorAngusSKingJr,1944-03-31
+N00000491,Susan Collins,Collins,MES2,F,1996,202-224-2523,202-224-2693,http://www.collins.senate.gov,http://www.collins.senate.gov/contact,413 Dirksen Senate Office Building,C001035,379,S6ME00159,SenatorCollins,https://youtube.com/SenatorSusanCollins,susancollins,1952-12-07
+N00035616,Ryan Zinke,Zinke,MT01,M,2022,202-225-3211,202-225-5687,https://zinke.house.gov,,113 Cannon House Office Building,Z000018,,H4MT01041,RepRyanZinke,,CongressmanRyanZinke,1961-11-01
+N00035517,Matt Rosendale,Rosendale,MT02,M,2020,202225-3211,,https://rosendale.house.gov/,,"1037 Longworth HOB Washington, DC 20515",R000103,120815,,@RepRosendale,,,07/07/60
+N00027605,Jon Tester,Tester,MTS1,M,2006,202-224-2644,202-224-8594,https://www.tester.senate.gov,https://www.tester.senate.gov/?p=email_senator,311 Hart Senate Office Building,T000464,20928,S6MT00162,SenatorTester,https://youtube.com/senatorjontester,senatortester,1956-08-21
+N00033054,Steven Daines,Daines,MTS2,M,2014,202-224-2651,202-228-1236,https://www.daines.senate.gov,https://www.daines.senate.gov/connect/email-steve,320 Hart Senate Office Building,D000618,135720,H2MT01060,SteveDaines,https://youtube.com/SteveDainesMT,SteveDainesMT,1962-08-20
+N00050145,Mike Flood,Flood,NE01,M,2022,,,,,,,,,,,,
+N00037049,Don Bacon,Bacon,NE02,M,2016,202-225-4155,,https://bacon.house.gov,,1516 Longworth House Office Building,B001298,,,RepDonBacon,,RepDonBacon,1963-08-16
+N00027623,Adrian Smith,Smith,NE03,M,2006,202-225-6435,202-225-0207,http://adriansmith.house.gov,https://adriansmith.house.gov/contact-me/email-me,320 Cannon House Office Building,S001172,21284,H6NE03115,RepAdrianSmith,https://youtube.com/RepAdrianSmith,AdrianSmithNE,1970-12-19
+N00033443,Deb Fischer,Fischer,NES1,F,2012,202-224-6551,202-228-1325,https://www.fischer.senate.gov,http://www.fischer.senate.gov/public/index.cfm/contact,454 Russell Senate Office Building,F000463,41963,S2NE00094,SenatorFischer,https://youtube.com/senatordebfischer,senatordebfischer,1951-03-01
+N00035544,Ben Sasse,Sasse,NES2,M,2014,202-224-4224,,https://www.sasse.senate.gov/public,http://www.sasse.senate.gov/public/index.cfm/email-ben,136 Russell Senate Office Building,S001197,,S4NE00090,SenSasse,,SenatorSasse,1972-02-22
+N00027695,Pete Ricketts,Ricketts,NES2,M,2023,,,,,,,,,,,,
+N00030191,Dina Titus,Titus,NV01,F,2012,202-225-5965,,https://titus.house.gov,https://titus.house.gov/contact/email-me,2464 Rayburn House Office Building,T000468,2629,H8NV03036,RepDinaTitus,https://youtube.com/CongresswomanTitus,CongresswomanTitus,1950-05-23
+N00031177,Mark Amodei,Amodei,NV02,M,2011,202-225-6155,202-225-5679,https://amodei.house.gov,https://amodei.house.gov/contact-us,332 Cannon House Office Building,A000369,12537,H2NV02395,MarkAmodeiNV2,https://youtube.com/markamodeinv2,MarkAmodeiNV2,1958-06-12
+N00037247,Susie Lee,Lee,NV03,F,2018,202-225-3252,,https://susielee.house.gov/,,522 Cannon House Office Building,L000590,,,RepSusieLee,,,1966-11-07
+N00033638,Steven Horsford,Horsford,NV04,M,2018,202-225-9894,,http://horsford.house.gov,,1330 Longworth House Office Building,H001066,,,RepHorsford,,,1973-04-29
+N00038734,Jacky Rosen,Rosen,NVS1,F,2018,202-225-3252,,https://rosen.house.gov,,413 Cannon House Office Building,R000608,,,RepJackyRosen,,RepJackyRosen,1957-08-02
+N00037161,Catherine Cortez Masto,Masto,NVS2,F,2016,202-224-3542,,https://www.cortezmasto.senate.gov,https://www.cortezmasto.senate.gov/content/contact-senator,B40a Dirksen Senate Office Building,C001113,,,sencortezmasto,,SenatorCortezMasto,1964-03-29
+N00042161,Chris Pappas,Pappas,NH01,M,2018,202-225-5456,,https://pappas.house.gov/,,323 Cannon House Office Building,P000614,,,,,,1980-06-04
+N00030875,Ann Kuster,Kuster,NH02,F,2012,202-225-5206,202-225-2946,http://kuster.house.gov,https://kuster.house.gov/contact/email-me,137 Cannon House Office Building,K000382,122256,H0NH02181,RepAnnieKuster,https://youtube.com/RepKuster,CongresswomanAnnieKuster,1956-09-05
+N00038397,Maggie Hassan,Hassan,NHS1,F,2016,202-224-3324,,https://www.hassan.senate.gov,https://www.hassan.senate.gov/content/contact-senator,B85 Russell Senate Office Building,H001076,,,Senatorhassan,,SenatorHassan,1958-02-27
+N00024790,Jeanne Shaheen,Shaheen,NHS2,F,2008,202-224-2841,202-228-3194,https://www.shaheen.senate.gov,https://www.shaheen.senate.gov/contact/contact-jeanne,506 Hart Senate Office Building,S001181,1663,S0NH00219,SenatorShaheen,https://youtube.com/senatorshaheen,SenatorShaheen,1947-01-28
+N00036154,Don Norcross,Norcross,NJ01,M,2014,202-225-6501,202-225-6583,https://norcross.house.gov,http://norcross.house.gov/contact,1531 Longworth House Office Building,N000188,,H4NJ01084,DonaldNorcross,,DonaldNorcrossNJ,1958-12-13
+N00042164,Jeff Van Drew,Van Drew,NJ02,M,2018,202-225-6572,,https://vandrew.house.gov/,,331 Cannon House Office Building,V000133,,,,,,1953-02-23
+N00041370,Andy Kim,Kim,NJ03,M,2018,202-225-4765,,https://kim.house.gov/,,1516 Longworth House Office Building,K000394,,,,,,1982-07-12
+N00009816,Chris Smith,Smith,NJ04,M,1980,202-225-3765,202-225-7768,http://chrissmith.house.gov,https://chrissmith.house.gov/contact/write.htm,2373 Rayburn House Office Building,S000522,26952,H8NJ04014,RepChrisSmith,https://youtube.com/USRepChrisSmith,RepChrisSmith,1953-03-04
+N00036944,Josh Gottheimer,Gottheimer,NJ05,M,2016,202-225-4465,,https://gottheimer.house.gov,,213 Cannon House Office Building,G000583,,,RepJoshG,,RepJoshG,1975-03-08
+N00000781,Frank Pallone Jr.,Pallone,NJ06,M,1988,202-225-4671,202-225-9665,https://pallone.house.gov,https://pallone.house.gov/contact-me/email-me,237 Cannon House Office Building,P000034,26951,H8NJ03073,FrankPallone,https://youtube.com/repfrankpallone,repfrankpallone,1951-10-30
+N00019149,Tom Kean,Kean,NJ07,M,2022,,,,,,,,,,,,
+N00049686,Rob Menendez,Menendez,NJ08,M,2022,,,,,,,,,,,,
+N00000751,Bill Pascrell Jr.,Pascrell,NJ09,M,1996,202-225-5751,202-225-5782,http://pascrell.house.gov,https://pascrell.house.gov/contact/email-me,2370 Rayburn House Office Building,P000096,478,H6NJ08118,BillPascrell,https://youtube.com/RepPascrell,pascrell,1937-01-25
+N00034639,Donald M Payne Jr.,Payne,NJ10,M,2012,202-225-3436,202-225-4160,http://payne.house.gov,http://payne.house.gov/contact/email-me,132 Cannon House Office Building,P000604,90668,H2NJ10154,RepDonaldPayne,,DonaldPayneJr,1958-12-17
+N00041154,Mikie Sherrill,Sherrill,NJ11,F,2018,202-225-5034,,https://sherrill.house.gov/,,1208 Longworth House Office Building,S001207,,,RepSherrill,,,1972-01-19
+N00036158,Bonnie Watson Coleman,Coleman,NJ12,F,2014,202-225-5801,202-225-6025,https://watsoncoleman.house.gov,,1535 Longworth House Office Building,W000822,,H4NJ12149,RepBonnie,,RepBonnie,1945-02-06
+N00000699,Robert Menendez,Menendez,NJS1,M,2006,202-224-4744,202-228-2197,https://www.menendez.senate.gov,https://www.menendez.senate.gov/contact,528 Hart Senate Office Building,M000639,26961,H2NJ13075,SenatorMenendez,https://youtube.com/SenatorMenendezNJ,senatormenendez,1954-01-01
+N00035267,Cory Booker,Booker,NJS2,M,2013,202-224-3224,202-224-8378,https://www.booker.senate.gov,https://www.booker.senate.gov/?p=contact,359 Dirksen Senate Office Building,B001288,76151,S4NJ00185,CoryBooker,https://youtube.com/SenCoryBooker,corybooker,1969-04-27
+N00047871,Melanie Stansbury,Stansbury,NM01,F,2021,,,,,,,,,,,,
+N00049142,Gabe Vasquez,Vasquez,NM02,M,2022,,,,,,,,,,,,
+N00044559,Teresa Leger Fernandez,Fernandez,NM03,F,2020,202225-6190,202226-1528,https://fernandez.house.gov/,,"1432 Longworth House Office Building Washington, DC  20515",L000273,,,@RepTeresaLF,,,07/01/59
+N00029835,Martin Heinrich,Heinrich,NMS1,M,2012,202-224-5521,202-225-4975,https://www.heinrich.senate.gov,http://www.heinrich.senate.gov/contact,303 Hart Senate Office Building,H001046,74517,H8NM01224,MartinHeinrich,https://youtube.com/SenMartinHeinrich,MartinHeinrich,1971-10-17
+N00029562,Ben Ray Lujan,Lujan,NMS2,M,2020,202-225-6190,202-226-1528,https://lujan.house.gov,https://forms.house.gov/lujan/contact-form.shtml,2231 Rayburn House Office Building,L000570,102842,H8NM03196,RepBenRayLujan,https://youtube.com/Repbenraylujan,RepBenRayLujan,1972-06-07
+N00050419,Nick LaLota,LaLota,NY01,M,2022,,,,,,,,,,,,
+N00046030,Andrew Garbarino,Garbarino,NY02,M,2020,202225-7896,202226-2279,https://garbarino.house.gov/,,"1516 Longworth House Office Building, Washington, DC 20515",G000597,,,@RepGarbarino,,RepAndrewGarbarino,09/27/84
+N00046427,George Santos,Santos,NY03,M,2022,,,,,,,,,,,,
+N00050681,Anthony D'Esposito,D'Esposito,NY04,M,2022,,,,,,,,,,,,
+N00001171,Gregory Meeks,Meeks,NY05,M,1998,202-225-3461,202-226-4169,http://meeks.house.gov,https://meeks.house.gov/contact-me/email-me,2234 Rayburn House Office Building,M001137,4360,H8NY06048,GregoryMeeks,https://youtube.com/gwmeeks,gregorymeeksny05,1953-09-25
+N00034547,Grace Meng,Meng,NY06,F,2012,202-225-2601,202-225-1589,http://meng.house.gov,https://meng.house.gov/contact/email-me,1317 Longworth House Office Building,M001188,69157,H2NY06116,RepGraceMeng,,repgracemeng,1975-10-01
+N00001102,Nydia Velazquez,Velazquez,NY07,F,1992,202-225-2361,202-226-0327,https://velazquez.house.gov,http://velazquez.house.gov/IMA/issue_subscribe.shtml,2302 Rayburn House Office Building,V000081,26975,H2NY00010,NydiaVelazquez,https://youtube.com/nydiavelazquez,8037068318,1953-03-28
+N00033640,Hakeem Jeffries,Jeffries,NY08,M,2012,202-225-5936,,http://jeffries.house.gov,https://jeffriesforms.house.gov/contact/,1607 Longworth House Office Building,J000294,55285,H2NY10092,RepJeffries,,RepHakeemJeffries,1970-08-04
+N00026961,Yvette Clarke,Clarke,NY09,F,2006,202-225-6231,202-226-0112,https://clarke.house.gov,https://clarke.house.gov/contact/email-me,2058 Rayburn House Office Building,C001067,44741,H4NY11138,RepYvetteClarke,https://youtube.com/repyvetteclarke,repyvettedclarke,1964-11-21
+N00051424,Dan Goldman,Goldman,NY10,M,2022,,,,,,,,,,,,
+N00044040,Nicole Malliotakis,Malliotakis,NY11,F,2020,202225-3371,,https://malliotakis.house.gov/,,"417 Cannon House Office Building, Washington, DC 20515",M000317,,,@RepMalliotakis,,,11/11/80
+N00000939,Jerrold Nadler,Nadler,NY12,M,1992,202-225-5635,202-225-6923,http://nadler.house.gov,https://jerroldnadler.house.gov/forms/writeyourrep/default.aspx,2109 Rayburn House Office Building,N000002,26980,H2NY17071,RepJerryNadler,https://youtube.com/congressmannadler,CongressmanNadler,1947-06-13
+N00034549,Adriano Espaillat,Espaillat,NY13,M,2016,202-225-4365,202-225-0816,https://espaillat.house.gov,,1630 Longworth House Office Building,E000297,,,RepEspaillat,,RepEspaillat,1954-09-27
+N00041162,Alexandria Ocasio-Cortez,Ocasio-Cortez,NY14,F,2018,202-225-3965,,https://ocasio-cortez.house.gov/,,229 Cannon House Office Building,O000172,,,,,,1989-10-13
+N00044346,Ritchie Torres,Torres,NY15,M,2020,202225-4361,202225-6001,https://ritchietorres.house.gov/,,"317 Cannon House Office Building Washington, DC  20515",T000486,,,@RepRitchie,,,03/12/88
+N00044790,Jamaal Bowman,Bowman,NY16,M,2020,202225-2464,202225-5513,https://bowman.house.gov/,,"1605 Longworth House Office Building Washington, DC 20515",B001223,,,@RepBowman,,,04/01/76
+N00051208,Mike Lawler,Lawler,NY17,M,2022,,,,,,,,,,,,
+N00041165,Pat Ryan,Ryan,NY18,M,2022,,,,,,,,,,,,
+N00049147,Marc Molinaro,Molinaro,NY19,M,2022,,,,,,,,,,,,
+N00030196,Paul Tonko,Tonko,NY20,M,2008,202-225-5076,202-225-5077,https://tonko.house.gov,https://tonko.house.gov/email-form1,2463 Rayburn House Office Building,T000469,4403,H8NY21203,RepPaulTonko,https://youtube.com/reppaultonko,reppaultonko,1949-06-18
+N00035523,Elise Stefanik,Stefanik,NY21,F,2014,202-225-4611,202-226-0621,https://stefanik.house.gov,,318 Cannon House Office Building,S001196,,H4NY21079,RepStefanik,,RepEliseStefanik,1984-07-02
+N00050433,Brandon Williams,Williams,NY22,M,2022,,,,,,,,,,,,
+N00051431,Nick Langworthy,Langworthy,NY23,M,2022,,,,,,,,,,,,
+N00036351,Claudia Tenney,Tenney,NY24,F,2020,202-225-3665,,https://tenney.house.gov,,512 Cannon House Office Building,T000478,,,RepTenney,,RepClaudiaTenney,1961-02-04
+N00043207,Joseph D Morelle,Morelle,NY25,M,2018,202-225-3615,,https://morelle.house.gov,,1317 Longworth House Office Building,M001206,,,repjoemorelle,,,1957-04-29
+N00027060,Brian Higgins,Higgins,NY26,M,2004,202-225-3306,202-226-0347,http://higgins.house.gov,http://higgins.house.gov/contact/email-brian,2459 Rayburn House Office Building,H001038,23127,H4NY27076,RepBrianHiggins,https://youtube.com/CongressmanHiggins,RepBrianHiggins,1959-10-06
+N00027658,Kirsten Gillibrand,Gillibrand,NYS1,F,2009,202-224-4451,202-228-0282,https://www.gillibrand.senate.gov,http://www.gillibrand.senate.gov/contact/,478 Russell Senate Office Building,G000555,65147,H6NY20167,SenGillibrand,https://youtube.com/KirstenEGillibrand,KirstenGillibrand,1966-12-09
+N00001093,Charles E Schumer,Schumer,NYS2,M,1998,202-224-6542,202-228-3027,https://www.schumer.senate.gov,https://www.schumer.senate.gov/contact/email-chuck,322 Hart Senate Office Building,S000148,26976,S8NY00082,SenSchumer,https://youtube.com/SenatorSchumer,senschumer,1950-11-23
+N00049636,Don Davis,Davis,NC01,M,2022,,,,,,,,,,,,
+N00038565,Deborah Ross,Ross,NC02,F,2020,202225-3032,202225-0181,https://ross.house.gov/,,"1208 Longworth House Office Building Washington, DC  20515",R000305,,,@RepDeborahRoss,,,06/20/63
+N00044027,Greg Murphy,Murphy,NC03,M,2019,,,,,,,,,,,,
+N00049652,Valerie Foushee,Foushee,NC04,F,2022,,,,,,,,,,,,
+N00026166,Virginia Foxx,Foxx,NC05,F,2004,202-225-2071,202-225-2995,http://foxx.house.gov,https://foxx.house.gov/forms/writeyourrep/?zip5=&zip4=,2262 Rayburn House Office Building,F000450,6051,H4NC05146,VirginiaFoxx,https://youtube.com/repvirginiafoxx,RepVirginiaFoxx,1943-06-29
+N00042159,Kathy Manning,Manning,NC06,F,2020,202225-3065,202225-8611,https://manning.house.gov/,,"415 Cannon House Office Building Washington, DC  20515",M001135,,,@RepKManning,,,12/03/56
+N00033527,David Rouzer,Rouzer,NC07,M,2014,202-225-2731,202-225-5773,https://rouzer.house.gov,,424 Cannon House Office Building,R000603,,H2NC07096,RepDavidRouzer,,RepRouzer,1972-02-16
+N00044335,Dan Bishop,Bishop,NC08,M,2019,,,,,,,,,,,,
+N00033630,Richard Hudson,Hudson,NC09,M,2012,202-225-3715,704-782-1004,https://hudson.house.gov,https://hudson.house.gov/email-me,429 Cannon House Office Building,H001067,136448,H2NC08185,RepRichHudson,https://youtube.com/RepRichHudson,RepRichHudson,1971-11-04
+N00026627,Patrick McHenry,Mchenry,NC10,M,2004,202-225-2576,202-225-0316,http://mchenry.house.gov,http://mchenry.house.gov/contact/zipauth.htm,2334 Rayburn House Office Building,M001156,21031,H4NC10047,PatrickMcHenry,https://youtube.com/CongressmanMcHenry,CongressmanMcHenry,1975-10-22
+N00049670,Chuck Edwards,Edwards,NC11,M,2022,,,,,,,,,,,,
+N00035451,Alma Adams,Adams,NC12,F,2014,202-225-1510,202-225-1512,http://adams.house.gov,http://adams.house.gov/contact,222 Cannon House Office Building,A000370,,H4NC12100,RepAdams,,CongresswomanAdams,1946-05-27
+N00049133,Wiley Nickel,Nickel,NC13,M,2022,,,,,,,,,,,,
+N00050407,Jeff Jackson,Jackson,NC14,M,2022,,,,,,,,,,,,
+N00035492,Thom Tillis,Tillis,NCS1,M,2014,202-224-6342,,https://www.tillis.senate.gov/public,https://www.tillis.senate.gov/public/index.cfm/email-me,185 Dirksen Senate Office Building,T000476,,S4NC00162,senthomtillis,,SenatorThomTillis,1960-08-30
+N00039551,Ted Budd,Budd,NCS2,M,2022,202-225-4531,,https://budd.house.gov,,118 Cannon House Office Building,B001305,,,RepTedBudd,,RepTedBudd,1971-10-21
+N00042868,Kelly Armstrong,Armstrong,ND01,M,2018,202-225-2611,,https://armstrong.house.gov/,,1004 Longworth House Office Building,A000377,,,RepArmstrongND,,,1976-10-08
+N00031688,John Hoeven,Hoeven,NDS1,M,2010,202-224-2551,202-224-7999,https://www.hoeven.senate.gov,http://www.hoeven.senate.gov/public/index.cfm/email-the-senator,338 Russell Senate Office Building,H001061,41788,S0ND00093,SenJohnHoeven,https://youtube.com/senatorjohnhoevennd,SenatorJohnHoeven,1957-03-13
+N00004614,Kevin Cramer,Cramer,NDS2,M,2018,202-225-2611,202-226-0893,http://cramer.house.gov,https://cramer.house.gov/contact/email-me,1717 Longworth House Office Building,C001096,444,H0ND01026,RepKevinCramer,https://youtube.com/kevincramer,CongressmanKevinCramer,1961-01-21
+N00049718,Greg Landsman,Landsman,OH01,M,2022,,,,,,,,,,,,
+N00033310,Brad Wenstrup,Wenstrup,OH02,M,2012,202-225-3164,202-225-1992,http://wenstrup.house.gov,http://wenstrup.house.gov/contact/,2419 Rayburn House Office Building,W000815,135326,H2OH02085,RepBradWenstrup,https://youtube.com/repbradwenstrup,RepBradWenstrup,1958-06-17
+N00033904,Joyce Beatty,Beatty,OH03,F,2012,202-225-4324,202-225-1984,http://beatty.house.gov,https://beattyforms.house.gov/forms/writeyourrep/,133 Cannon House Office Building,B001281,2427,H2OH03125,RepBeatty,,RepJoyceBeatty,1950-03-12
+N00027894,Jim Jordan,Jordan,OH04,M,2006,202-225-2676,202-226-0577,http://jordan.house.gov,http://jordan.house.gov/contact/,2056 Rayburn House Office Building,J000289,8158,H6OH04082,Jim_Jordan,https://youtube.com/RepJimJordan,repjimjordan,1964-02-17
+N00012233,Bob Latta,Latta,OH05,M,2007,202-225-6405,202-225-1985,http://latta.house.gov,https://latta.house.gov/contact/contactform.htm,2448 Rayburn House Office Building,L000566,9926,H8OH05036,BobLatta,https://youtube.com/CongressmanBobLatta,boblatta,1956-04-18
+N00032088,Bill Johnson,Johnson,OH06,M,2010,202-225-5705,202-225-5907,http://billjohnson.house.gov,http://billjohnson.house.gov/contact/default.aspx,1710 Longworth House Office Building,J000292,120649,H0OH06189,RepBillJohnson,https://youtube.com/RepBillJohnson,RepBillJohnson,1954-11-10
+N00048277,Max Miller,Miller,OH07,M,2022,,,,,,,,,,,,
+N00038767,Warren Davidson,Davidson,OH08,M,2016,202-225-6205,,https://davidson.house.gov,,1004 Longworth House Office Building,D000626,,,WarrenDavidson,,CongressmanWarrenDavidson,1970-03-01
+N00003522,Marcy Kaptur,Kaptur,OH09,F,1982,202-225-4146,202-225-7711,https://kaptur.house.gov,https://forms.house.gov/kaptur/webforms/issue_subscribe.shtml,2186 Rayburn House Office Building,K000009,27016,H2OH09031,RepMarcyKaptur,https://youtube.com/USRepMarcyKaptur,RepresentativeMarcyKaptur,1946-06-17
+N00025175,Michael R Turner,Turner,OH10,M,2002,202-225-6465,202-225-6754,https://turner.house.gov,http://turner.house.gov/contact/,2368 Rayburn House Office Building,T000463,45519,H2OH03067,RepMikeTurner,https://youtube.com/CongressmanTurner,RepMikeTurner,1960-01-11
+N00047875,Shontel Brown,Brown,OH11,F,2021,,,,,,,,,,,,
+N00042194,Troy Balderson,Balderson,OH12,M,2018,202-225-5355,,https://balderson.house.gov/,,1221 Longworth House Office Building,B001306,,,RepBalderson,,,1962-01-16
+N00050165,Emilia Sykes,Sykes,OH13,F,2022,,,,,,,,,,,,
+N00035007,David P Joyce,Joynce,OH14,M,2012,202-225-5731,202-225-3307,https://joyce.house.gov,https://joyce.house.gov/email-me,1124 Longworth House Office Building,J000295,143052,H2OH14064,RepDaveJoyce,https://youtube.com/repdavejoyce,RepDaveJoyce,1957-03-17
+N00048568,Mike Carey,Carey,OH15,M,2021,,,,,,,,,,,,
+N00003535,Sherrod Brown,Brown,OHS1,M,2006,202-224-2315,202-228-6321,https://www.brown.senate.gov,http://www.brown.senate.gov/contact/,713 Hart Senate Office Building,B000944,27018,H2OH13033,SenSherrodBrown,https://youtube.com/SherrodBrownOhio,SenatorSherrodBrown,1952-11-09
+N00048832,J D Vance,Vance,OHS2,M,2022,,,,,,,,,,,,
+N00040829,Kevin Hern,Hern,OK01,M,2018,202-225-2211,,https://hern.house.gov,,1019 Longworth House Office Building,H001082,,,repkevinhern,,,1961-12-04
+N00051106,Josh Brecheen,Brecheen,OK02,M,2022,,,,,,,,,,,,
+N00005559,Frank D Lucas,Lucas,OK03,M,1994,202-225-5565,202-225-8698,http://lucas.house.gov,https://lucas.house.gov/contact-me/email-me,2405 Rayburn House Office Building,L000491,27032,H4OK06056,RepFrankLucas,https://youtube.com/RepFrankLucas,7872057395,1960-01-06
+N00025726,Tom Cole,Cole,OK04,M,2002,202-225-6165,202-225-3512,https://cole.house.gov,https://coleforms.house.gov/contact/default.aspx,2467 Rayburn House Office Building,C001053,46034,H2OK04055,TomColeOK04,https://youtube.com/reptomcole,TomColeOK04,1949-04-28
+N00044579,Stephanie Bice,Bice,OK05,F,2020,202225-2132,,https://bice.house.gov/,,"1223 Longworth House Office Building, Washington, DC 20515",B000740,,,@RepBice,,RepStephanieBice,11/11/73
+N00031129,James Lankford,Lankford,OKS1,M,2014,202-224-5754,,https://www.lankford.senate.gov,http://www.lankford.senate.gov/contact/email,316 Hart Senate Office Building,L000575,124938,H0OK05114,SenatorLankford,https://youtube.com/SenatorLankford,SenatorLankford,1968-03-04
+N00033410,Markwayne Mullin,Mullin,OKS2,M,2022,202-225-2701,202-225-3038,https://mullin.house.gov,https://mullin.house.gov/contact/email-me,1113 Longworth House Office Building,M001190,135898,H2OK02083,RepMullin,,RepMullin,1977-07-26
+N00033474,Suzanne Bonamici,Bonamici,OR01,F,2012,202-225-0855,202-225-9497,http://bonamici.house.gov,https://bonamici.house.gov/contact-me/email-me,439 Cannon House Office Building,B001278,59641,H2OR01133,RepBonamici,https://youtube.com/RepSuzanneBonamici,congresswomanbonamici,1954-10-14
+N00045773,Cliff Bentz,Bentz,OR02,M,2020,202225-6730,,https://bentz.house.gov/,,"1239 Longworth House Office Building Washington, DC  20515",B000668,,,@RepBentz,,,01/12/52
+N00007727,Earl Blumenauer,Blumenauer,OR03,M,1996,202-225-4811,202-225-8941,https://blumenauer.house.gov,https://forms.house.gov/blumenauer/webforms/issue_subscribe.html,1111 Longworth House Office Building,B000574,367,H6OR03064,BlumenauerMedia,https://youtube.com/RepBlumenauer,blumenauer,1948-08-16
+N00049734,Val Hoyle,Hoyle,OR04,F,2022,,,,,,,,,,,,
+N00048900,Lori Chavez-Deremer,Chavez-Deremer,OR05,F,2022,,,,,,,,,,,,
+N00049738,Andrea Salinas,Salinas,OR06,F,2022,,,,,,,,,,,,
+N00029303,Jeff Merkley,Merkley,ORS1,M,2008,202-224-3753,202-228-3997,https://www.merkley.senate.gov,http://www.merkley.senate.gov/contact/,313 Hart Senate Office Building,M001176,23644,S8OR00207,SenJeffMerkley,https://youtube.com/SenatorJeffMerkley,jeffmerkley,1956-10-24
+N00007724,Ron Wyden,Wyden,ORS2,M,1996,202-224-5244,202-228-2717,https://www.wyden.senate.gov,https://www.wyden.senate.gov/contact/,221 Dirksen Senate Office Building,W000779,27036,S6OR00110,RonWyden,https://youtube.com/senronwyden,wyden,1949-05-03
+N00029147,Andy Harris,Harris,MD01,M,2010,202-225-5311,202-225-0254,http://harris.house.gov,https://harris.house.gov/contact-me/email-me,1533 Longworth House Office Building,H001052,19157,H8MD01094,RepAndyHarrisMD,https://youtube.com/RepAndyHarris,AndyHarrisMD,1957-01-25
+N00025482,Dutch Ruppersberger,Ruppersberger,MD02,M,2002,202-225-3061,202-225-3094,http://ruppersberger.house.gov,http://ruppersberger.house.gov/contact-dutch/email-dutch,2416 Rayburn House Office Building,R000576,36130,H2MD02160,Call_Me_Dutch,https://youtube.com/ruppersberger,184756771570504,1946-01-31
+N00027751,John Sarbanes,Sarbanes,MD03,M,2006,202-225-4016,202-225-9219,https://sarbanes.house.gov,http://sarbanes.house.gov/federal.asp,2444 Rayburn House Office Building,S001168,66575,H6MD03292,RepSarbanes,,RepSarbanes,1962-05-22
+N00033749,Glenn Ivey,Ivey,MD04,M,2022,,,,,,,,,,,,
+N00001821,Steny H Hoyer,Hoyer,MD05,M,1981,202-225-4131,202-225-4300,https://hoyer.house.gov,https://hoyer.house.gov/email-steny,1705 Longworth House Office Building,H000874,26890,H2MD05155,WhipHoyer,https://youtube.com/LeaderHoyer,WhipHoyer,1939-06-14
+N00039122,David Trone,Trone,MD06,M,2018,202-225-2721,,https://trone.house.gov/,,1213 Longworth House Office Building,T000483,,,RepDavidTrone,,,1955-09-21
+N00001799,Kweisi Mfume,Mfume,MD07,M,2020,,,,,,,,,,,,
+N00037036,Jamie Raskin,Raskin,MD08,M,2016,202-225-5341,,https://raskin.house.gov,,431 Cannon House Office Building,R000606,,,repraskin,,repraskin,1962-12-13
+N00001955,Ben Cardin,Cardin,MDS1,M,2006,202-224-4524,202-224-1651,https://www.cardin.senate.gov,http://www.cardin.senate.gov/contact/,509 Hart Senate Office Building,C000141,26888,H6MD03177,SenatorCardin,https://youtube.com/senatorcardin,senatorbencardin,1943-10-05
+N00013820,Chris Van Hollen,Van Hollen,MDS2,M,2016,202-224-4654,202-225-0375,https://www.vanhollen.senate.gov,https://www.vanhollen.senate.gov/content/contact-senator,110 Hart Senate Office Building,V000128,6098,H2MD08126,ChrisVanHollen,https://youtube.com/RepChrisVanHollen,chrisvanhollen,1959-01-10
+N00000153,Richard E Neal,Neal,MA01,M,1988,202-225-5601,202-225-8112,https://neal.house.gov,https://forms.house.gov/neal/webforms/Contact_Form.shtml,341 Cannon House Office Building,N000015,26895,H8MA02041,RepRichardNeal,https://youtube.com/RepRichardENeal,325642654132598,1949-02-14
+N00000179,James P McGovern,Mcgovern,MA02,M,1996,202-225-6101,202-225-5759,http://mcgovern.house.gov,https://mcgovern.house.gov/contact/email-me,438 Cannon House Office Building,M000312,552,H4MA03022,RepMcGovern,https://youtube.com/repjimmcgovern,RepJimMcGovern,1959-11-20
+N00041808,Lori Trahan,Trahan,MA03,F,2018,202-225-3411,,https://trahan.house.gov/,,1616 Longworth House Office Building,T000482,,,RepLoriTrahan,,,1973-10-27
+N00045506,Jake Auchincloss,Auchincloss,MA04,M,2020,202225-5931,,https://auchincloss.house.gov/,,"1524 Longworth House Office Building Washington, DC  20515",A000148,,,@RepAuchincloss,,,01/29/88
+N00035278,Katherine Clark,Clark,MA05,F,2013,202-225-2836,202-226-0092,https://katherineclark.house.gov,https://katherineclark.house.gov/index.cfm/email-me,1415 Longworth House Office Building,C001101,35858,H4MA05084,RepKClark,,CongresswomanClark,1963-07-17
+N00035431,Seth Moulton,Moulton,MA06,M,2014,202-225-8020,202-225-5915,http://moulton.house.gov,,1408 Longworth House Office Building,M001196,,H4MA06090,teammoulton,,CongressmanSethMoulton,1978-10-24
+N00042581,Ayanna Pressley,Pressley,MA07,F,2018,202-225-5111,,https://pressley.house.gov/,,1108 Longworth House Office Building,P000617,,,RepPressley,,,1974-02-03
+N00013855,Stephen Lynch,Lynch,MA08,M,2001,202-225-8273,202-225-3984,http://lynch.house.gov,https://lynch.house.gov/contact-me/email-me,2268 Rayburn House Office Building,L000562,4844,H2MA09072,RepStephenLynch,https://youtube.com/RepLynch,repstephenlynch,1955-03-31
+N00031933,Bill Keating,Keating,MA09,M,2010,202-225-3111,202-225-5658,https://keating.house.gov,https://forms.house.gov/keating/webforms/contact.shtml,2351 Rayburn House Office Building,K000375,4743,H0MA10082,USRepKeating,https://youtube.com/RepBillKeating,USRepKeating,1952-09-06
+N00033492,Elizabeth Warren,Warren,MAS1,F,2012,202-224-4543,202-228-2072,https://www.warren.senate.gov,https://www.warren.senate.gov/?p=email_senator,317 Hart Senate Office Building,W000817,141272,S2MA00170,SenWarren,https://youtube.com/senelizabethwarren,senatorelizabethwarren,1949-06-22
+N00000270,Ed Markey,Markey,MAS2,M,2013,202-224-2742,,https://www.markey.senate.gov,https://www.markey.senate.gov/contact,255 Dirksen Senate Office Building,M000133,26900,H6MA07101,SenMarkey,https://youtube.com/RepMarkey,EdJMarkey,1946-07-11
+N00039533,John Bergman,Bergman,MI01,M,2016,202-225-4735,,https://bergman.house.gov,,414 Cannon House Office Building,B001301,,,RepJackBergman,,RepJackBergman,1947-02-02
+N00036275,John Moolenaar,Moolenaar,MI02,M,2014,202-225-3561,202-225-9679,https://moolenaar.house.gov,,117 Cannon House Office Building,M001194,,H4MI04126,RepMoolenaar,,RepMoolenaar,1961-05-08
+N00044885,Hillary Scholten,Scholten,MI03,F,2022,,,,,,,,,,,,
+N00030673,Bill Huizenga,Huizenga,MI04,M,2010,202-225-4401,202-226-0779,http://huizenga.house.gov,http://huizenga.house.gov/contact/,2232 Rayburn House Office Building,H001058,38351,H0MI02094,RepHuizenga,https://youtube.com/RepHuizenga,RepHuizenga,1969-01-31
+N00026368,Tim Walberg,Walberg,MI05,M,2010,202-225-6276,202-225-6281,http://walberg.house.gov,https://walberg.house.gov/contact/contactform.htm,2436 Rayburn House Office Building,W000798,8618,H4MI07103,RepWalberg,https://youtube.com/RepWalberg,RepWalberg,1951-04-12
+N00036149,Debbie Dingell,Dingell,MI06,F,2014,202-225-4071,202-226-0371,https://debbiedingell.house.gov,,116 Cannon House Office Building,D000624,,H4MI12079,RepDebDingell,,RepDebbieDingell,1953-11-23
+N00041357,Elissa Slotkin,Slotkin,MI07,F,2018,202-225-4872,,https://slotkin.house.gov/,,1531 Longworth House Office Building,S001208,,,RepSlotkin,,,1976-07-10
+N00033395,Dan Kildee,Kildee,MI08,M,2012,202-225-3611,202-225-6393,http://dankildee.house.gov,https://dankildee.house.gov/contact/email-me,227 Cannon House Office Building,K000380,136102,H2MI05119,RepDanKildee,https://youtube.com/RepDanKildee,RepDanKildee,1958-08-11
+N00045730,Lisa McClain,Mcclain,MI09,F,2020,202225-2106,202226-1169,https://mcclain.house.gov/,,"218 Cannon House Office Building Washington, DC  20515",M001136,,,@RepLisaMcClain,,,04/07/66
+N00041550,John James,James,MI10,M,2022,,,,,,,,,,,,
+N00040915,Haley Stevens,Stevens,MI11,F,2018,202-225-8171,,https://stevens.house.gov/,,227 Cannon House Office Building,S001215,,,RepHaleyStevens,,,1983-06-01
+N00042649,Rashida Tlaib,Tlaib,MI12,F,2018,202-225-5126,,https://tlaib.house.gov/,,1628 Longworth House Office Building,T000481,,,RepRashida,,,1976-07-24
+N00049602,Shri Thanedar,Thanedar,MI13,M,2022,,,,,,,,,,,,
+N00029277,Gary Peters,Peters,MIS1,M,2014,202-224-6221,202-226-2356,https://www.peters.senate.gov,https://www.peters.senate.gov/contact/email-gary,724 Hart Senate Office Building,P000595,8749,H8MI09068,SenGaryPeters,https://youtube.com/RepGaryPeters,SenGaryPeters,1958-12-01
+N00004118,Debbie Stabenow,Stabenow,MIS2,F,2000,202-224-4822,202-228-0325,https://www.stabenow.senate.gov,http://www.stabenow.senate.gov/?p=contact,731 Hart Senate Office Building,S000770,515,S8MI00281,SenStabenow,https://youtube.com/senatorstabenow,SenatorStabenow,1950-04-29
+N00050649,Brad Finstad,Finstad,MN01,M,2022,,,,,,,,,,,,
+N00037039,Angie Craig,Craig,MN02,F,2018,202-225-2271,,https://craig.house.gov/,,1523 Longworth House Office Building,C001119,,,RepAngieCraig,,,1972-02-14
+N00041134,Dean Phillips,Phillips,MN03,M,2018,202-225-2871,,https://phillips.house.gov/,,1305 Longworth House Office Building,P000616,,,RepDeanPhillips,,,1969-01-20
+N00012942,Betty McCollum,Mccollum,MN04,F,2000,202-225-6631,202-225-1968,http://mccollum.house.gov,https://mccollum.house.gov/contact-me/email-me,2256 Rayburn House Office Building,M001143,3812,H0MN04049,BettyMcCollum04,,repbettymccollum,1954-07-12
+N00043581,Ilhan Omar,Omar,MN05,F,2018,202-225-4755,,https://omar.house.gov/,,1517 Longworth House Office Building,O000173,,,,,,1981-10-04
+N00035440,Tom Emmer,Emmer,MN06,M,2014,202-225-2331,202-225-6475,https://emmer.house.gov,,315 Cannon House Office Building,E000294,,H4MN06087,RepTomEmmer,,reptomemmer,1961-03-03
+N00045251,Michelle Fischbach,Fischbach,MN07,F,2020,202225-2165,202225-1593,https://fischbach.house.gov/,,"1237 Longworth House Office Building Washington, DC  20515",F000470,,,@RepFischbach,,RepFischbach,11/03/65
+N00041511,Pete Stauber,Stauber,MN08,M,2018,202-225-6211,,https://stauber.house.gov/,,126 Cannon House Office Building,S001212,,,RepPeteStauber,,,1966-05-10
+N00042353,Tina Smith,Smith,MNS1,F,2018,202-224-5641,,https://www.smith.senate.gov,https://www.smith.senate.gov/content/contact-senator,309 Hart Senate Office Building,S001203,,,SenTinaSmith,,USSenTinaSmith,1958-03-04
+N00027500,Amy Klobuchar,Klobuchar,MNS2,F,2006,202-224-3244,202-228-2186,https://www.klobuchar.senate.gov,http://www.klobuchar.senate.gov/public/index.cfm/contact,302 Hart Senate Office Building,K000367,65092,S6MN00267,AmyKlobuchar,https://youtube.com/senatorklobuchar,AmyKlobuchar,1960-05-25
+N00037003,Trent Kelly,Kelly,MS01,M,2015,202-225-4306,,https://trentkelly.house.gov,,1721 Longworth House Office Building,K000388,,,reptrentkelly,,reptrentkelly,1966-03-01
+N00003288,Bennie G Thompson,Thompson,MS02,M,1993,202-225-5876,202-225-5898,https://benniethompson.house.gov,https://forms.house.gov/benniethompson/contact-form.shtml,2466 Rayburn House Office Building,T000193,26929,H4MS02068,BennieGThompson,https://youtube.com/RepBennieThompson,7259193379,1948-01-28
+N00042458,Michael Guest,Guest,MS03,M,2018,202-225-5031,,https://guest.house.gov/,,230 Cannon House Office Building,G000591,,,,,,1970-02-04
+N00048240,Mike Ezell,Ezell,MS04,M,2022,,,,,,,,,,,,
+N00043298,Cindy Hyde-Smith,Hyde-Smith,MSS1,F,2018,202-224-5054,,https://www.hydesmith.senate.gov,https://www.hydesmith.senate.gov/content/contact-senator,G12 Dirksen Senate Office Building,H001079,,,SenHydeSmith,,,1959-05-10
+N00003280,Roger Wicker,Wicker,MSS2,M,2007,202-224-6253,202-228-0378,https://www.wicker.senate.gov,https://www.wicker.senate.gov/public/index.cfm/contact,555 Dirksen Senate Office Building,W000437,21926,H4MS01078,SenatorWicker,https://youtube.com/SenatorWicker,SenatorWicker,1951-07-05
+N00039373,Cori Bush,Bush,MO01,F,2020,202225-2406,202226-3717,https://bush.house.gov/,,563 Cannon House Office Building,B001224,,,@RepCori,,RepCori,07/21/76
+N00033106,Ann Wagner,Wagner,MO02,F,2012,202-225-1621,202-225-2563,http://wagner.house.gov,https://wagner.house.gov/contact/email-me,435 Cannon House Office Building,W000812,136083,H2MO02102,RepAnnWagner,,RepAnnWagner,1962-09-13
+N00030026,Blaine Luetkemeyer,Luetkemeyer,MO03,M,2008,202-225-2956,202-225-5712,http://luetkemeyer.house.gov,https://luetkemeyer.house.gov/forms/writeyourrep/,2230 Rayburn House Office Building,L000569,20400,H8MO09153,RepBlainePress,https://youtube.com/BLuetkemeyer,BlaineLuetkemeyer,1952-05-07
+N00049617,Mark Alford,Alford,MO04,M,2022,,,,,,,,,,,,
+N00026790,Emanuel Cleaver,Cleaver,MO05,M,2004,202-225-4535,202-225-4403,http://cleaver.house.gov,https://cleaver.house.gov/contact/email-me,2335 Rayburn House Office Building,C001061,39507,H4MO05234,RepCleaver,https://youtube.com/repcleaver,emanuelcleaverii,1944-10-26
+N00013323,Sam Graves,Graves,MO06,M,2000,202-225-7041,202-225-8221,https://graves.house.gov,https://gravesforms.house.gov/email-sam,1135 Longworth House Office Building,G000546,9425,H0MO06073,RepSamGraves,,118514606128,1963-11-07
+N00049123,Eric Burlison,Burlison,MO07,M,2022,,,,,,,,,,,,
+N00035282,Jason Smith,Smith,MO08,M,2013,202-225-4404,202-226-0326,https://jasonsmith.house.gov,https://jasonsmith.house.gov/contact/email-me,1118 Longworth House Office Building,S001195,59318,H4MO08162,RepJasonSmith,https://youtube.com/RepJasonSmith,repjasonsmith,1980-06-16
+N00048414,Eric Schmitt,Schmitt,MOS1,M,2022,,,,,,,,,,,,
+N00041620,Josh Hawley,Hawley,MOS2,M,2018,202-224-6154,,https://www.hawley.senate.gov,,B40a Dirksen Senate Office Building,H001089,,,,,,1979-12-31
+N00038779,Brian Fitzpatrick,Fitzpatrick,PA01,M,2016,202-225-4276,,https://brianfitzpatrick.house.gov,,514 Cannon House Office Building,F000466,,,repbrianfitz,,repbrianfitzpatrick,1973-12-17
+N00035307,Brendan Boyle,Boyle,PA02,M,2014,202-225-6111,202-226-0611,https://boyle.house.gov,,1133 Longworth House Office Building,B001296,,H4PA13199,RepBrendanBoyle,,CongressmanBoyle,1977-02-06
+N00038450,Dwight Evans,Evans,PA03,M,2016,202-225-4001,,https://evans.house.gov,,1105 Longworth House Office Building,E000296,,,RepDwightEvans,,RepDwightEvans,1954-05-16
+N00042894,Madeleine Dean,Dean,PA04,F,2018,202-225-4731,,https://dean.house.gov/,,129 Cannon House Office Building,D000631,,,,,,1959-06-06
+N00042706,Mary Gay Scanlon,Scanlon,PA05,F,2018,202-225-2011,,https://scanlon.house.gov,,1535 Longworth House Office Building,S001205,,,,,,1959-08-30
+N00040949,Chrissy Houlahan,Houlahan,PA06,F,2018,202-225-4315,,https://houlahan.house.gov/,,1218 Longworth House Office Building,H001085,,,RepHoulahan,,,1967-06-05
+N00041997,Susan Wild,Wild,PA07,F,2018,202-225-6411,,https://wild.house.gov,,1607 Longworth House Office Building,W000826,,,RepSusanWild,,,1957-06-07
+N00034128,Matt Cartwright,Cartwright,PA08,M,2012,202-225-5546,570-341-1055,http://cartwright.house.gov,https://cartwrightforms.house.gov/forms/writeyourrep/,1034 Longworth House Office Building,C001090,136236,H2PA17079,RepCartwright,,CongressmanMattCartwright,1961-05-01
+N00029416,Dan Meuser,Meuser,PA09,M,2018,202-225-6511,,https://meuser.house.gov/,,326 Cannon House Office Building,M001204,,,RepMeuser,,,1964-02-10
+N00034120,Scott Perry,Perry,PA10,M,2012,202-225-5836,202-226-1000,http://perry.house.gov,http://perryforms.house.gov/forms/writeyourrep/,1207 Longworth House Office Building,P000605,59980,H2PA04135,RepScottPerry,https://youtube.com/RepScottPerry,Rep.ScottPerry,1962-05-27
+N00038781,Lloyd Smucker,Smucker,PA11,M,2016,202-225-2411,,https://smucker.house.gov,,516 Cannon House Office Building,S001199,,,RepSmucker,,RepSmucker,1964-01-23
+N00049757,Summer Lee,Lee,PA12,F,2022,,,,,,,,,,,,
+N00043242,John Joyce,Joyce,PA13,M,2018,202-225-2431,,https://johnjoyce.house.gov/,,1337 Longworth House Office Building,J000302,,,,,,1957-02-08
+N00041871,Guy Reschenthaler,Reschenthaler,PA14,M,2018,202-225-2065,,https://reschenthaler.house.gov/,,531 Cannon House Office Building,R000610,,,,,,1983-04-17
+N00029736,Glenn Thompson,Thompson,PA15,M,2008,202-225-5121,202-225-5796,http://thompson.house.gov,https://thompson.house.gov/contact-me/email-me,124 Cannon House Office Building,T000467,24046,H8PA05071,CongressmanGT,https://youtube.com/CongressmanGT,CongressmanGT,1959-07-27
+N00031647,Mike Kelly,Kelly,PA16,M,2010,202-225-5406,202-225-3103,http://kelly.house.gov,https://kelly.house.gov/contact-me/email-me,1707 Longworth House Office Building,K000376,119463,H0PA03271,MikeKellyPA,https://youtube.com/repmikekelly,MikeKellyPA,1948-05-10
+N00049160,Christopher Deluzio,Deluzio,PA17,M,2022,,,,,,,,,,,,
+N00038201,John Fetterman,Fetterman,PAS1,M,2022,,,,,,,,,,,,
+N00027503,Bob Casey,Casey,PAS2,M,2006,202-224-6324,202-228-0604,https://www.casey.senate.gov,https://www.casey.senate.gov/contact/,393 Russell Senate Office Building,C001070,2541,S6PA00217,SenBobCasey,https://youtube.com/SenatorBobCasey,SenatorBobCasey,1960-04-13
+N00032019,David Cicilline,Cicilline,RI01,M,2010,202-225-4911,202-225-3290,http://cicilline.house.gov,https://cicilline.house.gov/contact-me/email-me,2244 Rayburn House Office Building,C001084,7349,H0RI01073,RepCicilline,https://youtube.com/RepDavidCicilline,CongressmanDavidCicilline,1961-07-15
+N00050458,Seth Magaziner,Magaziner,RI02,M,2022,,,,,,,,,,,,
+N00027533,Sheldon Whitehouse,Whitehouse,RIS1,M,2006,202-224-2921,202-228-6362,https://www.whitehouse.senate.gov,http://www.whitehouse.senate.gov/contact,530 Hart Senate Office Building,W000802,2572,S6RI00221,SenWhitehouse,https://youtube.com/SenatorWhitehouse,SenatorWhitehouse,1955-10-20
+N00000362,Jack Reed,Reed,RIS2,M,1996,202-224-4642,202-224-4680,https://www.reed.senate.gov,https://www.reed.senate.gov/contact/,728 Hart Senate Office Building,R000122,27060,S6RI00163,SenJackReed,https://youtube.com/SenatorReed,SenJackReed,1949-11-12
+N00035670,Nancy Mace,Mace,SC01,F,2020,202225-3176,,https://mace.house.gov/,,"212 Cannon House Office Building Washington, DC  20515",M000194,,,@RepNancyMace,,,12/04/77
+N00024809,Joe Wilson,Wilson,SC02,M,2001,202-225-2452,202-225-2455,http://joewilson.house.gov,https://joewilson.house.gov/forms/writeyourrep/default.aspx,1436 Longworth House Office Building,W000795,3985,H2SC02059,RepJoeWilson,https://youtube.com/RepJoeWilson,JoeWilson,1947-07-31
+N00030752,Jeff Duncan,Duncan,SC03,M,2010,202-225-5301,202-225-3216,http://jeffduncan.house.gov,https://jeffduncan.house.gov/contact-me/email-me,2229 Rayburn House Office Building,D000615,47967,H0SC03077,RepJeffDuncan,https://youtube.com/congjeffduncan,RepJeffDuncan,1966-01-07
+N00042715,William Timmons,Timmons,SC04,M,2018,202-225-6030,,https://timmons.house.gov/,,313 Cannon House Office Building,T000480,,,RepTimmons,,,1984-04-30
+N00027783,Ralph Norman,Norman,SC05,M,2017,,,https://norman.house.gov,,,N000190,,,RepRaphNorman,,RepRaphNorman,1953-06-20
+N00002408,James E Clyburn,Clyburn,SC06,M,1992,202-225-3315,202-225-2313,http://clyburn.house.gov,https://clyburn.house.gov/contact-me/email-me,242 Cannon House Office Building,C000537,27066,H2SC02042,Clyburn,https://youtube.com/repjamesclyburn,jameseclyburn,1940-07-21
+N00049165,Russell Fry,Fry,SC07,M,2022,,,,,,,,,,,,
+N00031782,Tim Scott,Scott,SCS1,M,2013,202-224-6121,202-225-3407,https://www.scott.senate.gov,https://www.scott.senate.gov/contact/email-me,717 Hart Senate Office Building,S001184,11940,H0SC01279,SenatorTimScott,https://youtube.com/SenatorTimScott,SenatorTimScott,1965-09-19
+N00009975,Lindsey Graham,Graham,SCS2,M,2002,202-224-5972,202-224-3808,https://www.lgraham.senate.gov/public,https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham,290 Russell Senate Office Building,G000359,21992,S0SC00149,GrahamBlog,https://youtube.com/USSenLindseyGraham,USSenatorLindseyGraham,1955-07-09
+N00040559,Dusty Johnson,Johnson,SD01,M,2018,202-225-2801,,https://dustyjohnson.house.gov/,,1508 Longworth House Office Building,J000301,,,RepJohnson,,,1976-09-30
+N00004572,John Thune,Thune,SDS1,M,2004,202-224-2321,202-228-5429,https://www.thune.senate.gov,http://www.thune.senate.gov/public/index.cfm/contact,511 Dirksen Senate Office Building,T000250,398,S2SD00068,SenJohnThune,https://youtube.com/johnthune,johnthune,1961-01-07
+N00035187,Mike Rounds,Rounds,SDS2,M,2014,202-224-5842,,https://www.rounds.senate.gov,https://www.rounds.senate.gov/contact/email-mike,502 Hart Senate Office Building,R000605,,S4SD00049,SenatorRounds,,SenatorMikeRounds,1954-10-24
+N00046688,Diana Harshbarger,Harshbarger,TN01,F,2020,202225-6356,202225-5714,https://harshbarger.house.gov/,,"167 Cannon House Office Building Washington, DC  20515",H001086,,,@RepHarshbarger,,,
+N00041594,Tim Burchett,Burchett,TN02,M,2018,202-225-5435,,https://burchett.house.gov/,,1122 Longworth House Office Building,B001309,,,RepTimBurchett,,,1964-08-25
+N00030815,Chuck Fleischmann,Fleischmann,TN03,M,2010,202-225-3271,202-225-3494,http://fleischmann.house.gov,https://fleischmann.house.gov/contact-me/email-me,2410 Rayburn House Office Building,F000459,123456,H0TN03254,RepChuck,https://youtube.com/repchuck,repchuck,1962-10-11
+N00030957,Scott Desjarlais,Desjarlais,TN04,M,2010,202-225-6831,202-226-5172,https://desjarlais.house.gov,http://desjarlais.house.gov/contact/email-me,2301 Rayburn House Office Building,D000616,123473,H0TN04195,DesJarlaisTN04,https://youtube.com/ScottDesJarlaisTN04,ScottDesJarlaisTN04,1964-02-21
+N00050943,Andy Ogles,Ogles,TN05,M,2022,,,,,,,,,,,,
+N00041599,John Rose,Rose,TN06,M,2018,202-225-4231,,https://johnrose.house.gov/,,1232 Longworth House Office Building,R000612,,,,,,1965-02-23
+N00041873,Mark Green,Green,TN07,M,2018,202-225-2811,,https://markgreen.house.gov,,533 Cannon House Office Building,G000590,,,RepMarkGreen,,,1964-11-08
+N00025445,David Kustoff,Kustoff,TN08,M,2016,202-225-4714,,https://kustoff.house.gov,,508 Cannon House Office Building,K000392,,,repdavidkustoff,,RepDavidKustoff,1966-10-08
+N00003225,Steve Cohen,Cohen,TN09,M,2006,202-225-3265,202-225-5663,https://cohen.house.gov,https://cohen.house.gov/contact-me/email-me,2404 Rayburn House Office Building,C001068,24340,H6TN09068,RepCohen,https://youtube.com/repcohen,CongressmanSteveCohen,1949-05-24
+N00003105,Marsha Blackburn,Blackburn,TNS1,F,2018,202-225-2811,202-225-3004,http://blackburn.house.gov,https://blackburn.house.gov/contactform/email.htm,2266 Rayburn House Office Building,B001243,25186,H2TN06030,MarshaBlackburn,https://youtube.com/RepMarshaBlackburn,marshablackburn,1952-06-06
+N00045369,Bill Hagerty,Hagerty,TNS2,M,2020,202224-4944,,https://www.hagerty.senate.gov/,,"Russell Senate Office Building Suite SR-B11  Washington, DC 20002",H000601,128466,,@SenatorHagerty,,,08/14/59
+N00049775,Nathaniel Moran,Moran,TX01,M,2022,,,,,,,,,,,,
+N00042224,Dan Crenshaw,Crenshaw,TX02,M,2018,202-225-6565,,https://crenshaw.house.gov/,,413 Cannon House Office Building,C001120,,,RepDanCrenshaw,,,1984-03-14
+N00049337,Keith Self,Self,TX03,M,2022,,,,,,,,,,,,
+N00047264,Patrick Fallon,Fallon,TX04,M,2020,202225-6673,,https://fallon.house.gov/,,"1118 Longworth HOB Washington, DC  20515",F000246,,,@RepPatFallon,https://www.youtube.com/RepPatFallon,RepPatFallon,12/19/67
+N00042237,Lance Gooden,Gooden,TX05,M,2018,202-225-3484,,https://gooden.house.gov/,,425 Cannon House Office Building,G000589,,,,,,1982-12-01
+N00042243,Jake Ellzey,Ellzey,TX06,M,2021,,,,,,,,,,,,
+N00041194,Lizzie Fletcher,Fletcher,TX07,F,2018,202-225-2571,,https://fletcher.house.gov/,,1429 Longworth House Office Building,F000468,,,RepFletcher,,,1975-02-13
+N00048776,Morgan Luttrell,Luttrell,TX08,M,2022,,,,,,,,,,,,
+N00026686,Al Green,Green,TX09,M,2004,202-225-7508,202-225-2947,http://algreen.house.gov,https://algreen.house.gov/contact-me/email-me,2347 Rayburn House Office Building,G000553,49680,H4TX09095,RepAlGreen,https://youtube.com/RepAlGreen,repalgreen,1947-09-01
+N00026460,Michael McCaul,Mccaul,TX10,M,2004,202-225-2401,202-225-5955,http://mccaul.house.gov,https://mccaul.house.gov/contact/email-me,2001 Rayburn House Office Building,M001157,49210,H4TX10093,RepMcCaul,https://youtube.com/MichaelTMcCaul,michaeltmccaul,1962-01-14
+N00045421,August Pfluger,Pfluger,TX11,M,2020,202225-3605,,https://pfluger.house.gov/,,"1531 Longworth House Office Building, Washington, DC 20515",P000048,,,@RepPfluger,,,
+N00008799,Kay Granger,Granger,TX12,F,1996,202-225-5071,202-225-5683,http://kaygranger.house.gov,http://kaygranger.house.gov/contact-kay/email-me,1026 Longworth House Office Building,G000377,334,H6TX12060,RepKayGranger,https://youtube.com/RepKayGranger,RepKayGranger,1943-01-18
+N00046055,Ronny Jackson,Jackson,TX13,M,2020,202225-3706,202225-3486,https://jackson.house.gov/,,"118 Cannon HOB Washington, DC 20515",J000304,,,@RepRonnyJackson,,,05/04/67
+N00033539,Randy Weber,Weber,TX14,M,2012,202-225-2831,202-225-0271,http://weber.house.gov,https://weber.house.gov/contact/email-me,1708 Longworth House Office Building,W000814,102026,H2TX14149,TXRandy14,https://youtube.com/TXRandy14,TXRandy14,1953-07-02
+N00045793,Monica De La Cruz,De La Cruz,TX15,F,2022,,,,,,,,,,,,
+N00041702,Veronica Escobar,Escobar,TX16,F,2018,202-225-4831,,https://escobar.house.gov/,,1505 Longworth House Office Building,E000299,,,RepEscobar,,,1969-09-15
+N00005681,Pete Sessions,Sessions,TX17,M,1996,202-225-2231,202-225-5878,https://sessions.house.gov,https://sessions.house.gov/index.cfm/contact-form,2233 Rayburn House Office Building,S000250,288,H2TX03126,PeteSessions,https://youtube.com/PeteSessions,petesessions,1955-03-22
+N00005818,Sheila Jackson Lee,Jackson Lee,TX18,F,1994,202-225-3816,202-225-3317,http://jacksonlee.house.gov,http://jacksonlee.house.gov/contact/,2187 Rayburn House Office Building,J000032,21692,H4TX18054,JacksonLeeTX18,https://youtube.com/TX18SJL,169479190984,1950-01-12
+N00038285,Jodey Arrington,Arrington,TX19,M,2016,202-225-4005,,https://arrington.house.gov,,1029 Longworth House Office Building,A000375,,,RepArrington,,JodeyArrington,1972-03-09
+N00033316,Joaquin Castro,Castro,TX20,M,2012,202-225-3236,202-225-1915,https://castro.house.gov,https://castro.house.gov/contact/email-me,1221 Longworth House Office Building,C001091,49227,H2TX35011,JoaquinCastrotx,https://youtube.com/JoaquinCastroTX,JoaquinCastroTX,1974-09-16
+N00042268,Chip Roy,Roy,TX21,M,2018,202-225-4236,,https://roy.house.gov/,,1319 Longworth House Office Building,R000614,,,,,,1972-08-07
+N00046067,Troy Nehls,Nehls,TX22,M,2020,202225-5951,202225-5241,https://nehls.house.gov/,,"1104 Longworth House Office Building Washington, DC  20515",N000026,188334,,@RepTroyNehls,,,04/07/68
+N00044592,Tony Gonzales,Gonzales,TX23,M,2020,202225-4511,202225-2237,https://gonzales.house.gov/,,"1009 Longworth House Office Building, Washington, DC 20515",G000594,,,@RepTonyGonzales,,RepTonyGonzales,10/10/80
+N00045167,Beth Van Duyne,Van Duyne,TX24,F,2020,202225-6605,,https://vanduyne.house.gov/,,"1337 Longworth House Office Building, Washington, DC 20515",V000134,79150,,@RepBethVanDuyne,,,11/16/70
+N00030602,Roger Williams,Williams,TX25,M,2012,202-225-9896,512-473-8946,http://williams.house.gov,https://williams.house.gov/contact/email-me,1323 Longworth House Office Building,W000816,50112,H2TX33040,RepRWilliams,,RepRogerWilliams,1949-09-13
+N00025219,Michael Burgess,Burgess,TX26,M,2002,202-225-7772,202-225-2919,http://burgess.house.gov,http://burgess.house.gov/contact/356345.htm,2336 Rayburn House Office Building,B001248,50120,H2TX26093,MichaelCBurgess,https://youtube.com/michaelcburgessmd,michaelcburgess,1950-12-23
+N00041882,Michael Cloud,Cloud,TX27,M,2018,202-225-7742,,https://cloud.house.gov/,,1314 Longworth House Office Building,C001115,,,RepCloudTX,,,1975-05-13
+N00024978,Henry Cuellar,Cuellar,TX28,M,2004,202-225-1640,202-225-1641,http://cuellar.house.gov,https://cuellar.house.gov/forms/writeyourrep/default.aspx,2209 Rayburn House Office Building,C001063,5486,H2TX23082,RepCuellar,https://youtube.com/henrycuellar,152569121550,1955-09-19
+N00042282,Sylvia Garcia,Garcia,TX29,F,2018,202-225-1688,,https://sylviagarcia.house.gov/,,1620 Longworth House Office Building,G000587,,,RepSylviaGarcia,,,1950-09-06
+N00049840,Jasmine Crockett,Crockett,TX30,F,2022,,,,,,,,,,,,
+N00025095,John Carter,Carter,TX31,M,2002,202-225-3864,202-225-5886,https://carter.house.gov,https://carter.house.gov/email-john2,2110 Rayburn House Office Building,C001051,49296,H2TX31044,JudgeCarter,https://youtube.com/repjohncarter,judgecarter,1941-11-06
+N00040989,Colin Allred,Allred,TX32,M,2018,202-225-2231,,https://allred.house.gov/,,328 Cannon House Office Building,A000376,,,RepColinAllred,,,1983-04-15
+N00033839,Marc Veasey,Veasey,TX33,M,2012,202-225-9897,202-225-9702,http://veasey.house.gov,https://veaseyforms.house.gov/forms/writeyourrep/,1519 Longworth House Office Building,V000131,49671,H2TX33073,RepVeasey,https://youtube.com/marcveasey,CongressmanMarcVeasey,1971-01-03
+N00038809,Vicente Gonzalez,Gonzalez,TX34,M,2016,202-225-2531,,https://gonzalez.house.gov,,113 Cannon House Office Building,G000581,,,RepGonzalez,,USCongressmanVicenteGonzalez,1967-09-04
+N00049855,Greg Casar,Casar,TX35,M,2022,,,,,,,,,,,,
+N00005736,Brian Babin,Babin,TX36,M,2014,202-225-1555,202-226-0396,http://babin.house.gov,,316 Cannon House Office Building,B001291,,H6TX02079,RepBrianBabin,,RepBrianBabin,1948-03-23
+N00006023,Lloyd Doggett,Doggett,TX37,M,1994,202-225-4865,202-225-3073,https://doggett.house.gov,https://forms.house.gov/doggett/webforms/issue_subscribe.htm,2307 Rayburn House Office Building,D000399,21689,H4TX10028,RepLloydDoggett,https://youtube.com/doggett,lloyddoggett,1946-10-06
+N00044362,Wesley Hunt,Hunt,TX38,M,2022,,,,,,,,,,,,
+N00024852,John Cornyn,Cornyn,TXS1,M,2002,202-224-2934,202-228-2856,https://www.cornyn.senate.gov,https://www.cornyn.senate.gov/contact,517 Hart Senate Office Building,C001056,15375,S2TX00106,JohnCornyn,https://youtube.com/senjohncornyn,sen.johncornyn,1952-02-02
+N00033085,Ted Cruz,Cruz,TXS2,M,2012,202-224-5922,202-228-3398,https://www.cruz.senate.gov,http://www.cruz.senate.gov/?p=email_senator,404 Russell Senate Office Building,C001098,135705,S2TX00312,SenTedCruz,https://youtube.com/sentedcruz,SenatorTedCruz,1970-12-22
+N00046598,Blake Moore,Moore,UT01,M,2020,202225-0453,202225-5857,https://blakemoore.house.gov/,,"1320 Longworth House Office Building Washington, DC  20515",M001213,,,@RepBlakeMoore,,,06/22/80
+N00033932,Chris Stewart,Stewart,UT02,M,2012,202-225-9730,801-364-5551,http://stewart.house.gov,https://stewart.house.gov/contact/email-me,323 Cannon House Office Building,S001192,135930,H2UT02324,RepChrisStewart,https://youtube.com/repchrisstewart,RepChrisStewart,1960-07-15
+N00041221,John Curtis,Curtis,UT03,M,2017,202-225-7751,,https://curtis.house.gov,,125 Cannon House Office Building,C001114,,,RepJohnCurtis,,RepJohnCurtis,1960-05-10
+N00045812,Burgess Owens,Owens,UT04,M,2020,202225-3011,,https://owens.house.gov/,,"1039 Longworth House Office Building Washington, DC  20515",O000086,,,@RepBurgessOwens,,,08/02/51
+N00000286,Mitt Romney,Romney,UTS1,M,2018,202-224-5251,,https://www.romney.senate.gov,,B33 Russell Senate Office Building,R000615,,,,,,1947-03-12
+N00031696,Mike Lee,Lee,UTS2,M,2010,202-224-5444,,https://www.lee.senate.gov/public,https://www.lee.senate.gov/public/index.cfm/contact,361a Russell Senate Office Building,L000577,66395,S0UT00165,SenMikeLee,https://youtube.com/senatormikelee,senatormikelee,1971-06-04
+N00049900,Becca Balint,Balint,VT01,F,2022,,,,,,,,,,,,
+N00000528,Bernie Sanders,Sanders,VTS1,M,2006,202-224-5141,202-228-0776,https://www.sanders.senate.gov,http://www.sanders.senate.gov/contact/comment,332 Dirksen Senate Office Building,S000033,27110,H8VT01016,SenSanders,https://youtube.com/senatorsanders,senatorsanders,1941-09-08
+N00000515,Peter Welch,Welch,VTS2,M,2022,202-225-4115,202-225-6790,https://welch.house.gov,https://welch.house.gov/email-me,2303 Rayburn House Office Building,W000800,51272,H6VT00160,PeterWelch,https://youtube.com/reppeterwelch,PeterWelch,1947-05-02
+N00029459,Rob Wittman,Wittman,VA01,M,2007,202-225-4261,202-225-4382,http://wittman.house.gov,https://wittman.house.gov/contact-form/,2055 Rayburn House Office Building,W000804,58133,H8VA01147,RobWittman,https://youtube.com/RobWittman,RepRobWittman,1959-02-03
+N00048315,Jen Kiggans,Kiggans,VA02,F,2022,,,,,,,,,,,,
+N00002147,Bobby Scott,Scott,VA03,M,1992,202-225-8351,202-225-8354,http://bobbyscott.house.gov,https://bobbyscott.house.gov/email-bobby-scott,1201 Longworth House Office Building,S000185,27117,H6VA01117,BobbyScott,https://youtube.com/repbobbyscott,RepBobbyScott,1947-04-30
+N00045557,Bob Good,Good,VA05,M,2020,202225-4711,202225-5681,https://good.house.gov/,,"1213 Longworth House Office Building, Washington, DC 20515",456853,,,@RepBobGood,,,09/11/65
+N00042296,Ben Cline,Cline,VA06,M,2018,202-225-5431,,https://cline.house.gov/,,1009 Longworth House Office Building,C001118,,,RepBenCline,,,1972-02-29
+N00041418,Abigail Spanberger,Spanberger,VA07,F,2018,202-225-2815,,https://spanberger.house.gov/,,1239 Longworth House Office Building,S001209,,,RepSpanberger,,,1979-08-07
+N00036018,Don Beyer,Beyer,VA08,M,2014,202-225-4376,202-225-0017,http://beyer.house.gov,,1119 Longworth House Office Building,B001292,,H4VA08224,repdonbeyer,,repdonbeyer,1950-06-20
+N00032029,Morgan Griffith,Griffith,VA09,M,2010,202-225-3861,202-225-0076,http://morgangriffith.house.gov,https://morgangriffith.house.gov/contact/contactform.htm,2202 Rayburn House Office Building,G000568,5148,H0VA09055,RepMGriffith,https://youtube.com/RepMorganGriffith,RepMorganGriffith,1958-03-15
+N00041002,Jennifer Wexton,Wexton,VA10,F,2018,202-225-5136,,https://wexton.house.gov/,,1217 Longworth House Office Building,W000825,,,RepWexton,,,1968-05-27
+N00029891,Gerry Connolly,Connolly,VA11,M,2008,202-225-1492,202-225-3071,https://connolly.house.gov,https://forms.house.gov/connolly/contact-form.shtml,2238 Rayburn House Office Building,C001078,95078,H8VA11062,GerryConnolly,https://youtube.com/repconnolly,CongressmanGerryConnolly,1950-03-30
+N00033177,Tim Kaine,Kaine,VAS1,M,2012,202-224-4024,202-228-6363,https://www.kaine.senate.gov,https://www.kaine.senate.gov/contact,231 Russell Senate Office Building,K000384,50772,S2VA00142,SenKaineOffice,https://youtube.com/SenatorTimKaine,SenatorKaine,1958-02-26
+N00002097,Mark Warner,Warner,VAS2,M,2008,202-224-2023,202-224-6295,https://www.warner.senate.gov,http://www.warner.senate.gov/public/index.cfm?p=Contact,703 Hart Senate Office Building,W000805,535,S6VA00093,MarkWarner,https://youtube.com/SenatorMarkWarner,MarkRWarner,1954-12-15
+N00030693,Suzan DelBene,Delbene,WA01,F,2012,202-225-6311,202-226-1606,https://delbene.house.gov,http://delbene.house.gov/contact-me/email-me,2442 Rayburn House Office Building,D000617,126272,H0WA08046,RepDelBene,,RepDelBene,1962-02-17
+N00009759,Rick Larsen,Larsen,WA02,M,2000,202-225-2605,202-225-4420,http://larsen.house.gov,http://larsen.house.gov/contact-rick/email-rick,2113 Rayburn House Office Building,L000560,56231,H0WA02080,RepRickLarsen,https://youtube.com/congressmanlarsen,RepRickLarsen,1965-06-15
+N00050490,Marie Gluesenkamp Perez,Perez,WA03,F,2022,,,,,,,,,,,,
+N00036403,Dan Newhouse,Newhouse,WA04,M,2014,202-225-5816,202-225-3251,https://newhouse.house.gov,,1318 Longworth House Office Building,N000189,,H4WA04104,RepNewhouse,,RepNewhouse,1955-07-10
+N00026314,Cathy McMorris Rodgers,Rodgers,WA05,F,2004,202-225-2006,202-225-3392,http://mcmorris.house.gov,https://mcmorrisforms.house.gov/write-to-cathy1,1314 Longworth House Office Building,M001159,3217,H4WA05077,CathyMcMorris,https://youtube.com/mcmorrisrodgers,mcmorrisrodgers,1969-05-22
+N00034453,Derek Kilmer,Kilmer,WA06,M,2012,202-225-5916,,https://kilmer.house.gov,https://kilmer.house.gov/contact/email-me,1520 Longworth House Office Building,K000381,51516,H2WA06129,RepDerekKilmer,,derek.kilmer,1974-01-01
+N00038858,Pramila Jayapal,Jayapal,WA07,F,2016,202-225-3106,,https://jayapal.house.gov,,319 Cannon House Office Building,J000298,,,RepJayapal,,RepJayapal,1965-09-21
+N00041606,Kim Schrier,Schrier,WA08,F,2018,202-225-7761,,https://schrier.house.gov/,,1123 Longworth House Office Building,S001216,,,RepKimSchrier,,,1968-08-23
+N00007833,Adam Smith,Smith,WA09,M,1996,202-225-8901,202-225-5893,https://adamsmith.house.gov,https://adamsmith.house.gov/contact/contactform.htm,2264 Rayburn House Office Building,S000510,845,H6WA09025,RepAdamSmith,https://youtube.com/CongressmanAdamSmith,RepAdamSmith,1965-06-15
+N00046320,Marilyn Strickland,Strickland,WA10,F,2020,202225-9740,,https://strickland.house.gov/,,"1004 Longworth House Office Building Washington, DC  20515",S001159,,,@RepStricklandWA,,,09/25/62
+N00007836,Maria Cantwell,Cantwell,WAS1,F,2000,202-224-3441,202-228-0514,https://www.cantwell.senate.gov,http://www.cantwell.senate.gov/public/index.cfm/email-maria,511 Hart Senate Office Building,C000127,27122,S8WA00194,SenatorCantwell,https://youtube.com/SenatorCantwell,senatorcantwell,1958-10-13
+N00007876,Patty Murray,Murray,WAS2,F,1992,202-224-2621,202-224-0238,https://www.murray.senate.gov/public,http://www.murray.senate.gov/public/index.cfm/contactme,154 Russell Senate Office Building,M001111,53358,S2WA00189,PattyMurray,https://youtube.com/SenatorPattyMurray,pattymurray,1950-10-11
+N00041542,Carol Miller,Miller,WV01,F,2018,202-225-3452,,https://miller.house.gov/,,1605 Longworth House Office Building,M001205,,,,,,1950-11-04
+N00033814,Alex Mooney,Mooney,WV02,M,2014,202-225-2711,202-225-7856,https://mooney.house.gov,,1232 Longworth House Office Building,M001195,,H4WV02080,RepAlexMooney,,CongressmanAlexMooney,1971-06-05
+N00032838,Joe Manchin,Manchin,WVS1,M,2010,202-224-3954,202-228-0002,https://www.manchin.senate.gov/public,http://www.manchin.senate.gov/public/index.cfm/contact-form,306 Hart Senate Office Building,M001183,7547,S0WV00090,Sen_JoeManchin,https://youtube.com/SenatorJoeManchin,JoeManchinIII,1947-08-24
+N00009771,Shelley Moore Capito,Capito,WVS2,F,2014,202-224-6472,202-225-7856,https://www.capito.senate.gov,https://www.capito.senate.gov/contact/contact-shelley,172 Russell Senate Office Building,C001047,11701,H0WV02138,SenCapito,https://youtube.com/UCbiXdR4XQ3vD9Xp5lfR9QXw,senshelley,1953-11-26
+N00043379,Bryan Steil,Steil,WI01,M,2018,202-225-3031,,https://steil.house.gov/,,1408 Longworth House Office Building,S001213,,,RepBryanSteil,,,1981-03-30
+N00033549,Mark Pocan,Pocan,WI02,M,2012,202-225-2906,202-225-6942,http://pocan.house.gov,https://pocan.house.gov/contact/email-me,1421 Longworth House Office Building,P000607,26238,H2WI02124,RepMarkPocan,https://youtube.com/repmarkpocan,repmarkpocan,1964-08-14
+N00046843,Derrick Van Orden,Van Orden,WI03,M,2022,,,,,,,,,,,,
+N00026914,Gwen Moore,Moore,WI04,F,2004,202-225-4572,202-225-8135,https://gwenmoore.house.gov,https://gwenmoore.house.gov/contact-form,2252 Rayburn House Office Building,M001160,3457,H4WI04183,RepGwenMoore,https://youtube.com/RepGwenMoore,GwenSMoore,1951-04-18
+N00045434,Scott Fitzgerald,Fitzgerald,WI05,M,2020,202225-5101,,https://fitzgerald.house.gov/,,"1507 Longworth House Office Building, Washington, DC 20515",F000471,3446,,@RepFitzgerald,,CongressmanScottFitzgerald,11/16/63
+N00036409,Glenn S Grothman,Grothman,WI06,M,2014,202-225-2476,202-225-2356,http://grothman.house.gov,,1217 Longworth House Office Building,G000576,,H4WI06048,RepGrothman,,RepGrothman,1955-07-03
+N00045307,Tom Tiffany,Tiffany,WI07,M,2020,,,,,,,,,,,,
+N00039330,Mike Gallagher,Gallagher,WI08,M,2016,202-225-5665,,https://gallagher.house.gov,,1007 Longworth House Office Building,G000579,,,RepGallagher,,RepMikeGallagher,1984-03-03
+N00004367,Tammy Baldwin,Baldwin,WIS1,F,2012,202-224-5653,202-225-6942,https://www.baldwin.senate.gov,https://www.baldwin.senate.gov/feedback,709 Hart,B001230,3470,H8WI00018,SenatorBaldwin,https://youtube.com/witammybaldwin,TammyBaldwin,1962-02-11
+N00032546,Ron Johnson,Johnson,WIS2,M,2010,202-224-5323,920-230-7262,https://www.ronjohnson.senate.gov,https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator,328 Hart Senate Office Building,J000293,126217,S0WI00197,SenRonJohnson,https://youtube.com/SenatorRonJohnson,senronjohnson,1955-04-08
+N00049197,Harriet Hageman,Hageman,WY01,F,2022,,,,,,,,,,,,
+N00006236,John A Barrasso,Barrasso,WYS1,M,2007,202-224-6441,202-224-1724,https://www.barrasso.senate.gov,https://www.barrasso.senate.gov/public/index.cfm/contact-form,307 Dirksen Senate Office Building,B001261,52662,S6WY00068,SenJohnBarrasso,https://youtube.com/barrassowyo,johnbarrasso,1952-07-21
+N00029788,Cynthia Lummis,Lummis,WYS2,F,2020,202-225-2311,202-225-3057,http://lummis.house.gov,http://lummis.house.gov/contact/,2433 Rayburn House Office Building,L000571,15546,H8WY00148,CynthiaLummis,http://youtube.com/CynthiaLummis,,1954-09-10
