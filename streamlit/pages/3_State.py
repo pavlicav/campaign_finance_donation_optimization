@@ -196,7 +196,7 @@ def create_card_update(name):
       <div style="margin: 24px 0;">
         {}
       </div>
-      <p><button>Donate!</button>http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html</p>
+      <p><button>Donate!</button></p>
     </div>
 
     </body>
