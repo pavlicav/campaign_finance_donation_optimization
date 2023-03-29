@@ -189,7 +189,7 @@ def create_card_update(name):
 
 
     <div class="card">
-      <img src="https://raw.githubusercontent.com/ramseybe/campaign_prototype/main/pages/person.jpeg" alt="person" style="height:300" style="width:100%">
+      <img src="https://raw.githubusercontent.com/ramseybe/campaign_prototype/main/pages/person.jpeg" alt="person" style="height:300 width:100%">
       <h1>person</h1>
       <p class="title">CEO & Founder, Example</p>
       <p></p>
