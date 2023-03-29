@@ -196,7 +196,7 @@ def create_card_update(name):
       <div style="margin: 24px 0;">
         {}
       </div>
-      <p><button>Donate!</button></p>
+      <p><button>Donate!</button>http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html</p>
     </div>
 
     </body>
@@ -272,9 +272,8 @@ if st.button('Submit'):
                     party = 'Republican'
                 elif row['party'] == 'D':
                     party = 'Democrat'
-                st.write(t)
+                
                 image = Image.open(f'streamlit/pages/can_pics/{t}.jpeg')
-                #st.image(image)
                 components.html(create_card_update(t),width=400, height=700)
 
 
