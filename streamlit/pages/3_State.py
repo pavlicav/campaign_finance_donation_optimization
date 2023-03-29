@@ -196,7 +196,7 @@ def create_card_update(name):
       <div style="margin: 24px 0;">
         {}
       </div>
-      <p><button>Donate!</button></p>
+      <p ><button onclick="location.href='http://www.stackoverflow.com/'" type="button">Contact</button></p>
     </div>
 
     </body>
