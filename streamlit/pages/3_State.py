@@ -274,7 +274,7 @@ if st.button('Submit'):
                     party = 'Democrat'
                 
                 image = Image.open(f'streamlit/pages/can_pics/{t}.jpeg')
-                components.html(create_card_update(t),width=400, height=700)
+                components.html(create_card_update(t),width=300, height=700)
 
 
 
