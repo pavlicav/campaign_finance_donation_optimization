@@ -213,6 +213,7 @@ def create_card_update(name,i):
     a=a.replace("person",name)
 #     st.write(list(data.iloc[i])[0])
     a=a.replace("district",list(data.iloc[i])[0])
+    a=a.replace("party",list(data.iloc[i])[3])
     
     return a
 
