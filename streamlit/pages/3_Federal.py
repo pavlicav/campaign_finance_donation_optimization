@@ -115,9 +115,10 @@ def get_icons(name,file):
         """
     try:
         ind=df[df["name"]==name].index[0]
+        print(ind)
     except:
         ind=1
-
+    print(ind)
     vallist=list(file.iloc[ind][4:9])
 
     idea={'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
