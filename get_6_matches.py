@@ -31,7 +31,6 @@ def get_top_6(user_preferences):
     
     finance_data = "538_FEC_Won_Opponent_Combined_Dataset.csv"
     position_data = "files/top100_top5.csv"
-    save_as = "filter_results.csv"
     
     df = pd.read_csv(finance_data)
     positions = pd.read_csv(position_data)
@@ -42,8 +41,17 @@ def get_top_6(user_preferences):
     positions = positions.join(df, rsuffix="_")
     sums = get_scores(user_preferences, positions)
     positions["score"] = sums
+    # This next part creates priorities for candidate types
+    colnames = list(positions.columns)
+    colnames[18] = "Cand_Type"
+    positions.columns = colnames
+    rate_type_priority = lambda a : a if type(a) == int else 0 if a == "0" else 1 if a == "INCUMBENT" else 2 if a == "OPEN" else 3
+    positions["Cand_Type_Priority"] = positions["Cand_Type"].apply(rate_type_priority)
 
-    top_6 = positions.sort_values(by = ["score", "tipping"], ascending = False)[["name_", "score", "tipping", "district", "party"]].iloc[0:6].reset_index(drop = True)
-    top_6.to_csv(save_as)
     
-get_top_6([0,1,1,-1,1])
+
+    top_6 = positions.sort_values(by = ["score","Cand_Type_Priority", "tipping"], 
+                ascending = False)[["name_", "score", "tipping", "district", 
+                                    "party"]].iloc[0:6].reset_index(drop = True)
+    return top_6
+    
