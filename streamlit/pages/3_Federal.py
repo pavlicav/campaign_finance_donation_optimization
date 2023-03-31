@@ -115,7 +115,7 @@ def get_icons(name,file):
         """
     try:
         ind=file[file["name"]==name].index[0]
-    else:
+    except:
         ind=0
 
     vallist=list(file.iloc[ind][4:9])
