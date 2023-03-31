@@ -114,9 +114,9 @@ def get_icons(name,file):
         </span>
         """
     try:
-        ind=file[file["name"]==name].index[0]
+        ind=df[df["name"]==name].index[0]
     except:
-        ind=0
+        ind=1
 
     vallist=list(file.iloc[ind][4:9])
 
