@@ -211,7 +211,7 @@ def create_card_update(name,i):
     name=name.replace(" ","_")
     name=name.replace("'","")
     a=a.replace("person",name)
-    st.write(list(file.iloc[i])[0])
+    st.write(list(data.iloc[i])[0])
 #     a=a.replace("district",file.iloc[i][0])
     
     return a
