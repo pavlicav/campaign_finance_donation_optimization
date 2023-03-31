@@ -313,7 +313,7 @@ if st.button('Submit'):
 
             newdf=data.loc[data.index[matches]]
             
-            for i,row in matches.iterrows():
+            for i,row in newdf.iterrows():
 
                 t=row['name']
                 t=t.replace(" ","_")
