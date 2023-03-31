@@ -30,6 +30,7 @@ st.set_page_config(page_title='About Us', page_icon=':bar_chart:', layout='wide'
 # Title
 st.title('A look into Marie Gluesenkamp Perez')
 st.subheader("Overview")
+st.plotly_chart(advantage,theme=None,use_container_width=True)
 
 st.write(
     """
@@ -37,13 +38,12 @@ st.write(
     """
 )
 
-st.plotly_chart(advantage,theme=None,use_container_width=True)
+image1 = Image.open("streamlit/cash_advantage.png")
+st.image(image1)
 
 
 
 st.subheader("Against the Odds")
-image1 = Image.open("streamlit/cash_advantage.png")
-st.image(image1)
 st.write(
     """
    Marie Gluesenkamp Perez (D) ran against Joe Kent (R) in the 3rd district of Washington. Perez came from humble backgrounds. Her father was a Mexican immigrant who worked as a salesperson and her mother came from a generational family who worked in the state’s stone-cutting and logging industry. Following her mother’s family legacy, Perez went on to run her own auto repair shop small business with her husband. In total, the couple made under $80,000 per year.
