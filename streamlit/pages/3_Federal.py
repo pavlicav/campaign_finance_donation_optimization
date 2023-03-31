@@ -210,6 +210,7 @@ def create_card_update(name,i):
     name=name.replace(" ","_")
     name=name.replace("'","")
     a=a.replace("person",name)
+#     a=a.replace("district",list(file.iloc[name][4:9])
     
     return a
 
