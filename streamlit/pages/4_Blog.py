@@ -26,7 +26,7 @@ advantage = px.scatter(only_advantage,
 
 # Confit
 st.set_page_config(page_title='About Us', page_icon=':bar_chart:', layout='wide')
-with st.expander("A look into Marie Gluesenkamp Perez"):
+with st.expander("Case study: Marie Gluesenkamp Perez"):
 
            # Title
            st.title('A look into Marie Gluesenkamp Perez')
@@ -54,11 +54,11 @@ with st.expander("A look into Marie Gluesenkamp Perez"):
            st.image(image2)
 
            st.write("""On the other hand, Perez’s counterpart, Joe Kent, is a well-established political figure within the Republican voting population as he frequently guested on Tucker Carlson Tonight. Kent also has been politically active as he served on the Military Veterans advisory board for former president Donald Trump. As a result, his campaign in 2022 was endorsed by Trump and other prominent figures from the same party. According to OpenSecrets, Kent self-financed almost $250,000 while Perez spent none. 
-
-           FiveThirtyEight predicted Perez to only have a 15% winning chance due to Kent’s established presence within the Republican party. Despite her odds, Perez managed to barely raise 2% more than her opponent. As a result, Perez narrowly won the race with 50.14% of the votes with solely donations. 
                     """
                    )
-
+           st.write("""FiveThirtyEight predicted Perez to only have a 15% winning chance due to Kent’s established presence within the Republican party. Despite her odds, Perez managed to barely raise 2% more than her opponent. As a result, Perez narrowly won the race with 50.14% of the votes with solely donations. 
+                    """
+                   )
            st.subheader('Looking Forward')
            st.write(
                """
