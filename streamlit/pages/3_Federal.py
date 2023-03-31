@@ -238,59 +238,59 @@ def read_file():
 
     return data
 
-# def match(df,values):
-#     match = {}
-#     for index, row in df.iterrows():
-#         diff = 0
-#         for can_ideology, user_ideology in zip(row[4:].to_dict().values(), values):
-#             diff += abs(int(can_ideology) - int(user_ideology))
-#         match[index] = diff
-#     sorted_match = dict(sorted(match.items(), key=lambda item: item[1]))
-#     return list(sorted_match)[-6:]
-def get_scores(user_position, df):
-    # Inputs:
-    # User Positions - iterable length 5 of user's positions
-    # positions - pandas dataframe containing columns 
-    #           "gun_control", "healthcare","abortion", 'climate_change', 'immigration_daca'
-    #
-    # return: np array of how close each candidate is to user's position
+def match(df,values):
+    match = {}
+    for index, row in df.iterrows():
+        diff = 0
+        for can_ideology, user_ideology in zip(row[4:].to_dict().values(), values):
+            diff += abs(int(can_ideology) - int(user_ideology))
+        match[index] = diff
+    sorted_match = dict(sorted(match.items(), key=lambda item: item[1]))
+    return list(sorted_match)[-6:]
+# def get_scores(user_position, df):
+#     # Inputs:
+#     # User Positions - iterable length 5 of user's positions
+#     # positions - pandas dataframe containing columns 
+#     #           "gun_control", "healthcare","abortion", 'climate_change', 'immigration_daca'
+#     #
+#     # return: np array of how close each candidate is to user's position
     
-    # Convert to numpy
-    position_array = df[["gun_control", "healthcare","abortion", 'climate_change', 'immigration_daca']].to_numpy()
-    # sets NA to 0, positions to 1 or -1
-    position_array[position_array == 0] = -2
-    position_array[position_array == -1] = 0
-    position_array[position_array == -2] = -1
+#     # Convert to numpy
+#     position_array = df[["gun_control", "healthcare","abortion", 'climate_change', 'immigration_daca']].to_numpy()
+#     # sets NA to 0, positions to 1 or -1
+#     position_array[position_array == 0] = -2
+#     position_array[position_array == -1] = 0
+#     position_array[position_array == -2] = -1
     
-    # make array with same shape as position array, with user's positions
-    p = np.array(user_position)
-    p = np.expand_dims(p,0)
-    tile = np.tile(p, (len(position_array),1))
-    scores = abs((tile - position_array))
-    sums = 10-np.sum(scores, 1)
-    filter_vals = np.unique(np.sort(sums)[0:6])
+#     # make array with same shape as position array, with user's positions
+#     p = np.array(user_position)
+#     p = np.expand_dims(p,0)
+#     tile = np.tile(p, (len(position_array),1))
+#     scores = abs((tile - position_array))
+#     sums = 10-np.sum(scores, 1)
+#     filter_vals = np.unique(np.sort(sums)[0:6])
     
-    return sums
+#     return sums
 
-def get_top_6(user_preferences):
+# def get_top_6(user_preferences):
     
-    finance_data = "538_FEC_Won_Opponent_Combined_Dataset.csv"
-    position_data = "files/top100_top5.csv"
-    save_as = "filter_results.csv"
+#     finance_data = "538_FEC_Won_Opponent_Combined_Dataset.csv"
+#     position_data = "files/top100_top5.csv"
+#     save_as = "filter_results.csv"
     
-    df = pd.read_csv(finance_data)
-    positions = pd.read_csv(position_data)
-    df.index = list(df["Unnamed: 0"])
-    # Setting the "Universal Index"
-    positions.index = ["-".join([positions["district"].iloc[i], positions["party"].iloc[i]]) for i in range(len(positions))]
-    positions.head()
-    positions = positions.join(df, rsuffix="_")
-    sums = get_scores(user_preferences, positions)
-    positions["score"] = sums
+#     df = pd.read_csv(finance_data)
+#     positions = pd.read_csv(position_data)
+#     df.index = list(df["Unnamed: 0"])
+#     # Setting the "Universal Index"
+#     positions.index = ["-".join([positions["district"].iloc[i], positions["party"].iloc[i]]) for i in range(len(positions))]
+#     positions.head()
+#     positions = positions.join(df, rsuffix="_")
+#     sums = get_scores(user_preferences, positions)
+#     positions["score"] = sums
 
-    top_6 = positions.sort_values(by = ["score", "tipping"], ascending = False).reset_index(drop = True)
-#     top_6.to_csv(save_as)
-    return top_6
+#     top_6 = positions.sort_values(by = ["score", "tipping"], ascending = False).reset_index(drop = True)
+# #     top_6.to_csv(save_as)
+#     return top_6
 
 if st.button('Submit'):
     
@@ -304,14 +304,14 @@ if st.button('Submit'):
                     good.append(1)
                 else:
                     good.append(0)
-#             good=good[4:]
+            good=good[4:]
 #             # st.write(good)
-# #             matches= match(data,good)
-            matches=get_top_6(issues)
-            st.dataframe(data=matches,use_container_width=True)
+            matches= match(data,good)
+#             matches=get_top_6(issues)
+#             st.dataframe(data=matches,use_container_width=True)
 #             # st.write(matches)
 
-#             newdf=data.loc[data.index[matches]]
+            newdf=data.loc[data.index[matches]]
             
             for i,row in matches.iterrows():
 
