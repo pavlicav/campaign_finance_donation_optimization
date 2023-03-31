@@ -113,7 +113,10 @@ def get_icons(name,file):
         <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
         </span>
         """
-    ind=file[file["name"]==name].index[0]
+    try:
+        ind=file[file["name"]==name].index[0]
+    else:
+        ind=0
 
     vallist=list(file.iloc[ind][4:9])
 
