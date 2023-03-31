@@ -306,7 +306,7 @@ if st.button('Submit'):
 #             good=good[4:]
 #             # st.write(good)
 # #             matches= match(data,good)
-#             matches=get_top_6([0,1,1,-1,1])
+            matches=get_top_6(issues)
 #             # st.write(matches)
 
 #             newdf=data.loc[data.index[matches]]
