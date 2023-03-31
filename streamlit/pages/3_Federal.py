@@ -113,13 +113,8 @@ def get_icons(name,file):
         <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
         </span>
         """
-    try:
-        ind=df[df["name"]==name].index[0]
 
-    except:
-        ind=1
-    
-    vallist=list(file.iloc[ind][4:9])
+    vallist=list(file.iloc[name][4:9])
 
     idea={'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
            'immigration':"child", 'healthcare':"stethoscope"}
@@ -146,7 +141,7 @@ def get_icons(name,file):
             temp = temp + t1
     return temp
 
-def create_card_update(name):
+def create_card_update(name,i):
     
     a="""<html>
     <head>
@@ -207,7 +202,7 @@ def create_card_update(name):
     </body>
     </html>"""
     st.write(name)
-    temp=get_icons(name,data)
+    temp=get_icons(i,data)
     a=a.replace("{}",temp)
     
     name=name.lower()
@@ -280,7 +275,7 @@ if st.button('Submit'):
                     party = 'Democrat'
                 
 #                 image = Image.open(f'streamlit/pages/can_pics/{t}.jpeg')
-                components.html(create_card_update(t),width=300, height=700)
+                components.html(create_card_update(t,i),width=300, height=700)
 
 
 
