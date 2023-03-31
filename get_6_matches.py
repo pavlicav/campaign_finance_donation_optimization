@@ -4,7 +4,9 @@ import numpy as np
 
 def get_scores(user_position, df):
     # Inputs:
-    # User Positions - iterable length 5 of user's positions
+    # User Positions - iterable length 5 of user's position
+    #                  -1  = "anti" and 1 = "pro", 0 = "Neutral
+    #                  THIS IS DIFFERENT THAN CURRENT SCALE, BE CAREFUL
     # positions - pandas dataframe containing columns 
     #           "gun_control", "healthcare","abortion", 'climate_change', 'immigration_daca'
     #
