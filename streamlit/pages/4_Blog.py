@@ -25,7 +25,7 @@ advantage = px.scatter(only_advantage,
 
 
 # Confit
-st.set_page_config(page_title='About Us', page_icon=':bar_chart:', layout='wide')
+st.set_page_config(page_title='Blog', page_icon=':book:', layout='wide')
 with st.expander("Case study: Marie Gluesenkamp Perez"):
 
            # Title
