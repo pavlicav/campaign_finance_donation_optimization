@@ -9,6 +9,7 @@ def get_scores(user_position, df):
     #                  THIS IS DIFFERENT THAN CURRENT SCALE, BE CAREFUL
     # positions - pandas dataframe containing columns 
     #           "gun_control", "healthcare","abortion", 'climate_change', 'immigration_daca'
+    # party - D / R will only put out candidates of that party
     #
     # return: np array of how close each candidate is to user's position
     
@@ -29,10 +30,19 @@ def get_scores(user_position, df):
     
     return sums
 
-def get_top_6(user_preferences):
+def get_top_6(user_preferences, party = "N/A"):
+    # User Positions - iterable length 5 of user's position
+    #                  -1  = "anti" and 1 = "pro", 0 = "Neutral
+    #                  THIS IS DIFFERENT THAN CURRENT SCALE, BE CAREFUL
+    # positions - pandas dataframe containing columns 
+    #           "gun_control", "healthcare","abortion", 'climate_change', 'immigration_daca'
+    # party - D / R will only put out candidates of that party
     
     finance_data = "538_FEC_Won_Opponent_Combined_Dataset.csv"
     position_data = "files/top100_top5.csv"
+
+
+    
     
     df = pd.read_csv(finance_data)
     positions = pd.read_csv(position_data)
@@ -50,6 +60,9 @@ def get_top_6(user_preferences):
     rate_type_priority = lambda a : a if type(a) == int else 0 if a == "0" else 1 if a == "INCUMBENT" else 2 if a == "OPEN" else 3
     positions["Cand_Type_Priority"] = positions["Cand_Type"].apply(rate_type_priority)
 
+        # Filter only party that is indidacted if applicable
+    if (party == "D") or (party == "R"):
+        positions = positions[positions["party"] == party]
     
 
     top_6 = positions.sort_values(by = ["score","Cand_Type_Priority", "tipping"], 
