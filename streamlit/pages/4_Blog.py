@@ -26,7 +26,7 @@ advantage = px.scatter(only_advantage,
 
 # Confit
 st.set_page_config(page_title='About Us', page_icon=':bar_chart:', layout='wide')
-with st.expander("Blog 1"):
+with st.expander("A look into Marie Gluesenkamp Perez"):
 
            # Title
            st.title('A look into Marie Gluesenkamp Perez')
