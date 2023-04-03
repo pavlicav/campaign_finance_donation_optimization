@@ -36,7 +36,7 @@ Then, start your app with
 Or:
 
     Go to the following site:
-    [https://ramseybe-hackathon-campaign-main-xj9dxx.streamlit.app/](https://ramseybe-hackathon-campaign-main-xj9dxx.streamlit.app/)
+    [[https://ramseybe-hackathon-campaign-main-xj9dxx.streamlit.app/](https://ramseybe-hackathon-campaign-main-xj9dxx.streamlit.app/)](https://pavlicag-campaign-finance-donation-optimiz-streamlitmain-iuzsxf.streamlit.app/)
     
     
 
