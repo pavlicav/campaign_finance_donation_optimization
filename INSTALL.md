@@ -36,8 +36,7 @@ Then, start your app with
 Or:
 
     Go to the following site:
-    https://ramseybe-hackathon-campaign-main-xj9dxx.streamlit.app/
+    [https://ramseybe-hackathon-campaign-main-xj9dxx.streamlit.app/](https://ramseybe-hackathon-campaign-main-xj9dxx.streamlit.app/)
     
     
-INSTALL.md modeled after 
-https://github.com/richard-jones/app-template/blob/master/INSTALL.md 
+
