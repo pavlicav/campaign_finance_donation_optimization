@@ -228,6 +228,7 @@ with left_column:
     immigration = st.select_slider('Stance on Immigration',["Pro","Neutral","Anti"],value="Neutral")
     healthcare = st.select_slider('Stance on healthcare',["Pro","Neutral","Anti"],value="Neutral")
     issues = [abortion,guncontrol,climate,immigration,healthcare]
+    st.write(abortion)
     
 
 # checked = get_selected_checkboxes()
