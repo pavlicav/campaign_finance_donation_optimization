@@ -218,7 +218,7 @@ def create_card_update(name,i):
     return a
 
 with left_column:
-    abortion = st.select_slider('Stance on Abortion',["Pro","","","","","Neutral","","","","","Anti"],value="Neutral")
+    abortion = st.select_slider('Stance on Abortion',["Pro","","","","","","Neutral","","","","","","Anti"],value="Neutral")
     guncontrol = st.select_slider('Stance on Guns',["Pro","Neutral","Anti"],value="Neutral")
     climate = st.select_slider('Stance on Climate Change',["Pro","Neutral","Anti"],value="Neutral")
     immigration = st.select_slider('Stance on Immigration',["Pro","Neutral","Anti"],value="Neutral")
