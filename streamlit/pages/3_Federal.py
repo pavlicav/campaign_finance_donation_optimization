@@ -222,7 +222,7 @@ with left_column:
     lis[0]="Pro-Choice"
     lis[49]="Neutral"
     lis[99]="Pro-Life"
-    abortion = st.select_slider('Stance on Abortion',lis,value="Neutral",label_visibility="collapsed")
+    abortion = st.select_slider('Stance on Abortion',lis,value="Neutral",label_visibility="hidden")
     guncontrol = st.select_slider('Stance on Guns',["Pro","Neutral","Anti"],value="Neutral")
     climate = st.select_slider('Stance on Climate Change',["Pro","Neutral","Anti"],value="Neutral")
     immigration = st.select_slider('Stance on Immigration',["Pro","Neutral","Anti"],value="Neutral")
