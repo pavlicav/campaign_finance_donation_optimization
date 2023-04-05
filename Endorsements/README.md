@@ -25,13 +25,6 @@ ANTI-CONTROL: Oppose or advocates for the repeal of laws and regulations that re
   2) Navigation: (House Canidates > Cycle 20XX > Export to CSV) 
   3) Notes: 20XX_NAGR; Data starts in 2010
 
-* Second Amendment Foundation (SAF): a non-profit organization that advocates for the right to bear arms and opposes gun control measures.
-* Citizens Committee for the Right to Keep and Bear Arms (CCRKBA): a non-profit organization that advocates for gun rights and opposes gun control measures.
-* Firearms Policy Coalition (FPC): a non-profit organization that advocates for the right to keep and bear arms and opposes gun control measures.
-* American Firearms Association (AFA): a non-profit organization that advocates for gun rights and opposes gun control measures.
-* Conservative Republicans of Texas (CRT): a political action committee that advocates for conservative policies, including opposition to gun control measures.
-
-
 PRO-CONTROL: Advocate for laws and regulations that aim to reduce gun violence and promote public safety, often by restricting access to firearms or implementing measures such as background checks and waiting periods.
 * Brady PAC: political action committee that supports candidates and lawmakers who advocate for gun control measures. 
   1) Data: https://www.opensecrets.org/political-action-committees-pacs/brady-pac/C00674093/candidate-recipients/2022
