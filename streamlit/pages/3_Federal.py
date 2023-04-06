@@ -341,23 +341,23 @@ if st.button('Submit'):
         st.dataframe(tempdf)
         st.subheader('Candidates that best align with your views:')
         with st.container():
-            data = read_file()
-            good=[]
-            for i in data.columns:
-                if i in checked:
-                    good.append(1)
-                else:
-                    good.append(0)
-            good=good[4:]
-#             # st.write(good)
-            matches= match(data,good)
+#             data = read_file()
+#             good=[]
+#             for i in data.columns:
+#                 if i in checked:
+#                     good.append(1)
+#                 else:
+#                     good.append(0)
+#             good=good[4:]
+# #             # st.write(good)
+#             matches= match(data,good)
 #             matches=get_top_6(issues)
 #             st.dataframe(data=matches,use_container_width=True)
 #             # st.write(matches)
 
-            newdf=data.loc[data.index[matches]]
+#             newdf=data.loc[data.index[matches]]
             
-            for i,row in newdf.iterrows():
+            for i,row in tempdf.iterrows():
 
                 t=row['name']
                 t=t.replace(" ","_")
