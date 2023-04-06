@@ -220,15 +220,13 @@ def create_card_update(name,i):
 with left_column:
 #     lis=[""]*100
 
-    lis=[]
+    zero=["Pro-Choice"]
+    mid=[" "*i for i in range(98)]
+    mid[49]="Neutral"
+    last=["Pro-Life"]
+    temp_list=zero+mid+last
 
-    for i in range(100):
-        a=" "*i
-        lis.append(a)
-    lis[0]="Pro-Choice"
-    lis[49]="Neutral"
-    lis[99]="Pro-Life"
-    abortion = st.select_slider('Stance on Abortion',lis,value="Neutral",label_visibility="hidden")
+    abortion = st.select_slider('Stance on Abortion',temp_list,value="Neutral",label_visibility="hidden")
     guncontrol = st.select_slider('Stance on Guns',["Pro","                 ","","Neutral","Anti"],value="Neutral")
     climate = st.select_slider('Stance on Climate Change',["Pro","Neutral","Anti"],value="Neutral")
     immigration = st.select_slider('Stance on Immigration',["Pro","Neutral","Anti"],value="Neutral")
