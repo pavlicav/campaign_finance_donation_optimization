@@ -292,7 +292,10 @@ if st.button('Submit'):
                     party = 'Democrat'
                 
 #                 image = Image.open(f'streamlit/pages/can_pics/{t}.jpeg')
-                components.html(create_card_update(t,i),width=300, height=700)
+                try:
+                    components.html(create_card_update(t,i),width=300, height=700)
+                except:
+                    pass
 
 
 
