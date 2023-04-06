@@ -127,6 +127,7 @@ def create_card_update(name,i):
     </body>
     </html>"""
     st.write(name)
+    st.write(i)
     temp=get_icons(i,data)
     a=a.replace("{}",temp)
     
