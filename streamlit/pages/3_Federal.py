@@ -260,7 +260,7 @@ with left_column:
     healthcare = st.select_slider('Stance on healthcare',temp_list,value="Neutral")
     healthcare= np_vals[temp_list.index(healthcare)]
     issues = [abortion,guncontrol,climate,immigration,healthcare]
-    st.write(len(issues))
+    st.write(issues)
     
 
 # checked = get_selected_checkboxes()
