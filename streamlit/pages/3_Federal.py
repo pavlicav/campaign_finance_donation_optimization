@@ -220,19 +220,47 @@ def create_card_update(name,i):
 with left_column:
 #     lis=[""]*100
 
-    zero=["Pro-Choice"]
+#     zero=["Pro-Choice"]
+#     mid=[" "*i for i in range(98)]
+#     mid[49]="Neutral"
+#     last=["Pro-Life"]
+#     temp_list=zero+mid+last
+
+#     abortion = st.select_slider('Stance on Abortion',temp_list,value="Neutral",label_visibility="hidden")
+#     guncontrol = st.select_slider('Stance on Guns',["Pro","                 ","","Neutral","Anti"],value="Neutral")
+#     climate = st.select_slider('Stance on Climate Change',["Pro","Neutral","Anti"],value="Neutral")
+#     immigration = st.select_slider('Stance on Immigration',["Pro","Neutral","Anti"],value="Neutral")
+#     healthcare = st.select_slider('Stance on healthcare',["Pro","Neutral","Anti"],value="Neutral")
+#     issues = [abortion,guncontrol,climate,immigration,healthcare]
+#     st.write(len(abortion))
+    #make numpy
+    np_vals=np.arange(-1, 1, 0.02).tolist()
+    np_vals[50]=0.0
+    np_vals[99]=1.0
+    #make list
     mid=[" "*i for i in range(98)]
     mid[49]="Neutral"
-    last=["Pro-Life"]
-    temp_list=zero+mid+last
-
-    abortion = st.select_slider('Stance on Abortion',temp_list,value="Neutral",label_visibility="hidden")
-    guncontrol = st.select_slider('Stance on Guns',["Pro","                 ","","Neutral","Anti"],value="Neutral")
-    climate = st.select_slider('Stance on Climate Change',["Pro","Neutral","Anti"],value="Neutral")
-    immigration = st.select_slider('Stance on Immigration',["Pro","Neutral","Anti"],value="Neutral")
-    healthcare = st.select_slider('Stance on healthcare',["Pro","Neutral","Anti"],value="Neutral")
+    #abortion
+    temp_list=["Pro-Choice"]+mid+["Pro-Life"]
+    abortion = st.select_slider('Stance on Abortion',temp_list,value="Neutral")
+    abortion = np_vals[temp_list.index(abortion)]
+    #guns
+    temp_list=["Gun Control"]+mid+["Gun Rights"]
+    guncontrol = st.select_slider('Stance on Guns',temp_list,value="Neutral")
+    guncontrol= np_vals[temp_list.index(guncontrol)]
+    #climate
+    temp_list=["Believes in Climate Change"]+mid+["Disputes Climate Change"]
+    climate = st.select_slider('Stance on Climate Change',temp_listvalue="Neutral")
+    climate= np_vals[temp_list.index(climate)]
+    #immigration
+    temp_list=["Open Border"]+mid+["Closed Border"]
+    immigration = st.select_slider('Stance on Immigration',temp_list,value="Neutral")
+    immigration= np_vals[temp_list.index(immigration)]
+    #healthcare
+    healthcare = st.select_slider('Stance on healthcare',temp_list,value="Neutral")
+    healthcare= np_vals[temp_list.index(healthcare)]
     issues = [abortion,guncontrol,climate,immigration,healthcare]
-    st.write(len(abortion))
+    st.write(len(issues))
     
 
 # checked = get_selected_checkboxes()
