@@ -218,7 +218,13 @@ def create_card_update(name,i):
     return a
 
 with left_column:
-    lis=[""]*100
+#     lis=[""]*100
+
+    lis=[]
+
+    for i in range(100):
+        a=" "*i
+        lis.append(a)
     lis[0]="Pro-Choice"
     lis[49]="Neutral"
     lis[99]="Pro-Life"
