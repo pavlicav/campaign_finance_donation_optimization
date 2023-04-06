@@ -250,7 +250,7 @@ with left_column:
     guncontrol= np_vals[temp_list.index(guncontrol)]
     #climate
     temp_list=["Believes in Climate Change"]+mid+["Disputes Climate Change"]
-    climate = st.select_slider('Stance on Climate Change',temp_listvalue="Neutral")
+    climate = st.select_slider('Stance on Climate Change',temp_list,value="Neutral")
     climate= np_vals[temp_list.index(climate)]
     #immigration
     temp_list=["Open Border"]+mid+["Closed Border"]
