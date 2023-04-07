@@ -51,12 +51,12 @@ def get_icons(vallist):
         #pro guns
         if i == 0:
             pass
-        elif i==-1:
+        elif i==1:
             t1=template.replace("idea",idea[val])
             t1=t1.replace("Tomato","#ffffff00")
             temp = temp + t1
 
-        elif i ==1:
+        elif i ==-1:
             
 
             t1=template.replace("idea",idea[val])
