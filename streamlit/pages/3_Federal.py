@@ -141,7 +141,7 @@ def get_icons(vallist):
     
 #     return a
 
-def create_card_update(name,dis,party,full,v):
+def create_card_update(person,dis,party,full,v):
     
     a="""<html>
     <head>
@@ -189,7 +189,7 @@ def create_card_update(name,dis,party,full,v):
 
     <div class="card">
       <img src="https://raw.githubusercontent.com/ramseybe/campaign_prototype/main/pages/person.jpeg" alt="person" width="100%" height="300">
-      <h1>name</h1>
+      <h1>full</h1>
       <p class="title"> district, party</p>
       <p></p>
       <div style="margin: 24px 0;">
