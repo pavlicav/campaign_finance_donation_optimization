@@ -141,7 +141,7 @@ for key, val in thing.items():
     
 #     return a
 
-def create_card_update(person,dis,party,full):
+def create_card_update(person,dis,party,full,v):
     
     a="""<html>
     <head>
