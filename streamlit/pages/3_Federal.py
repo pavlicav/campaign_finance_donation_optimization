@@ -202,8 +202,8 @@ def create_card_update(person,dis,party,full,v):
     </html>"""
 #     st.write(name)
 #     st.write(i)
-#     temp=get_icons(v)
-#     a=a.replace("{}",temp)
+    temp=get_icons(v)
+    a=a.replace("{}",temp)
     
     name=person.lower()
     name=name.replace("-","_")
