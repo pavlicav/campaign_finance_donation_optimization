@@ -369,7 +369,7 @@ if st.button('Submit'):
 #             newdf=data.loc[data.index[matches]]
             
             for i,row in tempdf.iterrows():
-#                 st.write(row['name'], row['district'],row['party'],row['name_'],[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']])
+                st.write(row['name'], row['district'],row['party'],row['name_'],[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']])
                 t=row['name']
                 t=t.replace(" ","_")
                 t=t.lower()
