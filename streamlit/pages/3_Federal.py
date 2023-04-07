@@ -12,7 +12,7 @@ import numpy as np
 if 'key' not in st.session_state:
     st.session_state['key'] = 'value'
 if 'key' not in st.session_state:
-    st.session_state.key = 'value'
+    st.session_state.key = 'value1'
     
 st.write(st.session_state)
     
