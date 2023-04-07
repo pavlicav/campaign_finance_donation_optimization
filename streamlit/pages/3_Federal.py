@@ -171,7 +171,7 @@ with left_column:
 #     issues = [abortion,guncontrol,climate,immigration,healthcare]
 #     st.write(len(abortion))
     #make numpy
-    np_vals=np.arange(1, -1, 0.02).tolist()
+    np_vals=np.arange(-1, 1, 0.02).tolist()
     np_vals[50]=0.0
     np_vals[99]=1.0
     #make list
@@ -184,7 +184,7 @@ with left_column:
     #guns
     temp_list=["Gun Control"]+mid+["Gun Rights"]
     guncontrol = st.select_slider('Stance on Guns',temp_list,value="Neutral")
-    guncontrol= np_vals[temp_list.index(guncontrol)]
+    guncontrol= np_vals[len(temp_list)-temp_list.index(guncontrol)]
     #climate
     temp_list=["Believes in Climate Change"]+mid+["Disputes Climate Change"]
     climate = st.select_slider('Stance on Climate Change',temp_list,value="Neutral")
