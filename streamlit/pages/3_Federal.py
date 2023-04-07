@@ -31,39 +31,39 @@ for key, val in thing.items():
 
 
 
-# def get_icons(vallist):
-#     temp=""""""
-#     template="""<span class="fa-stack fa-2x">
-#         <i class="fa fa-idea fa-stack-1x"></i>
-#         <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
-#         </span>
-#         """
+def get_icons(vallist):
+    temp=""""""
+    template="""<span class="fa-stack fa-2x">
+        <i class="fa fa-idea fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+        </span>
+        """
 
-# #     vallist=list(file.iloc[name][4:9])
-#     vals=['abortion','gun_control','climate_change', 'immigration', 'healthcare']
-#     idea={'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
-#            'immigration':"child", 'healthcare':"stethoscope"}
-#     for i,val in zip(vallist,vals):
-#         #missing/dont know
-# #         print(j,idea[j])
+#     vallist=list(file.iloc[name][4:9])
+    vals=['abortion','gun_control','climate_change', 'immigration', 'healthcare']
+    idea={'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
+           'immigration':"child", 'healthcare':"stethoscope"}
+    for i,val in zip(vallist,vals):
+        #missing/dont know
+#         print(j,idea[j])
         
 
-#         #pro guns
-#         if i == 0:
-#             pass
-#         elif i==1:
-#             t1=template.replace("idea",idea[val])
-#             t1=t1.replace("Tomato","#ffffff00")
-#             temp = temp + t1
+        #pro guns
+        if i == 0:
+            pass
+        elif i==1:
+            t1=template.replace("idea",idea[val])
+            t1=t1.replace("Tomato","#ffffff00")
+            temp = temp + t1
 
-#         elif i ==-1:
+        elif i ==-1:
             
 
-#             t1=template.replace("idea",idea[val])
-# #             t1=t1.replace("Tomato","#ffffff00")
-#             temp = temp + t1
+            t1=template.replace("idea",idea[val])
+#             t1=t1.replace("Tomato","#ffffff00")
+            temp = temp + t1
 
-#     return temp
+    return temp
 
 # def create_card_update(name,i):
     
