@@ -246,7 +246,7 @@ def get_scores(user_position, df):
     tile = np.tile(p, (len(position_array),1))
     scores = abs((tile - position_array))
     sums = 10-np.sum(scores, 1)
-    filter_vals = np.unique(np.sort(sums)[0:6])
+    filter_vals = np.unique(np.sort(sums)[-6:])
     
     return sums
 
