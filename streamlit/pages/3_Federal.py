@@ -1,4 +1,5 @@
 # Libraries
+
 import streamlit as st
 import streamlit.components.v1 as components
 import pandas as pd
@@ -6,6 +7,7 @@ from PIL import Image
 import numpy as np
 # from streamlit_card import card
 # from IPython.core.display import HTML
+st.write(st.session_state)
 issues=["abortion","gun_control", "climate_change",  "immigration", "healthcare"]
 checked=[]
 party=''
