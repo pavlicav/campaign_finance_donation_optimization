@@ -164,22 +164,6 @@ with left_column:
         'Do you want to only see results from a certain state?',
         states)
 
-#     st.write('You selected:', option)
-#     lis=[""]*100
-
-#     zero=["Pro-Choice"]
-#     mid=[" "*i for i in range(98)]
-#     mid[49]="Neutral"
-#     last=["Pro-Life"]
-#     temp_list=zero+mid+last
-
-#     abortion = st.select_slider('Stance on Abortion',temp_list,value="Neutral",label_visibility="hidden")
-#     guncontrol = st.select_slider('Stance on Guns',["Pro","                 ","","Neutral","Anti"],value="Neutral")
-#     climate = st.select_slider('Stance on Climate Change',["Pro","Neutral","Anti"],value="Neutral")
-#     immigration = st.select_slider('Stance on Immigration',["Pro","Neutral","Anti"],value="Neutral")
-#     healthcare = st.select_slider('Stance on healthcare',["Pro","Neutral","Anti"],value="Neutral")
-#     issues = [abortion,guncontrol,climate,immigration,healthcare]
-#     st.write(len(abortion))
     #make numpy
     np_vals=np.arange(-1, 1, 0.02).tolist()
     np_vals[50]=0.0
@@ -226,14 +210,7 @@ def read_file():
 
     return data
 
-# def match(df,values):
-#     match = {}
-#     for index, row in df.iterrows():
-#         diff = 0
-#         for can_ideology, user_ideology in zip(row[4:].to_dict().values(), values):
-#             diff += abs(int(can_ideology) - int(user_ideology))
-#         match[index] = diff
-#     sorted_match = dict(sorted(match.items(), key=lambda item: item[1]))
+
 #     return list(sorted_match)[-6:]
 def get_scores(user_position, df):
     # Inputs:
@@ -289,21 +266,6 @@ with right_column:
     st.dataframe(tempdf)
     st.subheader('Candidates that best align with your views:')
     with st.container():
-#             data = read_file()
-#             good=[]
-#             for i in data.columns:
-#                 if i in checked:
-#                     good.append(1)
-#                 else:
-#                     good.append(0)
-#             good=good[4:]
-# #             # st.write(good)
-#             matches= match(data,good)
-#             matches=get_top_6(issues)
-#             st.dataframe(data=matches,use_container_width=True)
-#             # st.write(matches)
-
-#             newdf=data.loc[data.index[matches]]
 
         for i,row in tempdf.iterrows():
             #st.write(row['name'], row['district'],row['party'],row['name_'],[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']])
@@ -320,12 +282,8 @@ with right_column:
                 l=[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']]
                 st.write()
                 components.html(create_card_update(row['name'],row['district'],row['party'],row['name_'],l),width=300, height=700)
-#                     components.html(create_card_update(t,i),width=300, height=700)
+
             except:
                 st.write(create_card_update(row['name'],row['district'],row['party'],row['name_'],[1,0,-1,-1,-1]))
-
-
-
-
                 #st.write(f"Click here to donate to their campaign [{t} campaign](http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html)")
 
