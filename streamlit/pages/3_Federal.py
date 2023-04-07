@@ -66,7 +66,83 @@ def get_icons(name,file):
             temp = temp + t1
     return temp
 
-def create_card_update(name,i):
+# def create_card_update(name,i):
+    
+#     a="""<html>
+#     <head>
+#     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+#     <style>
+#     .card {
+#       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+#       max-width: 400px;
+#       margin: auto;
+#       text-align: center;
+#       font-family: arial;
+#     }
+
+#     .title {
+#       color: grey;
+#       font-size: 18px;
+#     }
+
+#     button {
+#       border: none;
+#       outline: 0;
+#       display: inline-block;
+#       padding: 8px;
+#       color: white;
+#       background-color: #000;
+#       text-align: center;
+#       cursor: pointer;
+#       width: 100%;
+#       font-size: 18px;
+#     }
+
+#     a {
+#       text-decoration: none;
+#       font-size: 22px;
+#       color: black;
+#     }
+
+#     button:hover, a:hover {
+#       opacity: 0.7;
+#     }
+#     </style>
+#     </head>
+#     <body>
+
+
+
+#     <div class="card">
+#       <img src="https://raw.githubusercontent.com/ramseybe/campaign_prototype/main/pages/person.jpeg" alt="person" width="100%" height="300">
+#       <h1>person</h1>
+#       <p class="title">district, party</p>
+#       <p></p>
+#       <div style="margin: 24px 0;">
+#         {}
+#       </div>
+#       <p ><button onclick="location.href='http://www.stackoverflow.com/'" type="button">Contact</button></p>
+#     </div>
+
+#     </body>
+#     </html>"""
+#     st.write(name)
+#     st.write(i)
+#     temp=get_icons(i,data)
+#     a=a.replace("{}",temp)
+    
+#     name=name.lower()
+#     name=name.replace("-","_")
+#     name=name.replace(" ","_")
+#     name=name.replace("'","")
+#     a=a.replace("person",name)
+# #     st.write(list(data.iloc[i])[0])
+#     a=a.replace("district",list(data.iloc[i])[0])
+#     a=a.replace("party",list(data.iloc[i])[3])
+    
+#     return a
+
+def create_card_update(name,dis,party,full):
     
     a="""<html>
     <head>
@@ -112,24 +188,25 @@ def create_card_update(name,i):
     <body>
 
 
-
     <div class="card">
       <img src="https://raw.githubusercontent.com/ramseybe/campaign_prototype/main/pages/person.jpeg" alt="person" width="100%" height="300">
-      <h1>person</h1>
-      <p class="title">district, party</p>
+      <h1>name</h1>
+      <p class="title"> district, party</p>
       <p></p>
       <div style="margin: 24px 0;">
-        {}
+        <span class="fa-stack fa-2x">
+        <i class="fa fa-gun fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+        </span>
       </div>
       <p ><button onclick="location.href='http://www.stackoverflow.com/'" type="button">Contact</button></p>
     </div>
-
     </body>
     </html>"""
-    st.write(name)
-    st.write(i)
-    temp=get_icons(i,data)
-    a=a.replace("{}",temp)
+#     st.write(name)
+#     st.write(i)
+#     temp=get_icons(name,data)
+#     a=a.replace("{}",temp)
     
     name=name.lower()
     name=name.replace("-","_")
@@ -137,9 +214,9 @@ def create_card_update(name,i):
     name=name.replace("'","")
     a=a.replace("person",name)
 #     st.write(list(data.iloc[i])[0])
-    a=a.replace("district",list(data.iloc[i])[0])
-    a=a.replace("party",list(data.iloc[i])[3])
-    
+    a=a.replace("district",dis)
+    a=a.replace("party",party)
+    a=a.replace("name",full)
     return a
 
 with left_column:
@@ -305,7 +382,8 @@ if st.button('Submit'):
                 
 #                 image = Image.open(f'streamlit/pages/can_pics/{t}.jpeg')
                 try:
-                    components.html(create_card_update(t,i),width=300, height=700)
+                    components.html(create_card_update(row['name'], row['district'],row['party'],row['name_']),width=300, height=700)
+#                     components.html(create_card_update(t,i),width=300, height=700)
                 except:
                     pass
 
