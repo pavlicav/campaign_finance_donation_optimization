@@ -270,14 +270,14 @@ def get_top_6(user_preferences):
     return top_6
 
 
-
-if st.button('Submit'):
-    tempdf=get_top_6(issues)
+tempdf=get_top_6(issues)
+# if st.button('Submit'):
+#     tempdf=get_top_6(issues)
     
-    with right_column:
-        st.dataframe(tempdf)
-        st.subheader('Candidates that best align with your views:')
-        with st.container():
+with right_column:
+    st.dataframe(tempdf)
+    st.subheader('Candidates that best align with your views:')
+    with st.container():
 #             data = read_file()
 #             good=[]
 #             for i in data.columns:
@@ -293,25 +293,25 @@ if st.button('Submit'):
 #             # st.write(matches)
 
 #             newdf=data.loc[data.index[matches]]
-            
-            for i,row in tempdf.iterrows():
-                #st.write(row['name'], row['district'],row['party'],row['name_'],[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']])
-                t=row['name']
-                t=t.replace(" ","_")
-                t=t.lower()
-                if row['party'] == 'R':
-                    party = 'Republican'
-                elif row['party'] == 'D':
-                    party = 'Democrat'
-                
+
+        for i,row in tempdf.iterrows():
+            #st.write(row['name'], row['district'],row['party'],row['name_'],[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']])
+            t=row['name']
+            t=t.replace(" ","_")
+            t=t.lower()
+            if row['party'] == 'R':
+                party = 'Republican'
+            elif row['party'] == 'D':
+                party = 'Democrat'
+
 #                 image = Image.open(f'streamlit/pages/can_pics/{t}.jpeg')
-                try:
-                    l=[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']]
-                    st.write()
-                    components.html(create_card_update(row['name'],row['district'],row['party'],row['name_'],l),width=300, height=700)
+            try:
+                l=[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']]
+                st.write()
+                components.html(create_card_update(row['name'],row['district'],row['party'],row['name_'],l),width=300, height=700)
 #                     components.html(create_card_update(t,i),width=300, height=700)
-                except:
-                    st.write(create_card_update(row['name'],row['district'],row['party'],row['name_'],[1,0,-1,-1,-1]))
+            except:
+                st.write(create_card_update(row['name'],row['district'],row['party'],row['name_'],[1,0,-1,-1,-1]))
 
 
 
