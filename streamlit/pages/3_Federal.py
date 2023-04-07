@@ -27,7 +27,7 @@ DATA_URL='https://raw.githubusercontent.com/ramseybe/hackathon_campaign/main/50_
 st.header("Make a Difference This Election!", )
 left_column, right_column = st.columns([3,5])
 
-# @st.cache_data
+@st.cache
 def load_data(file):
     data = pd.read_csv(file)
     data=data.drop(["Unnamed: 0"],axis=1)
