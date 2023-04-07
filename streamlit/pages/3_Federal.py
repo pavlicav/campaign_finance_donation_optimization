@@ -31,39 +31,39 @@ for key, val in thing.items():
 
 
 
-def get_icons(vallist):
-    temp=""""""
-    template="""<span class="fa-stack fa-2x">
-        <i class="fa fa-idea fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
-        </span>
-        """
+# def get_icons(vallist):
+#     temp=""""""
+#     template="""<span class="fa-stack fa-2x">
+#         <i class="fa fa-idea fa-stack-1x"></i>
+#         <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+#         </span>
+#         """
 
-#     vallist=list(file.iloc[name][4:9])
-    vals=['abortion','gun_control','climate_change', 'immigration', 'healthcare']
-    idea={'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
-           'immigration':"child", 'healthcare':"stethoscope"}
-    for i,val in zip(vallist,vals):
-        #missing/dont know
-#         print(j,idea[j])
+# #     vallist=list(file.iloc[name][4:9])
+#     vals=['abortion','gun_control','climate_change', 'immigration', 'healthcare']
+#     idea={'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
+#            'immigration':"child", 'healthcare':"stethoscope"}
+#     for i,val in zip(vallist,vals):
+#         #missing/dont know
+# #         print(j,idea[j])
         
-        print(i)
-        #pro guns
-        if i == 0:
-            pass
-        elif i==1:
-            t1=template.replace("idea",idea[val])
-            t1=t1.replace("Tomato","#ffffff00")
-            temp = temp + t1
 
-        elif i ==-1:
+#         #pro guns
+#         if i == 0:
+#             pass
+#         elif i==1:
+#             t1=template.replace("idea",idea[val])
+#             t1=t1.replace("Tomato","#ffffff00")
+#             temp = temp + t1
+
+#         elif i ==-1:
             
 
-            t1=template.replace("idea",idea[val])
-#             t1=t1.replace("Tomato","#ffffff00")
-            temp = temp + t1
+#             t1=template.replace("idea",idea[val])
+# #             t1=t1.replace("Tomato","#ffffff00")
+#             temp = temp + t1
 
-    return temp
+#     return temp
 
 # def create_card_update(name,i):
     
@@ -141,7 +141,7 @@ def get_icons(vallist):
     
 #     return a
 
-def create_card_update(person,dis,party,full,v):
+def create_card_update(person,dis,party,full):
     
     a="""<html>
     <head>
@@ -202,8 +202,8 @@ def create_card_update(person,dis,party,full,v):
     </html>"""
 #     st.write(name)
 #     st.write(i)
-    temp=get_icons(v)
-    a=a.replace("{}",temp)
+#     temp=get_icons(v)
+#     a=a.replace("{}",temp)
     
     name=name.lower()
     name=name.replace("-","_")
@@ -369,7 +369,7 @@ if st.button('Submit'):
 #             newdf=data.loc[data.index[matches]]
             
             for i,row in tempdf.iterrows():
-                st.write(row['name'], row['district'],row['party'],row['name_'],[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']])
+#                 st.write(row['name'], row['district'],row['party'],row['name_'],[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']])
                 t=row['name']
                 t=t.replace(" ","_")
                 t=t.lower()
