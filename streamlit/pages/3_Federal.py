@@ -383,7 +383,7 @@ if st.button('Submit'):
                     components.html(create_card_update(create_card_update(row['name'],row['district'],row['party'],row['name_'],[1,0,-1,-1,-1])),width=300, height=700)
 #                     components.html(create_card_update(t,i),width=300, height=700)
                 except:
-                    pass
+                    st.write(create_card_update(create_card_update(row['name'],row['district'],row['party'],row['name_'],[1,0,-1,-1,-1]))
 
 
 
