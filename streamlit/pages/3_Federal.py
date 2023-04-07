@@ -7,12 +7,14 @@ from PIL import Image
 import numpy as np
 # from streamlit_card import card
 # from IPython.core.display import HTML
-# st.write(st.session_state)
 
-# if 'key' not in st.session_state:
-#     st.session_state['key'] = 'value'
-# if 'key' not in st.session_state:
-#     st.session_state.key = 'value'
+
+if 'key' not in st.session_state:
+    st.session_state['key'] = 'value'
+if 'key' not in st.session_state:
+    st.session_state.key = 'value'
+    
+st.write(st.session_state)
     
 # st.write(st.session_state.key)
 issues=["abortion","gun_control", "climate_change",  "immigration", "healthcare"]
