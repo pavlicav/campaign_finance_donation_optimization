@@ -246,7 +246,7 @@ def get_scores(user_position, df):
     tile = np.tile(p, (len(position_array),1))
     scores = abs((tile - position_array))
     sums = 10-np.sum(scores, 1)
-    filter_vals = np.unique(np.sort(sums)[-6:])
+    filter_vals = np.unique(np.sort(sums)[0:6])
     
     return sums
 
@@ -266,7 +266,7 @@ def get_top_6(user_preferences):
     sums = get_scores(user_preferences, positions)
     positions["score"] = sums
 
-    top_6 = positions.sort_values(by = ["score", "tipping"], ascending = False).iloc[0:6].reset_index(drop = True)
+    top_6 = positions.sort_values(by = ["score", "tipping"], ascending = True).iloc[0:6].reset_index(drop = True)
 #     top_6.to_csv(save_as)
     return top_6
 
