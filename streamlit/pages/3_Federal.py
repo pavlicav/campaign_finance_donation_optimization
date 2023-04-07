@@ -349,7 +349,7 @@ if st.button('Submit'):
     tempdf=get_top_6(issues)
     
     with right_column:
-        st.dataframe(tempdf)
+#         st.dataframe(tempdf)
         st.subheader('Candidates that best align with your views:')
         with st.container():
 #             data = read_file()
