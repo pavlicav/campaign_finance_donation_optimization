@@ -40,7 +40,7 @@ def get_icons(vallist):
         """
 
 #     vallist=list(file.iloc[name][4:9])
-    vals=['abortion','gun_control','climate_change', 'immigration', 'healthcare']
+    vals=['gun_control','healthcare','abortion','climate_change', 'immigration' ]
     idea={'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
            'immigration':"child", 'healthcare':"stethoscope"}
     for i,val in zip(vallist,vals):
@@ -51,12 +51,12 @@ def get_icons(vallist):
         #pro guns
         if i == 0:
             pass
-        elif i==1:
+        elif i==-1:
             t1=template.replace("idea",idea[val])
             t1=t1.replace("Tomato","#ffffff00")
             temp = temp + t1
 
-        elif i ==-1:
+        elif i ==1:
             
 
             t1=template.replace("idea",idea[val])
@@ -171,7 +171,7 @@ with left_column:
 #     issues = [abortion,guncontrol,climate,immigration,healthcare]
 #     st.write(len(abortion))
     #make numpy
-    np_vals=np.arange(-1, 1, 0.02).tolist()
+    np_vals=np.arange(1, -1, 0.02).tolist()
     np_vals[50]=0.0
     np_vals[99]=1.0
     #make list
