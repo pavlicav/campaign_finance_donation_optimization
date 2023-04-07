@@ -213,7 +213,7 @@ def create_card_update(person,dis,party,full,v):
 #     st.write(list(data.iloc[i])[0])
     a=a.replace("district",dis)
     a=a.replace("party",party)
-    a=a.replace("name",full)
+    a=a.replace("full",full)
     
     return a
 
@@ -380,7 +380,7 @@ if st.button('Submit'):
                 
 #                 image = Image.open(f'streamlit/pages/can_pics/{t}.jpeg')
                 try:
-                    components.html(create_card_update(create_card_update(row['name'],row['district'],party,row['name_'],[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']])),width=300, height=700)
+                    components.html(create_card_update(create_card_update(row['name'],row['district'],row['party'],row['name_'],[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']])),width=300, height=700)
 #                     components.html(create_card_update(t,i),width=300, height=700)
                 except:
                     pass
