@@ -9,12 +9,12 @@ import numpy as np
 # from IPython.core.display import HTML
 
 
-if 'key' not in st.session_state:
-    st.session_state['key'] = 'value'
-if 'key' not in st.session_state:
-    st.session_state.key = 'value1'
+# if 'key' not in st.session_state:
+#     st.session_state['key'] = 'value'
+# if 'key' not in st.session_state:
+#     st.session_state.key = 'value1'
     
-st.write(st.session_state)
+# st.write(st.session_state)
     
 # st.write(st.session_state.key)
 issues=["abortion","gun_control", "climate_change",  "immigration", "healthcare"]
