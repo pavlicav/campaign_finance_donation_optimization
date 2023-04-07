@@ -9,12 +9,12 @@ import numpy as np
 # from IPython.core.display import HTML
 # st.write(st.session_state)
 
-if 'key' not in st.session_state:
-    st.session_state['key'] = 'value'
-if 'key' not in st.session_state:
-    st.session_state.key = 'value'
+# if 'key' not in st.session_state:
+#     st.session_state['key'] = 'value'
+# if 'key' not in st.session_state:
+#     st.session_state.key = 'value'
     
-st.write(st.session_state.key)
+# st.write(st.session_state.key)
 issues=["abortion","gun_control", "climate_change",  "immigration", "healthcare"]
 checked=[]
 party=''
@@ -25,7 +25,7 @@ DATA_URL='https://raw.githubusercontent.com/ramseybe/hackathon_campaign/main/50_
 st.header("Make a Difference This Election!", )
 left_column, right_column = st.columns([3,5])
 
-@st.cache
+@st.cache_data
 def load_data(file):
     data = pd.read_csv(file)
     data=data.drop(["Unnamed: 0"],axis=1)
