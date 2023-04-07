@@ -205,11 +205,11 @@ def create_card_update(person,dis,party,full,v):
 #     temp=get_icons(v)
 #     a=a.replace("{}",temp)
     
-    name=name.lower()
+    name=person.lower()
     name=name.replace("-","_")
     name=name.replace(" ","_")
     name=name.replace("'","")
-    a=a.replace("person",person)
+    a=a.replace("person",name)
 #     st.write(list(data.iloc[i])[0])
     a=a.replace("district",dis)
     a=a.replace("party",party)
