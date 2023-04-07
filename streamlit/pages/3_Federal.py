@@ -31,7 +31,7 @@ for key, val in thing.items():
 
 
 
-def get_icons(name,file):
+def get_icons(vallist):
     temp=""""""
     template="""<span class="fa-stack fa-2x">
         <i class="fa fa-idea fa-stack-1x"></i>
@@ -39,31 +39,30 @@ def get_icons(name,file):
         </span>
         """
 
-    vallist=list(file.iloc[name][4:9])
-
+#     vallist=list(file.iloc[name][4:9])
+    vals=['abortion','gun_control','climate_change', 'immigration', 'healthcare']
     idea={'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
            'immigration':"child", 'healthcare':"stethoscope"}
-    for i,j in zip(vallist,idea):
+    for i,val in zip(vallist,vals):
         #missing/dont know
-        #print(j,idea[j])
-        if i==0:
+#         print(j,idea[j])
+        
+        print(i)
+        #pro guns
+        if i == 0:
             pass
-
-        #against 
-        #need icon
-        #color= clear
-        #change to -1
-        if i == -1:
-            t1=template.replace("idea",idea[j])
+        elif i==1:
+            t1=template.replace("idea",idea[val])
             t1=t1.replace("Tomato","#ffffff00")
             temp = temp + t1
-        #pro
-        #need icon
-        #color= tomato
-        elif i ==1:
 
-            t1=template.replace("idea",idea[j])
+        elif i ==-1:
+            
+
+            t1=template.replace("idea",idea[val])
+#             t1=t1.replace("Tomato","#ffffff00")
             temp = temp + t1
+
     return temp
 
 # def create_card_update(name,i):
@@ -142,7 +141,7 @@ def get_icons(name,file):
     
 #     return a
 
-def create_card_update(name,dis,party,full):
+def create_card_update(name,dis,party,full,v):
     
     a="""<html>
     <head>
@@ -194,9 +193,7 @@ def create_card_update(name,dis,party,full):
       <p class="title"> district, party</p>
       <p></p>
       <div style="margin: 24px 0;">
-        <span class="fa-stack fa-2x">
-        <i class="fa fa-gun fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+        {}
         </span>
       </div>
       <p ><button onclick="location.href='http://www.stackoverflow.com/'" type="button">Contact</button></p>
@@ -205,8 +202,8 @@ def create_card_update(name,dis,party,full):
     </html>"""
 #     st.write(name)
 #     st.write(i)
-#     temp=get_icons(name,data)
-#     a=a.replace("{}",temp)
+    temp=get_icons(v)
+    a=a.replace("{}",temp)
     
     name=name.lower()
     name=name.replace("-","_")
@@ -217,6 +214,7 @@ def create_card_update(name,dis,party,full):
     a=a.replace("district",dis)
     a=a.replace("party",party)
     a=a.replace("name",full)
+    
     return a
 
 with left_column:
@@ -382,7 +380,7 @@ if st.button('Submit'):
                 
 #                 image = Image.open(f'streamlit/pages/can_pics/{t}.jpeg')
                 try:
-                    components.html(create_card_update(row['name'], row['district'],row['party'],row['name_']),width=300, height=700)
+                    components.html(create_card_update(create_card_update(row['name'],row['district'],row['party'],row['name_'],[row['gun_control'],row['healthcare'],row['abortion'],row[ 'climate_change'],row['immigration_daca']])),width=300, height=700)
 #                     components.html(create_card_update(t,i),width=300, height=700)
                 except:
                     pass
