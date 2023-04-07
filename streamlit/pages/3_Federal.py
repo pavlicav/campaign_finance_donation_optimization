@@ -380,10 +380,10 @@ if st.button('Submit'):
                 
 #                 image = Image.open(f'streamlit/pages/can_pics/{t}.jpeg')
                 try:
-                    components.html(create_card_update(row['name'],row['district'],row['party'],row['name_'],[1,0,-1,-1,-1])),width=300, height=700))
+                    components.html(create_card_update(row['name'],row['district'],row['party'],row['name_'],[1,0,-1,-1,-1]),width=300, height=700)
 #                     components.html(create_card_update(t,i),width=300, height=700)
                 except:
-                    st.write(create_card_update(row['name'],row['district'],row['party'],row['name_'],[1,0,-1,-1,-1] ))
+                    st.write(create_card_update(row['name'],row['district'],row['party'],row['name_'],[1,0,-1,-1,-1]))
 
 
 
