@@ -294,7 +294,7 @@ if st.button('Submit'):
 #             newdf=data.loc[data.index[matches]]
             
             for i,row in tempdf.iterrows():
-
+                st.write(row['name'], row['district'],row['party'],row['name_'])
                 t=row['name']
                 t=t.replace(" ","_")
                 t=t.lower()
