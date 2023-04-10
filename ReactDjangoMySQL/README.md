@@ -8,7 +8,6 @@ npm (which comes bundled with Node.js)
 Installation
 Clone the repository by running the following command in your terminal:
 
-
 git clone https://github.com/pavlicag/campaign_finance_donation_optimization/tree/main/ReactDjangoMySQL
 Change into the project directory:
 
@@ -27,7 +26,6 @@ In the project directory, start the Django development server:
 python manage.py runserver
 
 In another terminal window, start the React development server:
-
 
 npm start
 
