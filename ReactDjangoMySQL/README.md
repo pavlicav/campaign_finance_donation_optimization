@@ -5,7 +5,7 @@ Before running the application, make sure you have the following software instal
 Python 3.6 or higher
 Node.js 14 or higher
 npm (which comes bundled with Node.js)
-Installation
+# Installation
 Clone the repository by running the following command in your terminal:
 
 git clone https://github.com/pavlicag/campaign_finance_donation_optimization/tree/main/ReactDjangoMySQL
