@@ -52,6 +52,3 @@ The dataset that is being used to build the application includes information of 
   1 = does not support requiring unlawful immigrants to return to country of origin <br />
 
 For candidates who do not have stances on any of the above ideologies or information could not be found, the values are -1 for each corresponding candidates and ideologies.
-
-## Programs
-getWinnersImg.py : Outputs photo for everyone in 117th Congress in folder labeled as 'congress_photos'. Noteable exceptions for 2022 are: ('Josh Harder', 'H001090'), ('Lou Correa', 'C001110'), ('Darren Soto', 'S001200'), ('Darin LaHood', 'L000585'), ('Larry Bucshon', 'B001275'), ('Ashley Hinson', 'H001091'), ('Garret Graves', 'G000577'), ('Josh Gottheimer', 'G000583'), ('Warren Davidson', 'D000626'), ('Troy Balderson', 'B001306'), ('Diana Harshbarger', 'H001086'), ('Beth Van Duyne', 'V000134'), ('Michael Cloud', 'C001115'), ('Bob Good', '456853') where it is formatted (Name, bioguide_id)
