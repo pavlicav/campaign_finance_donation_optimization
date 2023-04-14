@@ -2,7 +2,7 @@
 
 import streamlit as st
 import streamlit.components.v1 as components
-# from streamlit_custom_slider import st_custom_slider
+from streamlit_custom_slider import st_custom_slider
 import pandas as pd
 from PIL import Image
 import numpy as np
