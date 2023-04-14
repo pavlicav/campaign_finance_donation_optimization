@@ -13,7 +13,7 @@ opensecrets = '[OpenSecrets](https://www.opensecrets.org/elections-overview)'
 st.markdown(opensecrets, unsafe_allow_html=True)
 
 st.subheader('Please give us feedback:')
-feedback = '[Feedback](http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html)'
+feedback = '[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSe7bp8Yx--qFun6QukWljqoH7BjJzTmhxY2iSEMg3fmRyoF0w/viewform?usp=sf_link)'
 st.markdown(feedback, unsafe_allow_html=True)
 
 
