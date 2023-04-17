@@ -256,6 +256,9 @@ def get_top_6(user_preferences,state="N/A"):
     if state == "N/A":
         top_6 = positions.sort_values(by = ["score", "tipping"], ascending = True).iloc[0:6].reset_index(drop = True)
 #     top_6.to_csv(save_as)
+    else:
+        temp = positions[positions["district"].str.contains(state)]
+        top_6 = temp.sort_values(by = ["score", "tipping"], ascending = True).iloc[0:6].reset_index(drop = True)
     return top_6
 
 
