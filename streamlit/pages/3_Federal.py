@@ -238,7 +238,7 @@ def get_scores(user_position, df):
     
     return sums
 
-def get_top_6(user_preferences):
+def get_top_6(user_preferences,state="N/A"):
     
     finance_data = "538_FEC_Won_Opponent_Combined_Dataset.csv"
     position_data = "files/top100_top5.csv"
@@ -253,13 +253,13 @@ def get_top_6(user_preferences):
     positions = positions.join(df, rsuffix="_")
     sums = get_scores(user_preferences, positions)
     positions["score"] = sums
-
-    top_6 = positions.sort_values(by = ["score", "tipping"], ascending = True).iloc[0:6].reset_index(drop = True)
+    if state == "N/A":
+        top_6 = positions.sort_values(by = ["score", "tipping"], ascending = True).iloc[0:6].reset_index(drop = True)
 #     top_6.to_csv(save_as)
     return top_6
 
 
-tempdf=get_top_6(issues)
+tempdf=get_top_6(issues,states)
 # if st.button('Submit'):
 #     tempdf=get_top_6(issues)
     
