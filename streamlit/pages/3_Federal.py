@@ -259,7 +259,7 @@ def get_top_6(user_preferences,state="N/A"):
     return top_6
 
 
-tempdf=get_top_6(issues,states)
+tempdf=get_top_6(issues,option)
 # if st.button('Submit'):
 #     tempdf=get_top_6(issues)
     
