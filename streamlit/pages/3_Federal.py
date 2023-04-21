@@ -192,7 +192,7 @@ with left_column:
                      <i class="fa fa-suitcase-medical fa-stack-1x"></i>
                     <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
                     </span>
-                    """,height =30)
+                    """,height =40)
     abortion = np_vals[temp_list.index(abortion)]
     #     'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
 #            'immigration':"child", 'healthcare':"stethoscope"
@@ -215,7 +215,7 @@ with left_column:
                      <i class="fa fa-gun fa-stack-1x"></i>
                     <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
                     </span>
-                    """,height =60)
+                    """,height =40)
     #climate
     temp_list=["Believes in Climate Change"]+mid+["Disputes Climate Change"]
     climate = st.select_slider('Stance on Climate Change',temp_list,value="Neutral")
@@ -238,7 +238,7 @@ with left_column:
     climate= np_vals[temp_list.index(climate)]
     #immigration
     temp_list=["Open Border"]+mid+["Closed Border"]
-    immigration = st.select_slider('Stance on Immigration',temp_list,value="Neutral",label_visibility="hidden")
+    immigration = st.select_slider('Stance on Immigration',temp_list,value="Neutral")
     components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
                     <span class="fa-stack fa-1x">
                      <i class="fa fa-child fa-stack-1x"></i>
@@ -254,94 +254,30 @@ with left_column:
                      <i class="fa fa-child fa-stack-1x"></i>
                     <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
                     </span>
-                    """,height =50)
+                    """,height =40)
     immigration= np_vals[temp_list.index(immigration)]
     #healthcare
     temp_list=["Socalized Healthcare"]+mid+["Private Healthcare"]
     healthcare = st.select_slider('Stance on healthcare',temp_list,value="Neutral")
+    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+                    <span class="fa-stack fa-1x">
+                     <i class="fa fa-stethoscope fa-stack-1x"></i>
+                    <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
+                    </span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="fa-stack fa-1x">
+                     <i class="fa fa-stethoscope fa-stack-1x"></i>
+                    <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+                    </span>
+                    """,height =40)
     healthcare= np_vals[temp_list.index(healthcare)]
     issues = [abortion,guncontrol,climate,immigration,healthcare]
-    st.write("Key")
-
-    st.write("Pro-Choice")
-    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-                    <span class="fa-stack fa-1x">
-                     <i class="fa fa-suitcase-medical fa-stack-1x"></i>
-                    <i class="fas fa-ban fa-stack-1x" style="color:#ffffff00"></i>
-                    </span>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <span class="fa-stack fa-1x">
-                     <i class="fa fa-suitcase-medical fa-stack-1x"></i>
-                    <i class="fas fa-ban fa-stack-1x" style="color:Tomato"></i>
-                    </span>
-                    """)
-    st.write("Pro-Life")
-    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-        <span class="fa-stack fa-2x">
-         <i class="fa fa-suitcase-medical fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
-        </span>
-        """)
-    st.write("Gun Control")
-    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-        <span class="fa-stack fa-2x">
-         <i class="fa fa-gun fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
-        </span>
-        """)
-    st.write("Gun Rights")
-    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-        <span class="fa-stack fa-2x">
-         <i class="fa fa-gun fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
-        </span>
-        """)
-    #["Believes in Climate Change"]+mid+["Disputes Climate Change"]
-    st.write("Believes in Climate Change")
-    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-        <span class="fa-stack fa-2x">
-         <i class="fa fa-leaf fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
-        </span>
-        """)
-    st.write("Disputes Climate Change")
-    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-        <span class="fa-stack fa-2x">
-         <i class="fa fa-leaf fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
-        </span>
-        """)
-    st.write("Open Border")
-    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-        <span class="fa-stack fa-2x">
-         <i class="fa fa-child fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
-        </span>
-        """)
-    st.write("Closed Border")
-    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-        <span class="fa-stack fa-2x">
-         <i class="fa fa-child fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
-        </span>
-        """)
     
-    st.write("Socalized Healthcare")
-    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-        <span class="fa-stack fa-2x">
-         <i class="fa fa-stethoscope fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
-        </span>
-        """)
-    st.write("Private Healthcare")
-    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-        <span class="fa-stack fa-2x">
-         <i class="fa fa-stethoscope fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
-        </span>
-        """)
     #st.write(issues)
     
 
