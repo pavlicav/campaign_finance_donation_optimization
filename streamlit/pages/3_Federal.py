@@ -191,7 +191,7 @@ with left_column:
         <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
         </span>
         """
-    components.html(abr,width=200, height=200)
+    components.html(abr)
     #guns
     temp_list=["Gun Control"]+mid+["Gun Rights"]
     guncontrol = st.select_slider('Stance on Guns',temp_list,value="Neutral")
