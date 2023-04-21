@@ -176,7 +176,8 @@ with left_column:
     temp_list=["Pro-Choice"]+mid+["Pro-Life"]
     abortion = st.select_slider('Stance on Abortion',temp_list,value="Neutral")
     abortion = np_vals[temp_list.index(abortion)]
-    abr= """<span class="fa-stack fa-2x">
+    abr= """<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        <span class="fa-stack fa-2x">
          <i class="fa fa-gun fa-stack-1x"></i>
         <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
         </span>
