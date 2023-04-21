@@ -200,18 +200,75 @@ with left_column:
     issues = [abortion,guncontrol,climate,immigration,healthcare]
     st.write("Key")
 
-
     st.write("Pro-Choice")
     components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
         <span class="fa-stack fa-2x">
          <i class="fa fa-suitcase-medical fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
         </span>
         """)
     st.write("Pro-Life")
     components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
         <span class="fa-stack fa-2x">
          <i class="fa fa-suitcase-medical fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+        </span>
+        """)
+    st.write("Gun Control")
+    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        <span class="fa-stack fa-2x">
+         <i class="fa fa-gun fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
+        </span>
+        """)
+    st.write("Gun Rights")
+    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        <span class="fa-stack fa-2x">
+         <i class="fa fa-gun fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+        </span>
+        """)
+    #["Believes in Climate Change"]+mid+["Disputes Climate Change"]
+    st.write("Believes in Climate Change")
+    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        <span class="fa-stack fa-2x">
+         <i class="fa fa-leaf fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
+        </span>
+        """)
+    st.write("Disputes Climate Change")
+    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        <span class="fa-stack fa-2x">
+         <i class="fa fa-leaf fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+        </span>
+        """)
+    st.write("Open Border")
+    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        <span class="fa-stack fa-2x">
+         <i class="fa fa-child fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
+        </span>
+        """)
+    st.write("Closed Border")
+    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        <span class="fa-stack fa-2x">
+         <i class="fa fa-child fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+        </span>
+        """)
+    
+    st.write("Socalized Healthcare")
+    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        <span class="fa-stack fa-2x">
+         <i class="fa fa-stethoscope fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
+        </span>
+        """)
+    st.write("Private Healthcare")
+    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        <span class="fa-stack fa-2x">
+         <i class="fa fa-stethoscope fa-stack-1x"></i>
         <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
         </span>
         """)
