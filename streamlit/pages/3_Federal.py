@@ -191,7 +191,7 @@ with left_column:
         <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
         </span>
         """
-    space = " "*100
+    space = " "*1000
     components.html(f"{abr}{space}{abr1}")
     #guns
     temp_list=["Gun Control"]+mid+["Gun Rights"]
