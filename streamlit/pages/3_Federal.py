@@ -192,7 +192,7 @@ with left_column:
                      <i class="fa fa-suitcase-medical fa-stack-1x"></i>
                     <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
                     </span>
-                    """,height =40)
+                    """,height =30)
     abortion = np_vals[temp_list.index(abortion)]
     #     'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
 #            'immigration':"child", 'healthcare':"stethoscope"
