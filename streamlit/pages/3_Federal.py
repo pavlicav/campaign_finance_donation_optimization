@@ -185,13 +185,13 @@ with left_column:
         </span>
         """
     components.html(abr)
-    abr= """<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    abr1= """<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
         <span class="fa-stack fa-2x">
          <i class="fa fa-suitcase-medical fa-stack-1x"></i>
         <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
         </span>
         """
-    components.html(abr)
+    components.html(abr,abr1)
     #guns
     temp_list=["Gun Control"]+mid+["Gun Rights"]
     guncontrol = st.select_slider('Stance on Guns',temp_list,value="Neutral")
