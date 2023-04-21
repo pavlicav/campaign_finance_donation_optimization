@@ -234,7 +234,7 @@ with left_column:
                      <i class="fa fa-leaf fa-stack-1x"></i>
                     <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
                     </span>
-                    """,height =50)
+                    """,height =40)
     climate= np_vals[temp_list.index(climate)]
     #immigration
     temp_list=["Open Border"]+mid+["Closed Border"]
