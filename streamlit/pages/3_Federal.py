@@ -172,17 +172,26 @@ with left_column:
     #make list
     mid=[" "*i for i in range(98)]
     mid[49]="Neutral"
+#     'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
+#            'immigration':"child", 'healthcare':"stethoscope"
     #abortion
     temp_list=["Pro-Choice"]+mid+["Pro-Life"]
     abortion = st.select_slider('Stance on Abortion',temp_list,value="Neutral")
     abortion = np_vals[temp_list.index(abortion)]
     abr= """<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
         <span class="fa-stack fa-2x">
-         <i class="fa fa-gun fa-stack-1x"></i>
+         <i class="fa fa-suitcase-medical fa-stack-1x"></i>
         <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
         </span>
         """
-    components.html(abr,width=300, height=700)
+    components.html(abr,width=200, height=200)
+    abr= """<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        <span class="fa-stack fa-2x">
+         <i class="fa fa-suitcase-medical fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
+        </span>
+        """
+    components.html(abr,width=200, height=200)
     #guns
     temp_list=["Gun Control"]+mid+["Gun Rights"]
     guncontrol = st.select_slider('Stance on Guns',temp_list,value="Neutral")
