@@ -177,6 +177,19 @@ with left_column:
     #abortion
     temp_list=["Pro-Choice"]+mid+["Pro-Life"]
     abortion = st.select_slider('Stance on Abortion',temp_list,value="Neutral")
+    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+                    <span class="fa-stack fa-2x">
+                     <i class="fa fa-suitcase-medical fa-stack-1x"></i>
+                    <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
+                    </span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="fa-stack fa-2x">
+                     <i class="fa fa-suitcase-medical fa-stack-1x"></i>
+                    <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+                    </span>
+                    """)
     abortion = np_vals[temp_list.index(abortion)]
     #     'abortion':'suitcase-medical', 'gun_control':'gun', 'climate_change':"leaf", 
 #            'immigration':"child", 'healthcare':"stethoscope"
@@ -206,6 +219,8 @@ with left_column:
                      <i class="fa fa-suitcase-medical fa-stack-1x"></i>
                     <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
                     </span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <span class="fa-stack fa-2x">
                      <i class="fa fa-suitcase-medical fa-stack-1x"></i>
