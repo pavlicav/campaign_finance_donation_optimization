@@ -202,11 +202,15 @@ with left_column:
 
     st.write("Pro-Choice")
     components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-        <span class="fa-stack fa-2x">
-         <i class="fa fa-suitcase-medical fa-stack-1x"></i>
-        <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
-        </span>
-        """)
+                    <span class="fa-stack fa-2x">
+                     <i class="fa fa-suitcase-medical fa-stack-1x"></i>
+                    <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
+                    </span>
+                    <span class="fa-stack fa-2x">
+                     <i class="fa fa-suitcase-medical fa-stack-1x"></i>
+                    <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+                    </span>
+                    """)
     st.write("Pro-Life")
     components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
         <span class="fa-stack fa-2x">
