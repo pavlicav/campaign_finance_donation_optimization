@@ -186,6 +186,7 @@ with left_column:
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <span class="fa-stack fa-1x">
                      <i class="fa fa-suitcase-medical fa-stack-1x"></i>
                     <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
@@ -199,6 +200,21 @@ with left_column:
     temp_list=["Gun Control"]+mid+["Gun Rights"]
     guncontrol = st.select_slider('Stance on Guns',temp_list,value="Neutral")
     guncontrol= np_vals[temp_list.index(guncontrol)]
+    components.html("""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+                    <span class="fa-stack fa-1x">
+                     <i class="fa fa-gun fa-stack-1x"></i>
+                    <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+                    </span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="fa-stack fa-1x">
+                     <i class="fa fa-gun fa-stack-1x"></i>
+                    <i class="fas fa-ban fa-stack-2x" style="color:#ffffff00"></i>
+                    </span>
+                    """,height =60)
     #climate
     temp_list=["Believes in Climate Change"]+mid+["Disputes Climate Change"]
     climate = st.select_slider('Stance on Climate Change',temp_list,value="Neutral")
