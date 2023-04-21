@@ -176,6 +176,12 @@ with left_column:
     temp_list=["Pro-Choice"]+mid+["Pro-Life"]
     abortion = st.select_slider('Stance on Abortion',temp_list,value="Neutral")
     abortion = np_vals[temp_list.index(abortion)]
+    abr= """<span class="fa-stack fa-2x">
+         <i class="fa fa-gun fa-stack-1x"></i>
+        <i class="fas fa-ban fa-stack-2x" style="color:Tomato"></i>
+        </span>
+        """
+    components.html(abr,width=300, height=700)
     #guns
     temp_list=["Gun Control"]+mid+["Gun Rights"]
     guncontrol = st.select_slider('Stance on Guns',temp_list,value="Neutral")
