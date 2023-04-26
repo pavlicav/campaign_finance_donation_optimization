@@ -35,10 +35,10 @@ def load_data(file):
     dict = data.to_dict()
     return dict
 
-thing = load_data(DATA_URL)
-for key, val in thing.items():
-    needed = val
-    break
+#thing = load_data(DATA_URL)
+# for key, val in thing.items():
+#     needed = val
+#     break
 
 
 
