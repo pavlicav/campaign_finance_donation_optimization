@@ -1,4 +1,4 @@
-# CMSE 495 - Campaign Finance Project
+# Campaign Finance
 ![Image failed to load, click here to see](flowchart.jpg?raw)
 
 
