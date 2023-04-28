@@ -7,15 +7,8 @@ Team Members - Thao Nguyen, John Okoniewski, Vivian Pavlica, Ben Ramsey, Gregory
 ## Web App
 https://pavlicag-campaign-finance-donation-optimiz-streamlitmain-iuzsxf.streamlit.app/
 
-[[Watch the proposal video](https://youtu.be/0gkptmWfgPM)]
-
-
-<img src="https://img.youtube.com/vi/0gkptmWfgPM/maxresdefault.jpg" width="30%">
-
-
-[[Watch the closed loop video](https://youtu.be/sITk6x0mjf8)]
-
-
+# Project Video
+[[Watch video](https://youtu.be/0gkptmWfgPM)]
 <img src="https://youtu.be/sITk6x0mjf8/maxresdefault.jpg" width="30%">
 
 
