@@ -1,5 +1,5 @@
 # CMSE 495 - Campaign Finance Project
-![Image failed to load, click here to see](flowchart.pdf?raw=true "Optional Title")
+![Image failed to load, click here to see](flowchart.jpg?raw)
 
 
 Sponsor - Dr. Randal Olsen
@@ -9,11 +9,9 @@ Team Members - Thao Nguyen, John Okoniewski, Vivian Pavlica, Ben Ramsey, Gregory
 ## Web App
 https://pavlicag-campaign-finance-donation-optimiz-streamlitmain-iuzsxf.streamlit.app/
 
-# Project Video
-[[Watch video](https://youtu.be/0gkptmWfgPM)]
-<img src="https://youtu.be/sITk6x0mjf8/maxresdefault.jpg" width="30%">
-
-
+## Project Video
+[[Watch video](https://youtube.com)]
+<img src="https://youtube.com" width="30%">
 
 ## Objective
 The purpose of the application is to allow users of the website to be able to select political issues that are important to them and match with candidates that could benefit the most from their donation.
