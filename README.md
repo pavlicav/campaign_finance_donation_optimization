@@ -1,5 +1,5 @@
 # CMSE 495 - Campaign Finance Project
-![flowchart](https://github.com/pavlicag/campaign_finance_donation_optimization/raw/main/flowchart.png)
+![Image failed to load, click here to see](flowchart.pdf?raw=true "Optional Title")
 
 
 Sponsor - Dr. Randal Olsen
