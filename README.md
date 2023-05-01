@@ -11,7 +11,7 @@ The purpose of this project is to address these challenges by providing a platfo
 [![Launch our Streamlit!]()](https://pavlicag-campaign-finance-donation-optimiz-streamlitmain-iuzsxf.streamlit.app/)
 
 ## Visual Explanation
-<img src="https://youtube.com" width="100%">
+<img src="https://youtu.be/GvZMf1gddpg" width="100%">
 
 ## IP Agreement
 This repository includes the group's Intellectual Property (IP) Agreement which specifies the distribution of rights to the contents of this repository. 
